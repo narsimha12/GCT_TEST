@@ -1,0 +1,445 @@
+{
+    "name": "General Competency Test",
+    "section": [
+        {
+            "name": "Aptitude Test",
+            "subsection": [
+                {
+                    "name": "A1 : Sentences",
+                    "questions": [
+                        {
+                            "question": "I'm off for two weeks at August.",
+                            "options": [
+                                "~I'm off for two weeks at August.", 
+                                "=I'm off for two weeks in August.",
+                                "~I'm off for two weeks on August.",
+                                "~I'm off for two weeks between August."
+                            ],
+                            "id" : "1"
+                        },
+                        {
+                            "question": "Another way of saying 'old-fashioned' is 'beside the times'.",
+                            "options": [
+                                "~Another way of saying 'old-fashioned' is 'beside the times'.",
+                                "=Another way of saying 'old-fashioned' is 'behind the times'.",
+                                "~Another way of saying 'old-fashioned' is 'outside the times'.",
+                                "~Another way of saying 'old-fashioned' is 'before the times'."
+                            ],
+                            "id" : "2"
+                        },
+                        {
+                            "question": "Do you have pen I could borrow?",
+                            "options": [
+                                "~Do you have pen I could borrow?",
+                                "~Do you have the pen I could borrow?",
+                                "~Do you have an pen I could borrow?",
+                                "=Do you have a pen I could borrow?"
+                            ],
+                            "id" : "3"
+                        },
+                        {
+                            "question": "Do you remember exact date when the war started?",
+                            "options": [
+                                "~Do you remember exact date when the war started?",
+                                "=Do you remember the exact date when the war started?",
+                                "~Do you remember an exact date when the war started?",
+                                "~Do you remember a exact date when the war started?"
+                            ],
+                            "id" : "4"
+                        },
+                        {
+                            "question": "I know the shortcut to reach the theatre on time.",
+                            "options": [
+                                "~I know the shortcut to reach the theatre on time.",
+                                "~I know shortcut to reach the theatre on time.",
+                                "~I know an shortcut to reach the theatre on time.",
+                                "=I know a shortcut to reach the theatre on time."
+                            ],
+                            "id" : "5"
+                        },
+                        {
+                            "question": "Mount Everest is tallest mountain.",
+                            "options": [
+                                "~Mount Everest is tallest mountain.",
+                                "~Mount Everest is a tallest mountain.",
+                                "=Mount Everest is the tallest mountain.",
+                                "~Mount Everest is one tallest mountain."
+                            ],
+                            "id" : "6"
+                        },
+                        {
+                            "question": "She cross the street.",
+                            "options": [
+                                "~She cross the street.",
+                                "=She crossed the street.",
+                                "~​She have crossed the street.",
+                                "~​She crossing the street."
+                            ],
+                            "id" : "7"
+                        },
+                        {
+                            "question": "Ambika meet Sonia at the corner.",
+                            "options": [
+                                "~Ambika meet Sonia at the corner.",
+                                "=Ambika met Sonia at the corner.",
+                                "~Ambika to meet Sonia at the corner.",
+                                "~Ambika meeted Sonia at the corner."
+                            ],
+                            "id" : "8"
+                        },
+                        {
+                            "question": "They leaving work at the end of the hour.",
+                            "options": [
+                                "~They leaving work at the end of the hour.",
+                                "~They leaves work at the end of the hour.",
+                                "=They leave work at the end of the hour.",
+                                "~They will left work at the end of the hour."
+                            ],
+                            "id" : "9"
+                        },
+                        {
+                            "question": "If we both put our cards on the table it would be easier for us to come to an agreement.",
+                            "options": [
+                                "=If we both put our cards on the table it would be easier for us to come to an agreement.",
+                                "~If we both put our wallets on the table it would be easier for us to come to an agreement.",
+                                "~If we both put our plans on the table it would be easier for us to come to an agreement.",
+                                "~If we both put our thoughts on the table it would be easier for us to come to an agreement."
+                            ],
+                            "id" : "10"
+                        }
+                    ],
+                    "note": "Select the correct form of the sentence for the following questions, some of the sentences may be correct in their original form:",
+                    "types": "question"
+                },
+                {
+                    "name": "A2: Reading",
+                    "questions": [
+                        {
+                            "question": "What main thought has been expressed in the above memorandum?",
+                            "options": [
+                                "=To  guide the employees about proper printer usage",
+                                "~To restrict printer usage all together",
+                                "~To check how much of paper is being wasted",
+                                "~To go against ‘Go Green’ movement"
+                            ],
+                            "id" : "11"
+                        }
+                    ],
+                    "note": "Read the following passage and answer the question given below: ",
+                    "types" : "passage",
+                    "passage": "It has been brought to our notice that all the four printer rooms are littered with waste papers ( A4 size). Most of the waste papers are taken out of the printers in order to avoid jamming . This has increased the wastage of paper in the office. This is a humble request to all employees to adjust the “Print preview” option according to the requirement before giving the command to “Print”. Kindly abstain from wasting paper and help the organization in its endeavor to support “Go Green” movement."
+                }, 
+                {
+                    "name": "A3: Numerical",
+                    "questions": [
+                        {
+                            "question": "A man spends 2/5 of his salary on house rent, 3/10 of his salary on food and 1/8 of his salary on conveyance. If he has Rs.1400 left with him, find his expenditure on food and conveyance.",
+                            "options": [
+                                "~3400 and 1000",
+                                "=2400 and 1000",
+                                "~2400 and 1200",
+                                "~1200 and 2400"
+                            ],
+                            "id" : "12" 
+                        },
+                        {
+                            "question": "1/3 rd of the boys and one-half of the girls of a college participated in a social work project. If the number of participating students is 300 out of which 100 are boys, what is the total number of students in the college?",
+                            "options": [
+                                "~500",
+                                "~600",
+                                "=700",
+                                "~800"
+                            ],
+                            "id" : "13"
+                        },
+                        {
+                            "question": "The ratio between the present ages of P and Q is 6:7. If Q is 4 years old than P, what will be the ratio of the ages of P and Q after 4 years?",
+                            "options": [
+                                "~3:4",
+                                "~3:5",
+                                "~4:3",
+                                "=7:8"
+                            ],
+                            "id" : "14"
+                        },
+                        {
+                            "question": "Find the difference between the greatest number of five digits and smallest number of five digits obtained by using 0, 1, 2, 3, 4 all but once.",
+                            "options": [
+                                "=32976",
+                                "~32966",
+                                "~32906",
+                                "~None"
+                            ],
+                            "id" : "15"
+                        },
+                        {
+                            "question": "1/3 of a number is 330. What is 5/11 of that number?",
+                            "options": [
+                                "~550",
+                                "~150",
+                                "=450",
+                                "~None"
+                            ],
+                            "id" : "16"
+                        }
+                    ],
+                    "types": "question",
+                    "note": ""
+                },
+                {
+                    "name": "A4: Reasoning",
+                    "questions": [
+                        {
+                            "question": "In the following number series a wrong number is given. Find out the wrong number: 1, 3, 10, 21, 64, 129, 356, 777",
+                            "options": [
+                                "~129",
+                                "~21",
+                                "~10",
+                                "=356"
+                            ],
+                            "id" : "17"
+                        },
+                        {
+                            "question": "9, 27, 31, 155, 161, 1127, ?",
+                            "options": [
+                                "~316",
+                                "=1135",
+                                "~1288",
+                                "~2254"
+                            ],
+                            "id" : "18"
+                        }
+                    ],
+                    "types": "question",
+                    "note": ""
+                },       
+                {
+                    "name": "A5: Composition",
+                    "questions": [
+                        {
+                            "question": "Write an essay to explain your views on the issue given below in 100-150 words: 'Bringing back Black Money to India will increase the Indian Revenue, but should the names be revealed?'",
+                            "options": [],
+                            "id" : "19"
+                        }
+                    ],
+                    "types": "essay",
+                    "note": "Write The Essay Here"
+                }
+            ]
+        },
+        {
+            "name": "English Comprehension Test",
+            "subsection": [
+            {
+                    "name": "E1: Reading",
+                    "questions": [
+                        {
+                            "question": "When communication happens between two people",
+                            "options": [
+                                "~The scenario becomes complicated",
+                                "~The communication is not effective",
+                                "=Smooth form of communication takes place",
+                                "~There is no understanding at all"     
+                            ],
+                            "id" : "20"
+                        },
+                        {
+                            "question": "In a group of five, when communication takes place",
+                            "options": [
+                                "=Each idea that is expressed must be understood by four others, who may also choose to respond.",
+                                "~There is no need for the remaining 4 to respond",
+                                "~Only the speaker will take active participation",
+                                "~It is always the speaker who plays a major role"     
+                            ],
+                            "id" : "21"
+                        },
+                        {
+                            "question": "We can conclude from the reading that in large groups",
+                            "options": [
+                                "=there is less opportunity for each person to speak",
+                                "~no one criticizes each other's ideas",
+                                "~before a decision is made everyone has to express their ideas individually",
+                                "~there is more opportunity for each person to speak"
+                            ],
+                            "id" : "22"
+                        },
+                        {
+                            "question": "The author of the article suggests that",
+                            "options": [
+                                "~large groups are always superior to small groups",
+                                "=the ideal size for a small group should be five to seven",
+                                "~everyone should listen to each other's ideas no matter how large the group is",
+                                "~the number of people in a small group must not be more than five"
+                            ],
+                            "id" : "23"
+                        }
+                    ],
+                    "note": "Read the following passage and answer the questions",
+                    "types" : "passage",
+                    "passage": "The sheer number of people in a group affects the amount of communication. Consider the difference between communication between two friends and communication in a group of five people. When friends talk, there are two people sending and receiving messages. In a group of five, there are five people doing the same thing. Each idea that is expressed must be understood by four others, who may also choose to respond. Consequently, the greater number of people in a group, the fewer contributions any individual may make. Because there are disadvantages to large groups, you might assume that small groups would be the most effective.  However, groups can be too small as well as too large. With a few members, a group has limited resources, which eliminates a primary advantage of groups for decision making. Also, in very small groups, members may be unwilling to disagree or criticize each other's ideas. I believe that five to seven members is the ideal size for a small group."
+                },
+                {
+                    "name": "E2: Listening",
+                    "questions": [
+                        {
+                            "question": "Why did Salman Khan get started with the videos online",
+                            "options": [
+                                "~To teach his nephew how to upload videos on to youtube",
+                                "~Just because he enjoyed the experience of uploading such videos",
+                                "~He wanted to demonstrate to children how to use videos",
+                                "=He was trying to tutor his cousins through the videos"
+                            ],
+                            "id" : "24"
+                        },
+                        {
+                            "question": "Salman Khan got started with the videos online to teach his cousins located in",
+                            "options": [
+                                "~California",
+                                "~New York",
+                                "~Canada",
+                                "=New Orleans"
+                            ],
+                            "id" : "25"
+                        },
+                        {
+                            "question": "What did Salman Khan’s cousins prefer?",
+                            "options": [
+                                "=his lectures on YouTube ",
+                                "~his lectures at home",
+                                "~His lectures in school",
+                                "~his lectures on music"
+                            ],
+                            "id" : "26"
+                        },
+                        {
+                            "question": "What does Khan speak while quoting an example of the school",
+                            "options": [
+                                "~How the school rejected Khan academy sessions for their Math classes",
+                                "~How the teachers criticized that Khan academy gets children stuck in their concepts",
+                                "~How the children turned weak in their knowledge after listening to Khan academy lectures",
+                                "=How school used khan academy for Maths classes and to improve students’ understanding"
+                            ],
+                            "id" : "27"
+                        }
+                    ],
+                    "note": "Listen to the video given and answer the following questions:",
+                    "types": "video",
+                    "link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nTFEUsudhfs\" frameborder=\"0\" allowfullscreen></iframe>"
+                },
+                {
+                    "name": "E3: Writing",
+                    "questions": [
+                        {
+                            "question": "Write about the following topic in 100 to 150 words: 'Agricultural Techniques in India and the condition of farmers, Comment.'",
+                            "options": [],
+                            "id" : "28"
+                        }
+                    ],
+                    "types": "essay",
+                    "note": "Write the essay here"
+                }
+            ]
+        },
+        {
+            "name": "Telugu Comprehension Test",
+            "subsection": [
+            {
+                    "name": "T1: Reading",
+                    "questions": [
+                        {
+                            "question": "అన్ని ప్రాంతాలను అభివృద్ధి చేస్తామని ఎవరు అన్నారు?",
+                            "options": [
+                                "~భా జ పా నేత శ్రీ కిషన్ రెడ్డి",
+                                "=శ్రీ వై ఎస్ ఆర్ జగన్మోహన్ రెడ్డి",
+                                "~తెలంగాణా ముఖ్యమంత్రి శ్రీ కె చంద్రశేఖర్రావు",
+                                "~ఆంధ్రప్రదేశ్ ముఖ్యమంత్రి శ్రీ చంద్రబాబు నాయుడు"     
+                            ],
+                            "id" : "29"
+                        },
+                        {
+                            "question": "చంద్రబాబు నాయుడు ఎక్కడ మాట్లాడారు?",
+                            "options": [
+                                "~తెలంగాణా శాసనమండలి",
+                                "~ఏపి శాసనమండలి",
+                                "~పబ్లిక్ మీటింగులో",
+                                "=ఢిల్లీ పర్యటనలో"     
+                            ],
+                            "id" : "30"
+                        },
+                        {
+                            "question": "రుణ మాఫీ కోసం ఎంత డబ్బు విడుదల చేసినట్లు చెప్పారు?",
+                            "options": [
+                                "~7 వేల కోట్లు",
+                                "=42 కోట్లు",
+                                "~10 కోట్లు",
+                                "~7 లక్షలు"
+                            ],
+                            "id" : "31"
+                        },
+                        {
+                            "question": "రెండు నెలల్లో ఎవరికీ ఆర్థిక సాయం చేస్తామని సి ఎం చెప్పారు?",
+                            "options": [
+                                "~రిటైర్డ్ ఉద్యోగులకు",
+                                "~డ్వాక్రా సంఘాలకు",
+                                "=వృద్ధులకు",
+                                "~విద్యార్థులకు"
+                            ],
+                            "id" : "32"
+                        }
+                    ],
+                    "note": "Read the following passage and answer the questions",
+                    "types" : "passage",
+                    "passage": "అన్ని ప్రాంతాలను సమానంగా అభివృద్ధి చేస్తాం.... ప్రభుత్వానికి అందరూ సహకరించాలని ఏపీ ముఖ్యమంత్రి చంద్రబాబు నాయుడు కోరారు. ఏపీ శాసన మండలిలో సి ఎం మాట్లాడుతూఎన్నికల్లో ఇచ్చిన హామీల అమలుకు కట్టుబడి ఉన్నామని స్పష్హ్టం చేశారు. రుణమాఫీ కోసం రూ. 7 వేల కోట్లు విడుదల చేసినట్లు చెప్పారు. 42 లక్షల మందికి పించన్లు ఇస్తున్నాం, లబ్దిదారులకునేరుగా ఇంటి వద్దే పించన్లు పంపిణీ చేస్తామని తెలిపారు. రెండు నెలల్లో డ్వాక్రా సంఘాలకు రూ. 10 వేలు చొప్పున ఆర్ధిక సాయం అందిస్తామని వెల్లడించారు."
+                },
+                {
+                    "name": "E2: Listening",
+                    "questions": [
+                        {
+                            "question": "వై యస్ జగన్ అసెంబ్లీలో స్పీకర్ కు ఏమని ఫిర్యాదు చేసారు?",
+                            "options": [
+                                "~ప్రతిపక్ష నాయకులు వాక్ అవుట్ చేసారని",
+                                "~తమకు మాట్లాడే అవకాశం ఇవ్వలేదని",
+                                "=ప్రతిపక్ష నాయకులు పేదవాళ్ళకు కొత్త ఇల్లు కట్టి ఇవ్వలేదని",
+                                "~పైవి ఏవి కావు"
+                            ],
+                            "id" : "33"
+                        },
+                        {
+                            "question": "వై .యస్. జగన్ ఫిర్యాదుకు ఎవరు సమాధానమిచ్చారు?",
+                            "options": [
+                                "~శ్రీ చంద్రబాబు నాయుడు",
+                                "~స్పీకర్",
+                                "=ఘంటా శ్రీనివాస రావు",
+                                "~యనమల రామకృష్ణుడు"
+                            ],
+                            "id" : "34"
+                        },
+                        {
+                            "question": "రాష్ట్ర కాపిటల్ నిర్మాణానికి సింగపూర్ ఎన్ని ఎకరాలు కావాలని ప్రతిపాదించింది?",
+                            "options": [
+                                "~20 వేల ఎకరాలు",
+                                "~15 వేల ఎకరాలు",
+                                "~10 వేల ఎకరాలు",
+                                "=100 ఎకరాలు"
+                            ],
+                            "id" : "35"
+                        },
+                        {
+                            "question": "రాజేంద్రనాథ్ గారు తెలుగుదేశం పార్టీని ఏమని ఆరోపించారు?",
+                            "options": [
+                                "~రాష్ట్ర రాజధాని నిర్మాణానికి సింగపూర్ గవర్నమెంట్ సాయపడటం లేదని TDP వ్యాక్యనిచ్చినట్లు",
+                                "~రాష్ట్ర రాజధాని నిర్మాణానికి తెలంగాణ ప్రభుత్వం సాయపడటం లేదని TDP వ్యాక్యనిచ్చినట్లు",
+                                "=రాష్ట్ర రాజధాని నిర్మాణానికి గవర్నమెంట్ అఫ్ ఇండియా సాయపడటం లేదని TDP వ్యాక్యనిచ్చినట్లు",
+                                "~పైవి ఏవి కావు"
+                            ],
+                            "id" : "36"
+                        }
+                    ],
+                    "note": "Listen to the video given and answer the following questions:",
+                    "types": "video",
+                    "link": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/_BpqSUv7fRw\" frameborder=\"0\" allowfullscreen></iframe>"
+                }
+            ]
+        }
+    ]
+}

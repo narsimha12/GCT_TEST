@@ -1,0 +1,236 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+
+		<!-- Optional theme -->
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+		<!-- Latest compiled and minified JavaScript -->
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+		<script type="text/javascript">
+		function getmail(){
+			var mail=document.getElementById("email").value;
+
+			document.f1.action="/admin/userquizreport/"+mail;
+			document.f1.submit();
+		}
+		function getquestion(){
+			var date=document.getElementById("dateval").value;
+			//alert(date);
+			document.f1.action="/admin/questionstatistics/"+date;
+			document.f1.submit();	
+		}
+		function getquizdetails(){
+			var filename=document.getElementById("filename").value;
+			document.f1.action="/admin/downloadcsv/"+filename;
+			document.f1.submit();
+		}
+		</script>
+	</head>
+	<body>
+		<div class="container">
+		<center>
+		
+		{% if home%}
+			<form method="GET" name="f1">
+				<div class="row"><br></div>
+				<div class="row">
+					<div class="col-md-10">
+						<a href="/admin/adminhome" class="btn btn-primary">View All Tests</a>
+					</div>
+				</div>
+				<div class="row"><br></div>
+				<div class="row">
+					<div class="col-md-2">
+						<label for="to">Enter Email Id:</label>
+					</div>
+					<div class="col-md-10">
+						<input type="text" name="email" id="email" class="form-control" />
+					</div>
+				</div>
+				<div class="row"><br></div>
+				<div class="row">
+					<div class="col-md-10">
+						<input type="button" value="Get Report" class="btn btn-primary" onclick="getmail()" />
+					</div>
+				</div>
+				
+			</form>
+			<form method="GET" name="f2">
+				<div class="row"><br></div>
+				
+				<div class="row">
+					<div class="col-md-2">
+						<label for="to">Select Exam Date:</label>
+					</div>
+					<div class="col-md-10">
+						<input type="date" name="dateval" id="dateval" class="form-control" />
+					</div>
+				</div>
+				<div class="row"><br></div>
+				<div class="row">
+					<div class="col-md-10">
+						<input type="button" value="Get_Questions_Statistics" class="btn btn-primary" onclick="getquestion()" />
+					</div>
+				</div>
+				
+			</form>
+			<form method="GET" name="f3">
+				<div class="row"><br></div>
+				
+				<div class="row">
+					<div class="col-md-2">
+						<label for="to">Enter File Name:</label>
+					</div>
+					<div class="col-md-10">
+						<input type="text" name="filename" id="filename" class="form-control" />
+					</div>
+				</div>
+				<div class="row"><br></div>
+				<div class="row">
+					<div class="col-md-10">
+						<input type="button" value="Get_QuizDeatils" class="btn btn-primary" onclick="getquizdetails()" />
+					</div>
+				</div>
+				
+			</form>
+			<table class="table table-bordered">
+				<tr>
+					<td align="center"><b>Essay Downloads</b></td>
+					<td align="center"><a href="/admin/getessay/Basara_userids">Basara</a></td>
+					<td align="center"><a href="/admin/getessay/nuz_userids">Nuziveedu</a></td>
+					<td align="center"><a href="/admin/getessay/RKV_userids">RKV</a></td>
+					<td align="center"><a href="/admin/getessay/IIIT_Msit_userids">IIIT-MSIT</a></td>
+					<td align="center"><a href="/admin/getessay/Jntu_Msit_userids">JNTU-MSIT</a></td>
+					<td align="center"><a href="/admin/getessay/emailids_9_5_2015">9-5-2015</a></td>
+					<td align="center"><a href="/admin/getessay/emailids1_9_5_2015">one_9-5-2015</a></td>
+					<td align="center"><a href="/admin/getessay/emailids2_9_5_2015">two_9-5-2015</a></td>
+				</tr>
+			</table>
+			<table class="table table-bordered">
+				<tr>
+					<td align="center"><b>Mean and STD Reports </b></td>
+					<td align="center"><a href="/admin/getmeanstd/Basara_userids">Basara</a></td>
+					<td align="center"><a href="/admin/getmeanstd/nuz_userids">Nuziveedu</a></td>
+					<td align="center"><a href="/admin/getmeanstd/RKV_userids">RKV</a></td>
+					<td align="center"><a href="/admin/getmeanstd/IIIT_Msit_userids">IIIT-MSIT</a></td>
+					<td align="center"><a href="/admin/getmeanstd/Jntu_Msit_userids">JNTU-MSIT</a></td>
+					<td align="center"><a href="/admin/getmeanstd/RKV_B1_userids">RKV_B1_userids</a></td>
+					<td align="center"><a href="/admin/getmeanstd/RKV_B2_userids">RKV_B2_userids</a></td>
+					<td align="center"><a href="/admin/getmeanstd/RKV_B3_userids">RKV_B3_userids</a></td>
+					<td align="center"><a href="/admin/getmeanstd/Mentors_userids">Mentors_userids</a></td>
+				</tr>
+				<tr>
+					<td align="center"><b>Mean and STD Apti Reports </b></td>
+					<td align="center"><a href="/admin/getmeanstd_apti/Basara_userids">Basara</a></td>
+					<td align="center"><a href="/admin/getmeanstd_apti/nuz_userids">Nuziveedu</a></td>
+					<td align="center"><a href="/admin/getmeanstd_apti/RKV_userids">RKV</a></td>
+					<td align="center"><a href="/admin/getmeanstd_apti/IIIT_Msit_userids">IIIT-MSIT</a></td>
+					<td align="center"><a href="/admin/getmeanstd_apti/Jntu_Msit_userids">JNTU-MSIT</a></td>
+					<td align="center"><a href="/admin/getmeanstd_apti/RKV_B1_userids">RKV_B1_userids</a></td>
+					<td align="center"><a href="/admin/getmeanstd_apti/RKV_B2_userids">RKV_B2_userids</a></td>
+					<td align="center"><a href="/admin/getmeanstd_apti/RKV_B3_userids">RKV_B3_userids</a></td>
+					<td align="center"><a href="/admin/getmeanstd_apti/Mentors_userids">Mentors_userids</a></td>
+					<td align="center"><a href="/admin/getmeanstd_apti/emailids_9_5_2015">Reports on 9-05-2015</a></td>
+				</tr>
+				<tr>
+					<td align="center"><b>Mean and STD TOEFL Reports </b></td>
+					<td align="center"><a href="/admin/getmeanstd_toefl/Basara_userids">Basara</a></td>
+					<td align="center"><a href="/admin/getmeanstd_toefl/nuz_userids">Nuziveedu</a></td>
+					<td align="center"><a href="/admin/getmeanstd_toefl/RKV_userids">RKV</a></td>
+					<td align="center"><a href="/admin/getmeanstd_toefl/IIIT_Msit_userids">IIIT-MSIT</a></td>
+					<td align="center"><a href="/admin/getmeanstd_toefl/Jntu_Msit_userids">JNTU-MSIT</a></td>
+					<td align="center"><a href="/admin/getmeanstd_toefl/RKV_B1_userids">RKV_B1_userids</a></td>
+					<td align="center"><a href="/admin/getmeanstd_toefl/RKV_B2_userids">RKV_B2_userids</a></td>
+					<td align="center"><a href="/admin/getmeanstd_toefl/RKV_B3_userids">RKV_B3_userids</a></td>
+					<td align="center"><a href="/admin/getmeanstd_toefl/Mentors_userids">Mentors_userids</a></td>
+					<td align="center"><a href="/admin/getmeanstd_toefl/emailids_9_5_2015">Reports on 9-05-2015</a></td>
+					
+				</tr>
+				<tr>
+				<td align="center"><b>Mean and STD TELUGU Reports </b></td>
+					<td align="center"><a href="/admin/getMeanStd_telugu/emailids_9_5_2015">Reports on 9-05-2015</a></td>
+					
+				</tr>
+				<tr>
+					<td align="center"><b>Question Statistics </b></td>
+					<td align="center"><a href="/admin/questionstatistics/Basara_userids">Basara</a></td>
+					<td align="center"><a href="/admin/questionstatistics/nuz_userids">Nuziveedu</a></td>
+					<td align="center"><a href="/admin/questionstatistics/RKV_userids">RKV</a></td>
+					<td align="center"><a href="/admin/questionstatistics/IIIT_Msit_userids">IIIT-MSIT</a></td>
+					<td align="center"><a href="/admin/questionstatistics/Jntu_Msit_userids">JNTU-MSIT</a></td>
+					<td align="center"><a href="/admin/questionstatistics/RKV_B1_userids">RKV_B1_userids</a></td>
+					<td align="center"><a href="/admin/questionstatistics/RKV_B2_userids">RKV_B2_userids</a></td>
+					<td align="center"><a href="/admin/questionstatistics/RKV_B3_userids">RKV_B3_userids</a></td>
+				</tr>
+				
+				<tr>
+					<td align="center"><b>Question Statistics for TOEFL</b></td>
+					<td align="center"><a href="/admin/questionstatistics_toefl/Basara_userids">Basara</a></td>
+					<td align="center"><a href="/admin/questionstatistics_toefl/nuz_userids">Nuziveedu</a></td>
+					<td align="center"><a href="/admin/questionstatistics_toefl/RKV_userids">RKV</a></td>
+					<td align="center"><a href="/admin/questionstatistics_toefl/IIIT_Msit_userids">IIIT-MSIT</a></td>
+					<td align="center"><a href="/admin/questionstatistics_toefl/Jntu_Msit_userids">JNTU-MSIT</a></td>
+					<td align="center"><a href="/admin/questionstatistics_toefl/RKV_B1_userids">RKV_B1_userids</a></td>
+					<td align="center"><a href="/admin/questionstatistics_toefl/RKV_B2_userids">RKV_B2_userids</a></td>
+					<td align="center"><a href="/admin/questionstatistics_toefl/RKV_B3_userids">RKV_B3_userids</a></td>
+				</tr>
+				<!-- <tr>
+					<td align="center"><b>Update Telugu Scores</b></td>
+					<td align="center"><a href="/admin/updateteluguscore/Basara_userids">Basara</a></td>
+					<td align="center"><a href="/admin/updateteluguscore/nuz_userids">Nuziveedu</a></td>
+					<td align="center"><a href="/admin/updateteluguscore/RKV_userids">RKV</a></td>
+					<td align="center"><a href="/admin/updateteluguscore/IIIT_Msit_userids">IIIT-MSIT</a></td>
+					<td align="center"><a href="/admin/updateteluguscore/Jntu_Msit_userids">JNTU-MSIT</a></td>
+					<td align="center"><a href="/admin/updateteluguscore/RKV_B1_userids">RKV_B1_userids</a></td>
+					<td align="center"><a href="/admin/updateteluguscore/RKV_B2_userids">RKV_B2_userids</a></td>
+					<td align="center"><a href="/admin/updateteluguscore/RKV_B3_userids">RKV_B3_userids</a></td>
+				</tr> -->
+			</table>
+		{% else %}
+		<table class="table table-bordered">
+			
+			{% if userslist %}
+			<tr><td colspan="9" align="center"><b>List of Users</b></td><td><a href="/admin/downloadcsv/{{dateval}}">Download CSV</a></td></tr>
+			<tr><td align="left"><b>User EmailId</b></td><td align="left"><b>Aptitude Score</b></td><td align="left"><b>Aptitude Response Time</b></td><td align="left"><b>English Comprehension Score</b></td><td align="left"><b>English Comprehension Response Time</b></td><td align="left"><b>Telugu Comprehension Score</b></td><td align="left"><b>Telugu Comprehension Response Time</b></td><td align="left"><b>TotalScore</b></td><td align="left"><b>Total Time Taken</b></td><td><b>Rank</b></td></tr>
+				{% for user in userslist %}
+					<tr><td align="left"><a href="/admin/userquizreport/{{user.emailid}}">{{user.emailid}}</a></td><td align="left">{{user.aptitudeScore}}</td></td><td align="left">{{user.aptituderestime}}</td><td align="left">{{user.englishScore}}</td><td align="left">{{user.englishrestime}}</td><td align="left">{{user.teluguScore}}</td><td align="left">{{user.telugurestime}}</td><td align="left">{{user.score}}</td><td align="left">{{user.restime}}</td><td>{{loop.index}}</td></tr>
+				{% endfor %}
+				<tr><td colspan="10" align="center"><a href="/admin/adminhome"><b>Back</b></a></td></tr>
+			{% elif tests %}
+			<tr><td colspan="4" align="center"><b>List of created quizzes</b></td></tr>
+			<tr><td align="left"><b>QuizId</b></td><td align="left"><b>Participants</b></td><td align="left"><b>Status</b></td><td></td></tr>
+			{% for key,value in tests.items()%}
+			<tr><td align="left"><a href="/admin/quizdetails/{{key}}">{{key}}</a></td><td align="left">{{value}}</td><td align="left">Open</td><td><a href="/admin/sendinvitesview">Send Invites</a></td></tr>
+			{%endfor%}
+			{% elif quizdata %}
+			<tr><td align="left"><a href="/admin/"><b>Back</b></a></td><td colspan="4" align="center"><b>Quiz Report</b></td><td><a href="/admin/downloadcsv_user/{{useremailid}}">Download CSV</a></td></tr>
+			<tr><td colspan="6" align="center"><b>Total Score: {{score}}</b></td></tr>
+			<tr><td align="left"><b>Question ID</b></td><td align="left"><b>Question</b></td><td align="left"><b>Score</b></td><td align="left"><b>Submitted Answer</b></td><td align="left"><b>Correct Answer</b></td><td align="left"><b>Response Time</b></td></tr>
+			{% for data in quizdata %}
+				
+				{% if data.q_score == 0 %}
+				<tr class="danger">
+				{% else %}
+				<tr class="success">
+				{% endif %}
+				<td align="left">{{loop.index}}</td><td align="left">{{questionslist[loop.index-1]}}</td><td align="left">{{data.q_score}}</td><td align="left">{{data.submittedans}}</td><td align="left">{{correctAnslist[loop.index-1]}}</td><td align="left">{{data.responsetime}}</td></tr>
+			{% endfor %}
+			
+			{% elif question_dict %}
+			<tr><td align="left"><b>Question Id</b></td><td align="left"><b>Correct Answer Count</b></td><td align="left"><b>Wrong Answer Count</b></td></tr>
+				{% for key,values in question_dict.items()%}
+				<tr><td align="left">{{key}}</td><td align="left">{{values[0]}}</td><td align="left">{{values[1]}}</td></tr>
+				{%endfor%}
+			{% else %}
+			
+			<tr><td colspan="4" align="center"><font color="red">No Data Found!</font></td></tr>
+			{% endif %}
+		</table>
+		{%endif%}
+		</center>
+		</div>
+	</body>
+</html>

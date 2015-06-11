@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<html lang="en">
+<head>
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+	<script type="text/javascript"  >
+	function storeuserdetails() {
+		var objectData =
+		{
+		    name: document.getElementById('name').value,
+		    email: document.getElementById('email').value,
+		    pin: document.getElementById('pin1').value
+		};
+
+		var objectDataString = JSON.stringify(objectData);
+		console.log(objectDataString);
+		$.ajax({
+		    type: 'get',
+		    url: '/signup',
+		    dataType: 'json',
+		    data: {
+			jsonData: objectDataString
+		    },
+		    success: function (data) {
+			console.log( JSON.stringify(data));
+		    },
+		    error: function () {
+			alert("failure");
+		    }
+		});
+		return true;
+	}
+	</script>
+	
+	
+</head>
+<body>
+
+	<!-- Sign Up Modal -->
+	<div class="modal fade" id="signupModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<h4 class="modal-title" id="myModalLabel">Sign Up for the General Competency Test</h4>
+				</div>
+				<div class="modal-body">
+					<p>
+						Fill up your name, mobile phone number and email in the form below to sign up for the test.
+					</p>
+					<p>A 4 digit pin required to attempt the test will be sent to your mobile phone as an SMS message.</p>
+					<p>The test certificate upon completion of the test will be sent to your email address.
+					</p>
+					<form >
+						<div class="form-group">
+							<label for="exampleInputEmail1">Your Name</label>
+							<input id="name"type="text" class="form-control" id="testtakerName" placeholder="Enter your name">
+						</div>
+						<div class="form-group">
+							<label for="exampleInputEmail1">Email address</label>
+							<input id="email"type="email" class="form-control" id="testtakerEmail" placeholder="Enter email">
+						</div>
+						<div class="form-group">
+							<label for="exampleInputPassword1">4 Digit PIN</label>
+							<input id="pin1"type="password" class="form-control" id="testtakerPIN" placeholder="4 digit PIN">
+						</div>
+					</form>
+				</div>
+				<div class="modal-footer">
+					<button type="submit" onclick="storeuserdetails()"class="btn btn-primary">Submit</button>
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Test Modal -->
+	<div class="modal fade" id="testModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+					<h4 class="modal-title" id="myModalLabel">Sign In to Start the Test</h4>
+				</div>
+				<div class="modal-body">
+					<p>
+						Fill up your mobile phone number and the 4 digit pin to sign into the test.
+					</p>
+					<form>
+						<div class="form-group">
+							<label for="exampleInputPassword1">Mobile Phone</label>
+							<input type="tel" class="form-control" id="testtakerMobile" placeholder="Mobile Phone">
+						</div>
+						<div class="form-group">
+							<label for="exampleInputPassword1">4 Digit Pin</label>
+							<input type="password" class="form-control" id="pin" placeholder="4 digit pin">
+						</div>
+					</form>
+				</div>
+				<div class="modal-footer">
+					<button type="submit" onclick="login()" class="btn btn-primary">Submit</button>
+					<button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				</div>
+			</div>
+		</div>
+	</div>		
+
+	<!-- Page Heading -->
+	<div class="row">
+		<div class="col-md-2"></div>
+		<div class="col-md-7">
+			<h1 class="text-center">General Competency Test</h1>
+		</div>
+		<div class="col-md-1"></div>
+	</div>
+
+	<!-- Test Instructions & Sign Up -->
+	<div class="row">
+		<div class="col-md-3"></div>
+		<div class="col-md-5">
+		<p>Welcome to the Home Page of the General Competency Test . The purpose of this test is to evaluate your PUC level skills. The competency test consists of 3 components:</p>
+
+		I. Aptitude Test <br>
+		II. English Language Comprehension Test <br>
+		III. Telugu Language Comprehension Test <br><br>	
+
+		<p>Aptitude test is for 30 minutes and evaluates your quantitative, analytical, reasoning and verbal skills.</p>
+
+		<p>English Language comprehension Test is for 25 minutes and evaluates your capability of reading, listening, speaking and writing in English.</p>
+
+		<p>Telugu Language Comprehension Test is for 15 minutes and evaluates your capability of reading and listening skills in Telugu.</p>
+
+		<p>All the questions of this test carry 1 mark, except 2 essay writing questions which carry 6 marks each and 1 English speaking question that carries 4 marks. Total Marks: 50, Total Time: 70 Minutes</p>
+			
+
+		</div>
+		<div class="col-md-4">
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-3"></div>
+		<div class="col-md-2">
+			<!-- Indicates a dangerous or potentially negative action -->
+			<!-- <button type="button" class="btn btn-danger btn-lg" data-toggle="modal" data-target="#signupModal">Sign Up</button> -->
+		</div>
+		<div class="col-md-2">
+			<!-- Indicates a dangerous or potentially negative action -->
+			<button type="button" id="loginid" class="btn btn-success btn-lg" >Attempt Test</button>
+		</div>
+		<div class="col-md-3">
+			<button type="button" class="btn btn-lg btn-info" data-toggle="popover" title="Contact Us" data-content="Call +91 888 888 8888">Get Help</button>
+		</div>
+		<div class="col-md-2"></div>
+	</div>
+
+	<script type="text/javascript">
+	$(function () {
+		$('[data-toggle="popover"]').popover()
+	})
+	
+	document.getElementById("loginid").onclick = function () {
+			location.href = "/checklogin";
+	};
+	</script>
+</body>
+</html>

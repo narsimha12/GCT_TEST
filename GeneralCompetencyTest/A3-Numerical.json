@@ -1,0 +1,1038 @@
+{
+    "name": "A3 : Numerical",
+    "questions": [
+        {
+            "question": "A newspaper in a town is published every day. One copy has 24 pages. Everyday 85,000 copies are printed. On Sundays 15000 more copies are printed. How many total pages are printed on Sundays?",
+            "options": [
+                "~20,40,000",
+                "=24,00,000",
+                "~10,20,000",
+                "~12,00,000"
+            ],
+            "id": "401",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-1.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1</b>. A magazine is published every month. One copy has 90 pages. Every month 50,000 copies are printed. The anniversary publication happens in the month of December every year.  5000 more copies are printed in December. How many total pages are printed in December?<br><br>Soln.<br>In the month of December 55,000 (50000+5000) copies are printed.<br>Each copy is 90 pages.<br>So the number of pages = 55000 * 90 = 49,50,000<br><br><b>Example 2</b>. A film magazine is printed every fortnight. Each copy has 60 pages. Every fortnight 30000 copies are printed. They bring out an anniversary issue during the first fortnight of every new year. They print an additional 5000 copies during the anniversary sale.  How many pages are printed during the anniversary sale?<br>Soln. <br>Number of copies printed during anniversary sale are (30000+5000) =35000<br>Each copy has 60 pages<br>So number of pages printed during anniversary sale are 35000*60 = 21,00,000<br>",
+            "practicelinks": [
+                "http://study.com/academy/lesson/writing-solving-multiplication-word-problems-with-one-variable.html",
+                "https://www.youtube.com/watch?v=XF7if5XJRtQ"
+            ]
+        },
+        {
+            "question": "20% of a number is 60. What is 15% of the same number?",
+            "options": [
+                "~30",
+                "~25",
+                "~50",
+                "=45"
+            ],
+            "id": "402",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-2.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1</b>. 40% of a number is 120. What is 20% of the same number?<br><br>Soln : Let the number be x<br>40/100 * x   = 120<br>x = 300<br>So 20% of the same number = 20/100 * 300 = 60<br><br><b>Example 2</b>. 30% of a number is 90. What is 45% of the same number?<br><br>Soln : Let the number be x<br>30/100 * x   = 90<br>x = 300<br>So 45% of the same number = 45/100 * 300 = 135<br>",
+            "practicelinks": [
+                "https://www.youtube.com/watch?v=YWHx0RsRNzI",
+                "https://www.youtube.com/watch?v=WiLH29odR2g"
+            ]
+        },
+        {
+            "question": "By selling a watch for Rs 960, a profit of 20% is made. What is the gain or loss percentage if it is sold for Rs 760.",
+            "options": [
+                "~No loss, no gain",
+                "=5% loss",
+                "~5% gain",
+                "~10% gain"
+            ],
+            "id": "403",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-3.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1</b><br>Sridhar buys an old scooter for Rs. 4700 and spends Rs. 800 on its repairs. If he sells the scooter for Rs. 5800, what is his gain percent?<br>Soln :<br>Cost Price (CP) = 4700 + 800 = Rs. 5500.<br><br>Selling Price (SP) = Rs. 5800.<br><br>Gain = (SP) - (CP) = 5800 - 5500= Rs. 300.<br>Gain%=(Gain/CP)×100=(300/5500)×100=300/55=60/11=5 5/11<br><br><b>Example 2</b><br>A man buys a scooter for Rs. 14000 and sells it at a loss of 15%. What is the selling price of the scooter?<br>SP=14000×85/100=140×85=11900<br>",
+            "practicelinks": [
+                "http://www.sawaal.com/aptitude-and-Reasoning/profit-and-loss-questions-and-answers.html",
+                "http://www.mastguru.com/profit-and-loss-questions-answers/question/24"
+            ]
+        },
+        {
+            "question": "A, B and C invested Rs 64000, Rs 72000 and Rs 92000 respectively to carry on a business. What is the share of C in the annual profit of Rs 11400?",
+            "options": [
+                "=4600",
+                "~3600",
+                "~3200",
+                "~5200"
+            ],
+            "id": "404",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-4.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1</b>: Raj invested Rs 70000 in a business. Murali invested Rs 50000 . <br>What is the share of Murali in the annual profit of Rs  18000?<br><br><br>Solution – Ratio of investments = 70000 : 50000 = 7:5<br><br>Annual profit = 18000<br><br>As per the investments made, Murali will get 5 parts out of total parts of 12(7+5).<br><br>Hence in 18000, he will get 18000 * 5/12  = 7500<br><br><b>Example 2</b>: Sumit and Ravi started a business by investing Rs 85000 and 15000 respectively. In what ratio the profit earned after 2 years be divided between Sumit and Ravi respectively.<br><br>Soln : <br><br>P:Q = 85000:15000 = 17:3 <br><br>Important to note there that if both have invested for different period of times then we had to multiply with number of months to get the desired ratio.<br>",
+            "practicelinks": [
+                "http://www.mastguru.com/partnership-questions-answers/question/36",
+                "http://studentzoneonline.com/Aptitude/Partnership.aspx"
+            ]
+        },
+        {
+            "question": "Find the difference between the greatest and the least number that can be written using the digits 6, 0, 7, 4, 3 each only once.",
+            "options": [
+                "=45963",
+                "~72963",
+                "~36063",
+                "~45936"
+            ],
+            "id": "405",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-5.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1</b>. Form the greatest and the smallest number using the digits 6, 3, 8, 7, 1<br><br>Solution:<br>      Tth      Th     H       T       U<br>          8       7       6       3       1     So, greatest number = 87631<br>          1       3       6       7       8     So, smallest number = 13678 <br><br>We may say the procedure of forming the greatest number is as follows: <br><br>(a) The smallest digit is placed at one’s place. <br><br>(b) The next greater digit is placed at ten's place. <br><br>(c) The next greater digit is placed at hundred's place and so on. <br><br>(d) The greatest digit is placed at the highest place of the number. <br><br><br>The smallest number is formed by the following the reverse procedure.<br><br>(a) The greatest digit is placed at one's place. <br><br>(b) The next smaller digit at ten’s place and so on till all the given digits are finished. <br>(c) The smallest digit is placed at the highest place of the number. <br><br><b>Example 2</b>. Write the greatest and smallest number with the given 5 digits (2, 0, 5, 3, 9) without repeating any digit. <br>Solution:<br>                          Tth      Th     H       T       O<br>Greatest number    9      5     3        2       0     So, greatest number = 95320<br>Smallest number    2       0    3       5       9     So, smallest number = 20359 <br><br>(Whenever one of the given digits is 0, it is not written at the extreme left for the smallest number. It is written in the second place from the left)<br>",
+            "practicelinks": [
+                " http://www.math-only-math.com/examples-on-the-formation-of-greatest-and-the-smallest-number.html"
+            ]
+        },
+        {
+            "question": "The sum of three consecutive even numbers is 90. What is the middle number ?",
+            "options": [
+                "~24",
+                "~26",
+                "~28",
+                "=30"
+            ],
+            "id": "406",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-6.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1</b>: Sum of three consecutive even integers, whose sum is 264. Find the middle number<br>Soln<br>Let the first even integer be X<br>X+(X+2)+(X+4)=264<br>3X+6=264<br>3X=264-6<br>3X=258<br>X=258/3<br>X=86 <br>Hence 86+2=88 is the middle number.<br>",
+            "practicelinks": [
+                "http://www.algebra.com/algebra/homework/Problems-with-consecutive-odd-even-integers/Problems-with-consecutive-odd-even-integers.faq",
+                "http://www.mathsteacher.com.au/year10/ch02_linear_equations/06_consecutive_numbers/cons.htm"
+            ]
+        },
+        {
+            "question": "A house wife has savings of Rs 25000 with her. She placed an order for purchasing 4 chairs costing Rs 4500 each and a table costing Rs 5500. How much money will remain with her after the purchase?",
+            "options": [
+                "~4500",
+                "=1500",
+                "~2500",
+                "~3500"
+            ],
+            "id": "407",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-7.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1</b> <br>A house wife has savings of Rs 15000 with her. She placed an order for purchasing 2 chairs costing Rs 3500 each and a table costing Rs 5000. How much money will remain with her after the purchase?<br>Soln<br>Purchase cost of each chair Rs 3500<br>Hence two chairs cost Rs 3500 * 2 = 7000<br>Purchase cost of table Rs 5000<br>Expense incurred so far Rs 7000+5000 = 12000<br>Savings with her = 15000<br>So money remaining after the purchase = Rs 15000-12000=3000<br><br><b>Example 2</b><br>A student has a savings of Rs 1000. She intends to purchase three note books costing Rs 150 each and a bag costing Rs 500. How much money is left with her?<br>Cost of each note book = Rs 150<br>Cost of three note books = 150*3=450<br>Cost of bag = Rs 500<br>Total cost of bag and 3 note books = Rs 500+450 = 950<br>Money left with her = Rs 1000-950= Rs 50<br>",
+            "practicelinks": [
+                "https://www.khanacademy.org/math/arithmetic/fractions/multiplying-fractions-word-probl/e/multiplying-fractions-and-whole-numbers-word-problems"
+            ]
+        },
+        {
+            "question": "Determine the smallest 3-digit number which is exactly divisible by 5, 10 and 15.",
+            "options": [
+                "~100",
+                "=120",
+                "~105",
+                "~110"
+            ],
+            "id": "408",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-8.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1</b> which is the smallest 3 digit number which is exactly divisible by 6,8, 12 <br><br>The lowest common factor would be <br> <br>We need to find the common factor greater than 99.<br>Multiplying 24 by 4 would only reach 96. <br>Hence Multiply by 5.<br> <br>So the smallest three digit number which is exactly divisible by 6, 8, 12 is 120.<br><br><br><b>Example 2</b><br>Find the least 5 digit number which is exactly divisible by 20,25,30?<br><br>LCM of 20,25,30 is 300.<br><br>300 is only a 3-digit number, and all multiples of 300 are divisible by 20, 25 and 30. We want a least 5-digit number.<br><br>We divide 10000 which is the least 5 digit number by 300 and get 33.33333...<br><br>So the smallest integer greater than that is 34.<br><br>So our number = 300*34 or 10200.<br>",
+            "practicelinks": [
+                "http://www.algebra.com/algebra/homework/word/numbers/Numbers_Word_Problems.faq.question.752482.html",
+                "http://www.careerbless.com/aptitude/qa/hcf_lcm.php"
+            ]
+        },
+        {
+            "question": "Determine the greatest 3-digit number exactly divisible by 10, 20 and 30.",
+            "options": [
+                "~900",
+                "~990",
+                "~930",
+                "=960"
+            ],
+            "id": "409",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-9.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1</b>: What is the greatest number of four digits which is divisible by 15, 25, 40 and 75 ?<br>Soln:<br>Greatest number of four digits = 9999<br><br>LCM of 15, 25, 40 and 75 = 600<br><br>9999 ÷ 600 = 16, remainder = 399<br><br>Hence, greatest number of four digits which is divisible by 15, 25, 40 and 75<br><br>= 9999 - 399 = 9600<br><br><b>Example 2</b><br>Find the largest number of four digits which is exactly divisible by 27,18,12,15<br><br>Solution:<br>LCM of 27-18-12-15 is 540.<br>After dividing 9999 by 540 we get 279 remainder.<br>So answer will be 9999-279 = 9720<br>",
+            "practicelinks": [
+                "http://www.mastguru.com/find-the-largest-number-of-four-digits-which-is-exactly-divisible-by-27181215/403",
+                "http://www.careerbless.com/aptitude/qa/hcf_lcm.php"
+            ]
+        },
+        {
+            "question": "A person had to multiply two numbers. Instead of multiplying by 35, he multiplied by 53 and the product went up by 540. What was the raised product?",
+            "options": [
+                "~1720",
+                "~920",
+                "=1590",
+                "~780"
+            ],
+            "id": "410",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-10.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "A person had to multiply two numbers. Instead of multiplying by 34, he multiplied by 43 and the product went up by 450. What was the raised product?<br>Let x be the first number.<br>If multiplied by 34. Product = 34x<br>If multiplied by 43. Product = 43x<br>Difference :<br>43x-34x = 450<br>9x =  450. So x = 50<br>The raised product = 50*43 = 2150<br><br><b>Example 2</b> <br>A person had to multiply two numbers. Instead of multiplying by 45, he multiplied by 54 and the product went up by 540. What was the raised product?<br>Let x be the first number.<br>If multiplied by 45. Product = 45x<br>If multiplied by 54. Product = 54x<br>Difference :<br>54x-45x = 540<br>9x =  540. So x = 60<br>The raised product = 60*54 = 3240<br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/percentage/discussion-314"
+            ]
+        },
+        {
+            "question": "A box of 100 packets consists of 1kg packets and 2kg packets. Total weight of box is 160kg. How many 2kg packets are present in the box ?",
+            "options": [
+                "~70",
+                "~30",
+                "~40",
+                "=60"
+            ],
+            "id": "411",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-11.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1</b><br>Two small pitchers and one large pitcher can hold 8 cups of water.  One large pitcher minus one small pitcher constitutes 2 cups of water.  How many cups of  water can each pitcher hold?<br>Soln :<br>Let x = small pitcher<br>y = large pitcher<br> <br>2x + y = 8<br>y - x = 2<br> Solve by any method .<br>If done algebraically:<br>   2x + y = 8<br>    -x + y = 2<br>subtract:<br>    3x = 6<br>      x = 2<br>The small pitcher holds 2 cups of water.<br>2(2) + y = 8<br>4 + y = 8<br>y = 4<br>The large pitcher holds 4 cups of water.<br><br><b>Example 2</b><br>A test has twenty questions worth 100 points.  The test consists of True/False questions worth 3 points each and multiple choice questions worth 11 points each.  How many multiple choice questions are on the test?<br>Let x = T/F questions<br>Let y = Multiple Choice questions<br>x + y = 20<br>3x + 11y = 100<br>Solve by any method.<br>If done algebraically:<br>x + y = 20<br>3x + 11y = 100<br>3(x + y = 20)<br>3x + 11 y = 100<br>3x + 3y = 60<br>3x + 11y = 100<br>-8y = -40<br>8y = 40<br>y = 5<br>There are 5 multiple choice questions.<br>x + 5 = 20<br>x = 15<br>There are 15 T/F questions.<br>",
+            "practicelinks": [
+                "https://www.ixl.com/math/algebra-1/solve-linear-equations-word-problems",
+                "http://www.algebra-class.com/algebra-word-problems.html"
+            ]
+        },
+        {
+            "question": "With 3/4th full tank, a vehicle travels 18 miles. How much distance is travelled with 1/3rd full tank?",
+            "options": [
+                "~10",
+                "~9",
+                "=8",
+                "~6"
+            ],
+            "id": "412",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-12.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1</b><br>With four fifths of the tank full, a vehicle travels 12 miles. How much distance will the vehicle travel with one third tank full?<br><br>4/5th of full tank = 80% of full tank, a vehicle travels 12 miles<br>So with 100% of full tank, a vehicle travels (12*100)/80 = 15 miles<br>Hence with 1/3rd of full tank, it will travel = (1/3)*15 = 5 miles<br><b>Example 2</b>.<br>With 3/4th full tank, a vehicle travels 36 miles. How much distance is travelled with 1/2 (half) tank of fuel in it?<br>75% of full tank covers a distance of 36 miles.<br>100% of full tank covers a distance of (100*36)/75 = 48 miles<br>So half of fuel tank i.e 50% of fuel tank covers a distance of 48/2 which is equal to 24 miles.<br>",
+            "practicelinks": [
+                "http://www.m4maths.com/915-With-four-fifths-of-then-tank-full-a-vehicle-travels-12-miles-How-much-distance-will-the-vehicle-travel-with.html"
+            ]
+        },
+        {
+            "question": "Wind blows 160 miles in 190 min. For 80 miles how much time is required?",
+            "options": [
+                "~190 min",
+                "=95 min",
+                "~120 min",
+                "~150 min"
+            ],
+            "id": "413",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-13.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1</b><br>Wind blows 160 miles in 330min.for 80 miles how much time required<br>Soln <br><br>160/330=80/t,<br><br>t=80*330/160=165 minutes<br><br><b>Example 2</b><br>Wind blows 180 miles in 360min. For 90 miles how much time required<br><br>180 miles= 360 min<br>1 mile = 360/180<br>90 miles=(360*90)/180=180 min.<br>",
+            "practicelinks": [
+                "http://myquestions.in/2013/12/20/time-distance-practice/"
+            ]
+        },
+        {
+            "question": "A person was fined for exceeding the speed limit by 10mph. Another person was also fined for exceeding the same speed limit by twice the amount. If the second person was travelling at a speed of 35 mph, find the speed limit.",
+            "options": [
+                "=15",
+                "~10",
+                "~20",
+                "~25"
+            ],
+            "id": "414",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-14.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1</b><br>A person was fined for exceeding the speed limit by 10mph. Another person was also fined for exceeding the same speed limit by thrice the amount. If the second person was travelling at a speed of 70 mph, find the speed limit.<br>Let the speed limit be x mph<br>First person was fined for exceeding the speed limit by 10 mph. It means he is travelling at x+10 mph<br>Second person was fined thrice for exceeding the speed limit. It means he is travelling x+10+10+10 mph<br>It is also stated that second person is travelling at 70 mph<br>So x+10+10+10 = 70<br>X+30=70<br>X = 70-30 = 40 mph<br><br><b>Example 2</b><br>A person was fined for exceeding the speed limit by 10mph. Another person was also fined for exceeding the same speed limit by twice the amount. If the second person was travelling at a speed of 60 mph, find the speed limit.<br>Let the speed limit be x mph<br>First person was fined for exceeding the speed limit by 10 mph. It means he is travelling at x+10 mph<br>Second person was fined twice for exceeding the speed limit. It means he is travelling x+10+10 mph<br>It is also stated that second person is travelling at 60 mph<br>So x+10+10 = 60<br>X+20=60<br>X = 60-20 = 40 mph<br>",
+            "practicelinks": [
+                "http://www.indiabix.com/placement-papers/tcs/4221"
+            ]
+        },
+        {
+            "question": "A person who decided to go weekend trip should not exceed 8 hours driving in a day. Average speed of forward journey is 40kmph and return journeyaverage speed is 60 kmph. How far can he select a picnic spot?",
+            "options": [
+                "~384 kms",
+                "=192 kms",
+                "~160 kms",
+                "~320 kms"
+            ],
+            "id": "415",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-15.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Example 1<br>While going to a place a person travels 50 kmph and returns at 30 kmph. Find his average speed?<br>Average speed is given by the formula = 2xy/(x+y)<br>So Avg speed = 2*50*30/(50+30) = 37.5 kmph<br><br><b>Example 2</b><br>While going to a place a person travels 80 kmph during first half of the journey and travels at 60 kmph during the second half of the journey. Find his average speed? How much distance will he be able cover in 7 hours.<br>Average speed = 2xy/(x+y)<br>= 2 *80*60/(80+60) = 480/7<br>In 7 hours the distance covered = Avg speed * time = 480/7*7 = 480 kms.<br>",
+            "practicelinks": [
+                "http://www.onlinemathlearning.com/average-speed-problems.html"
+            ]
+        },
+        {
+            "question": "  A bike is filled with four and half litres of petrol for full round trip. Fuel consumed in going is 1/4 times more than the fuel consumed in coming. What is the fuel consumed in coming?",
+            "options": [
+                "~1.20 litres",
+                "~1.50 litres",
+                "~1.75 litres",
+                "=2 litres"
+            ],
+            "id": "416",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-16.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br>Example 1<br>Example: Sam and Alex play Tennis. On the weekend Sam played 4 more games than Alex did, and together they played 12 games. How many games did Alex play?<br>Turn the English into Algebra:<br>Letters:<br>Use S for how many games Sam played<br>Use A for how many games Alex played<br>We know that Sam played 4 more games than Alex, so: S=A + 4<br>And we know that together they played 12 games: S + A = 12<br>We are being asked for how many games Alex played: A<br>Solve:<br>Start with:     S + A = 12<br>S = A + 4, so we can <br>substitute \"A+4\" for S:        (A + 4) + A = 12<br>Simplify:       2A + 4 = 12<br>Subtract 4 from both sides:      2A = 12 - 4<br>Simplify:        2A = 8<br>Divide both sides by 2:       A = 4<br>Which means that Alex played 4 games of tennis.<br>Check: Sam played 4 more games than Alex, so Sam played 8 games. Together they played 8 + 4 = 12 games. Yes!<br><b>Example 2:</b><br>Alex and Sam also build tables.<br>Together they make 10 tables in 12 days.<br>Alex working alone can make 10 in 30 days.<br>How long would it take Sam working alone to make 10 tables?<br>Turn the English into Algebra:<br>Letters:<br>Use a for Alex's work rate<br>Use s for Sam's work rate<br>12 days of Alex and Sam is 10 tables, so: 12a + 12s = 10<br>30 days of Alex alone is also 10 tables: 30a = 10<br>We are being asked how long it would take Sam to make 10 tables.<br>Solve:<br>30a = 10, so Alex's rate (tables per day) is: a = 10/30 = 1/3<br>Start with:      12a + 12s = 10<br>Put \"1/3\" for a:      12(1/3) + 12s = 10<br>Simplify:     4 + 12s = 10<br>Subtract 4 from both sides:     12s = 6<br>Divide both sides by 12:     s = 6/12<br>Simplify:       s = 1/2<br>Which means that Sam's rate is half a table a day (faster than Alex!)<br>So 10 tables would take Sam just 20 days.<br><br>",
+            "practicelinks": [
+                "https://www.khanacademy.org/math/algebra/introduction-to-algebra/writing-expressions-tutorial/v/writing-expressions-2-exercise-example",
+                "http://www.mathgoodies.com/lessons/vol7/equations.html"
+            ]
+        },
+        {
+            "question": " 39% of a number exceeds 19% of the same number by 48. What is the number?",
+            "options": [
+                "~180",
+                "~260",
+                "=240",
+                "~280"
+            ],
+            "id": "417",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-17.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1</b><br>If 2/5 of a number exceeds 1/7 of the same number by 36. What is the number?<br>Solution: Let the number is x<br>then 2/5 of x=2x/5<br>x exceeds 1/7 of number 36 <br><br>there for the equation 2x/5=x/7+36<br>2x/5-x/7-36=0<br>9(x-140)/35=0<br>x=140<br>the number is 140.  <br><b>Example 2</b><br>20% of which number exceeds a sixth of it by 10?<br>(20/100) âˆ— x = x/6+ 10<br>x/5 - x/6 = 10<br>x/30 = 10<br>So, x = 300<br><br>",
+            "practicelinks": [
+                "http://www.math10.com/forum/viewtopic.php?f=24&t=927",
+                "www.mathsisfun.com"
+            ]
+        },
+        {
+            "question": "  A work is done by two people in 24 min. One of them can do the same work alone in 40 min. How much time is required by the second person to do the same work alone?",
+            "options": [
+                "~45 min",
+                "~50 min",
+                "=60 min",
+                "~70 min"
+            ],
+            "id": "418",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-18.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1:</b><br>A can finish a work in 18 days and B can do the same work in 15 days. B worked for 10 days and left the job. In how many days, A alone can finish the remaining work?<br>B's 10 day's work =      1   x 10        =   2   .<br>       15              3   <br>Remaining work =        1 - 2       =   1   .<br>           3           3   <br>Now,    1   work is done by A in 1 day.<br> 18  <br>    1   work is done by A in        18 x    1       = 6 days.<br>   3               3       <br><br><b>Example 2 :</b><br>Worker A takes 8 hours to do a job. Worker B takes 10 hours to do a job. How long should it take both A and B, working together to do same job.<br>Soln:<br>In this type of questions, first we need to calculate 1 hours work, then their collective work as,<br><br>A's 1 hour work is 1/8<br>B's 1 hour work is 1/10<br><br>(A+B)'s 1 hour work = 1/8 + 1/10<br>= 9/40<br><br>So both will finish the work in 40/9 hours<br>=<br>(4 4/9)<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/time-and-work/",
+                "http://www.mastguru.com/"
+            ]
+        },
+        {
+            "question": " One fast typist types some matter in 2hr and another slow typist types the same matter in 3hr. If both of them do it together in how much time will they finish?",
+            "options": [
+                "~1 hr 20 min",
+                "~1 hr 15 min",
+                "~1 hr 10 min",
+                "=1 hr 12 mins"
+            ],
+            "id": "419",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-19.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1:</b><br>A can finish a work in 18 days and B can do the same work in 15 days. B worked for 10 days and left the job. In how many days, A alone can finish the remaining work?<br>B's 10 day's work =      1   x 10        =   2   .<br>       15              3   <br>Remaining work =        1 - 2       =   1   .<br>           3           3   <br>Now,    1   work is done by A in 1 day.<br> 18  <br>    1   work is done by A in        18 x    1       = 6 days.<br>   3               3       <br><br><b>Example 2 :</b><br>Worker A takes 8 hours to do a job. Worker B takes 10 hours to do a job. How long should it take both A and B, working together to do same job.<br>Soln:<br>In this type of questions, first we need to calculate 1 hours work, then their collective work as,<br><br>A's 1 hour work is 1/8<br>B's 1 hour work is 1/10<br><br>(A+B)'s 1 hour work = 1/8 + 1/10<br>= 9/40<br><br>So both will finish the work in 40/9 hours<br>=<br>(4 4/9)<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/time-and-work/",
+                "http://www.mastguru.com/"
+            ]
+        },
+        {
+            "question": " If Rs200/- is available to pay for typing a research report & typist A produces 42 pages and typist B produces 28 pages. How much should typist A receive",
+            "options": [
+                "~Rs 150",
+                "~Rs 140",
+                "=Rs 120",
+                "~Rs 130"
+            ],
+            "id": "420",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-20.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1:</b><br>A can finish a work in 18 days and B can do the same work in 15 days. B worked for 10 days and left the job. In how many days, A alone can finish the remaining work?<br>B's 10 day's work =      1   x 10        =   2   .<br>       15              3   <br>Remaining work =        1 - 2       =   1   .<br>           3           3   <br>Now,    1   work is done by A in 1 day.<br> 18  <br>    1   work is done by A in        18 x    1       = 6 days.<br>   3               3       <br><br><b>Example 2 :</b><br>Worker A takes 8 hours to do a job. Worker B takes 10 hours to do a job. How long should it take both A and B, working together to do same job.<br>Soln:<br>In this type of questions, first we need to calculate 1 hours work, then their collective work as,<br><br>A's 1 hour work is 1/8<br>B's 1 hour work is 1/10<br><br>(A+B)'s 1 hour work = 1/8 + 1/10<br>= 9/40<br><br>So both will finish the work in 40/9 hours<br>=<br>(4 4/9)<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/time-and-work/",
+                "http://www.mastguru.com/"
+            ]
+        },
+        {
+            "question": " A cricket batsmanâ€™s average in first 25 innings was 25. After the 26th innings his average was 26 how many runs he scored in the 26th innings?",
+            "options": [
+                "=51",
+                "~50",
+                "~25",
+                "~26"
+            ],
+            "id": "421",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-21.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1</b><br>A cricket batsmanâ€™s average in first 21 innings was 21. After the 26th innings his average was 23 how many runs he scored in the 23th innings?<br>Sol: <br>Average of 21 innings= (sum/21)=21<br>Sum= 21*21 <br>Let the score of his 23rd inning= x<br>Average after 23 innings= (sum + x) / 23 = 23<br>X= (23*23)-(21*21)<br>X=88<br><b>Example 2:</b><br>The average age of a class of 30 students and a teacher reduces by 0.5 years if we exclude the teacher. If the initial average is 14 years, find the age of the class teacher?<br>Sol:<br>Age of teacher= Total age of (students + Teacher) â€“ Total age of students<br>=(31 X 14) â€“ (30 X 13.5)=434 â€“ 405 = 29 years<br><br>",
+            "practicelinks": [
+                "http://studentzoneonline.com/Aptitude/tabid/64/catid/116/Average.aspx",
+                "http://www.indiabix.com/aptitude/average/"
+            ]
+        },
+        {
+            "question": " When 8 is subtracted out from two third of X, the result is 25 more than one third of X. Find X.",
+            "options": [
+                "~89",
+                "~113",
+                "~131",
+                "=99"
+            ],
+            "id": "422",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-22.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1</b><br>When 7 is subtracted out from two third of X, the result is 21 more than one third of X. Find X.<br>Sol: (2X/3)-7= 21+ (X/3)<br>(X/3) = 28<br>X= 84<br><b>Example 2:</b><br>One-fourth of sum of a number and 5 is 1/3rd of the same number. What is the number ?<br>Solution:<br>Based on the question statement, we can form the below equation.<br>(1/4) x (p+5) = 1/3 x p<br>3  x (p+5) = 4p<br>3p + 15 = 4p<br>4p â€“ 3p = 15<br>p = 15<br><br>",
+            "practicelinks": [
+                "http://www.math10.com/forum/viewtopic.php?f=24&t=927",
+                "www.mathsisfun.com"
+            ]
+        },
+        {
+            "question": " 6 reduced from 1/5 of a number is 7 reduced from half of the same number. Find the number",
+            "options": [
+                "~22/3",
+                "~7/3",
+                "=10/3",
+                "~11/3"
+            ],
+            "id": "423",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-23.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1:</b><br>7 reduced from 1/5 of a number is 8 reduced from half of the same number. Find the number<br>Sol:<br>(p X 1)/5 â€“ 7 = (p/2) â€“ 8<br>(p/2)-(p/5)=1<br>3p/10 = 1<br>P= 10/3<br><b>Example 2:</b><br>8 reduced from 1/6 of a number is 9 reduced from half of the same number. Find the number<br>Sol:<br>(p X 1)/6 â€“ 8 = (p/2) â€“ 9<br>(p/2)-(p/6)=1<br>4p/12 = 1<br>P= 3<br><br>",
+            "practicelinks": [
+                "http://www.math10.com/forum/viewtopic.php?f=24&t=927",
+                "www.mathsisfun.com"
+            ]
+        },
+        {
+            "question": " Anil is twice as fast as Mohith. Mohith is thrice as fast as Annie. The distance covered by Annie in 54 minutes will be covered by Mohith in ___ minutes",
+            "options": [
+                "~9 min",
+                "~21 min",
+                "~15 min",
+                "=18 min"
+            ],
+            "id": "424",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-24.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1:</b><br>Anitha is thrice as fast as Mrudula. Mrudula is twice as fast as Raju. The distance covered by Raju in 48 minutes will be covered by Mrudula in ___ minutes<br>Sol: <br>As speed is inversely proportional to time,<br>(Speed of Raju/Speed of Mrudula) = (Time taken by Mrudula/Time taken by Raju)<br>(1/2 X Speed of Mrudula )/ Speed of Mrudula = (Time taken by Mrudula/48)<br>Time taken by Mrudula = 48/2 = 24 minutes<br><b>Example 2:</b><br>Rishi is thrice as fast as Manasa. Manasa is thrice as fast as Rakesh. The distance covered by Rakesh in 63 minutes will be covered by Manasa in ___ minutes<br>Sol: <br>As speed is inversely proportional to time,<br>(Speed of Rakesh/Speed of Manasa) = (Time taken by Manasa/Time taken by Rakesh)<br>(1/3 X Speed of Manasa )/ Speed of Manasa = (Time taken by Manasa /63)<br>Time taken by Manasa = 63/3 = 21 minutes<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/time-and-work/",
+                "http://www.mastguru.com/"
+            ]
+        },
+        {
+            "question": " At the time of his marriage Arunachalam was 29 years old. During marriage, his wife was younger by 3 Â½ years. 20 years afterwards the total ages of Arunachalam, his wife and their only son Kamalraj is 110 years. What is the age of Kamalraj now?",
+            "options": [
+                "~12 yrs",
+                "~14 yrs",
+                "~16.5 yrs",
+                "=15.5 yrs"
+            ],
+            "id": "425",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-25.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br>When Arunraj joined Engineering College Bobbiliraj was 34 months old. Sunilrajâ€™s (father of Arunraj) age was two months less than 14 times the age of Bobbiliraj. Arunrajâ€™s age was six months more than six times the age of Bobbiliraj.<br>Now, Bobbiliraj has attained the age of Arunraj when he (Arunraj) joined the Engineering College. What will be the total age of all the three â€“ Bobbiliraj, Arunraj and Sunilraj now?<br>Solution :<br>Part I : Calculation of Ages During Arunraj's Joining In Engineering College<br>Age of Bobbiliraj = 34 months<br>Sunilraj's age = 14 x Bobbiliraj's age - 2 = 14 x 34 - 2 = 474 months<br>Arunraj's age = 6 x Bobbiliraj's age + 6 = 6 x 34 + 6 = 210 months<br>Part II : Calculation of Current Ages<br>Bobbiliraj's current age = Age of Arunraj when he (Arunraj) joined college = 210 months<br>Months elapsed between present time and time when Arunraj joined college = Present age of Bobbiliraj - Age of Bobbiliraj when Arunraj joined college = 210 - 34 = 176 months<br>Current ages of Sunilraj and Arunraj can be found by adding the time elapsed (176 months) to their previously calculated ages.<br>Therefore, Sunilraj's current age = 474 + 176 = 650 months<br>Arunraj's current age = 210 + 176 = 386 months<br>Total ages of the three = 210 + 650 + 386 = 1246 months = 103 years and 10 months.<br>Q. Jambu was 60 months old when Padmanabhan joined Infosys. Padmanabhan had joined Infosys 80 months back. Mohanraj is now eighty months more than six times the age of Jambu when Padmanabhan joined Infosys. The total of the ages of Jambu, Padmanabhan and Mohanraj is 100 years after lapse of 8 1/3 years. What was the age at which Padmanabhan joined Infosys?<br>Solution :<br>Part I. During Padmanabhan's Joining at Infosys<br>Jambu's age = 60 months<br>Part II. Current Ages<br>Since Padmanabhan had joined 80 month's back, Jambu's current age = Jambu's age when Padmanabhan joined Infosys + 80 = 60 + 80 = 140 months<br>(According to data in question) Mohanraj's current age = 80 months + 6 x Jambu's age when Padmanabhan joined Infosys = 80 + 6 x 60 = 440 months<br>Part III. Ages after 8 1/3 years (or 8 years + 1/3 year = 8 x 12 months + 12/3 months = 100 months)<br>Jambu's age after 100 months = Jambu's current age + 100 months = 140 + 100 = 240 months<br>Mohanraj's age after 100 months = Mohanraj's current age + 100 months = 440 + 100 = 540 months<br>If we assume current age of Padmanabhan as P, then his age after 100 months = P + 100<br>It is given that after 100 months, the sum of the ages is 100 years or 1200 months.<br>i.e 240 + 540 + P + 100 = 1200<br>Or P = 320 months<br>We have to find, Padmanabhan's age when he joined Infosys. i,e we have to find his age before 80 months.<br>Therefore, our answer = P - 80 = 320 - 80 = 240 months = 240/12 years = 20 years<br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/problems-on-ages/",
+                "http://studentzoneonline.com/Aptitude/tabid/64/catid/106/Problems-on-Ages.aspx"
+            ]
+        },
+        {
+            "question": "In a group of 50 people, 35 people speak Hindi, 25 people speak both Hindi and Telugu, and all the people speak at least one of the two languages. The number of people who speak Telugu is",
+            "options": [
+                "~20",
+                "~25",
+                "=40",
+                "~10"
+            ],
+            "id": "426",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-26.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1</b><br>Answer to Question 1<br>1.  In a class of 50 students, 18 take Chorus, 26 take Band, and 2 take both Chorus and Band.  How many students in the class are not enrolled in either Chorus or Band?<br><img src=\"static/Num-fb/images/26.1.jpg\" alt=\"image\">  <br>16 + 2 + 24 + x = 50<br>42 + x = 50<br>x = 8 students<br><br><b>Example 2</b>:<br>In a school of 320 students, 85 students are in the band, 200 students are on sports teams, and 60 students participate in both activities.  How many students are involved in either band or sports? <br><img src=\"static/Num-fb/images/26.2.jpg\" alt=\"image\"><br>25 + 60 + 140 = 225<br>There are 225 students involved<br>in either band or sports.<br><br>",
+            "practicelinks": [
+                "http://www.regentsprep.org/regents/math/algebra/AP2/PracVenn.htm",
+                "http://www.mathsisfun.com/sets/venn-diagrams.html"
+            ]
+        },
+        {
+            "question": "P and Q can do a piece of work in 20 days, Q and R in 24 days, and R and P in 15 days. If all three of them are working, what part of the work is done in one day",
+            "options": [
+                "~19/120",
+                "~17/240",
+                "~17/120",
+                "=19/240"
+            ],
+            "id": "427",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-27.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1:</b><br>A can finish a work in 18 days and B can do the same work in 15 days. B worked for 10 days and left the job. In how many days, A alone can finish the remaining work?<br>B's 10 day's work =(1/15)x 10=2/3.<br>Remaining work =1-(2/3)=1/3<br>Now,1/18 work is done by A in 1 day.<br>Therefore 1/3 work is done by A in (18/3)=6 days<br><b>Example 2 :</b><br>Worker A takes 8 hours to do a job. Worker B takes 10 hours to do a job. How long should it take both A and B, working together to do same job.<br>Soln:<br>In this type of questions, first we need to calculate 1 hours work, then their collective work as,<br><br>A's 1 hour work is 1/8<br>B's 1 hour work is 1/10<br><br>(A+B)'s 1 hour work = 1/8 + 1/10<br>= 9/40<br><br>So both will finish the work in 40/9 hours<br>=<br>(4 4/9)<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/time-and-work/",
+                "http://www.mastguru.com/"
+            ]
+        },
+        {
+            "question": "The number ‘X’ is exactly divisible by 5. The remainder after the division of the number ‘Y’ by 5 is equal to 1 and the remainder after the division of the number ‘Z’ by 5 is equal to 2. What is the remainder when the number (2X + 3Y – 4Z) is divided by 5?",
+            "options": [
+                "=0",
+                "~1",
+                "~2",
+                "~3"
+            ],
+            "id": "428",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-28.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1:</b><br>If n is a natural number, then (6n2+6n) is always divisible by:<br>6n2 + 6n = 6n(n + 1)<br><br>Hence 6n2 + 6n is always divisible by 6 and 12 (since remember that n(n + 1) is always even)<br><b>Example 2 :</b><br>If x and y are positive integers such that (3x + 7y) is a multiple of 11, then which of the following will be divisible by 11 ?<br>A.<br>4x + 6y B.<br>x + y + 4<br>C.<br>9x + 4y D.<br>4x - 9y<br><br>Solution:<br>By hit and trial, we put x = 5 and y = 1 so that (3x + 7y) = (3 x 5 + 7 x 1) = 22, which is divisible by 11.<br>  (4x + 6y) = ( 4 x 5 + 6 x 1) = 26, which is not divisible by 11;<br>(x + y + 4 ) = (5 + 1 + 4) = 10, which is not divisible by 11;<br>(9x + 4y) = (9 x 5 + 4 x 1) = 49, which is not divisible by 11;<br>(4x - 9y) = (4 x 5 - 9 x 1) = 11, which is divisible by 11.<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/numbers/001010",
+                "http://www.careerbless.com/aptitude/qa/numbers.php"
+            ]
+        },
+        {
+            "question": "The sum of two integers is 10 and the sum of their reciprocals is 5 /12. Then the larger of these integers is",
+            "options": [
+                "~3",
+                "~4",
+                "~5",
+                "=6"
+            ],
+            "id": "429",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-29.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1</b>:<br> The sum of two integers is thirty. Eight times the smaller integer is six more than five times the larger integer. Find the integers.<br>Soln: First of all we must form equations. Now, <br>Let the smaller integer = x and <br>Let the greater integer = y <br>x + y = 30 ...............(1) Given. The sum of the integers <br>8x = 5y + 6 or } Given. 8 times the smaller integer is <br>8x - 5y = 6 ...............(2)} bigger by 6 than 5 times the greater <br>} integer.<br>(1) * 5, we get,<br>5x + 5y = 150 .............(3)<br>By adding Eq.(2) and (3), <br>13x = 156<br>So x = 156/13 = 12<br>By replacing this value of x in Eq.(1), we get<br>12 + y = 30<br>So y = 30 - 12 = 18 <br>So, 12 and 18 are the integers.<br><b>Example 2:</b><br>Twice the larger of two numbers is three more than five times the smaller, and the sum of four times the larger and three times the smaller is 71. What are the numbers?<br>Solution<br>Let the larger number:  x <br>Let the smaller number:  y <br><br>twice the larger:  2x <br>three more than five times the smaller:  5y + 3 <br>relationship between (\"is\"):  2x = 5y + 3<br><br>four times the larger:  4x <br>three times the smaller:  3y <br>relationship between (\"sumof\"):  4x + 3y = 71<br><br>Now I have two equations in two variables:<br><br>2x = 5y + 3 <br>4x + 3y = 71<br><br>I will solve, say, the first equation for x:<br><br>x = (5/2)y + (3/2)<br><br>Then I'll plug the right-hand side of this into the second equation in place of the \"x\":<br><br>4[ (5/2)y + (3/2) ] + 3y = 71 <br>10y + 6 + 3y = 71 <br>13y + 6 = 71 <br>13y = 65 <br>y = 65/13 = 5<br><br>Now that I have the value for y, I can solve for x:<br><br>x = (5/2)y + (3/2) <br>x = (5/2)(5) + (3/2) <br>x = (25/2) + (3/2) <br>x = 28/2 = 14<br><br>As always, I need to remember to answer the question that was actually asked. The solution here is not \"x = 14\", but is the following sentence:<br><br>The larger number is 14, and the smaller number is 5.<br><br>",
+            "practicelinks": [
+                "www.khanacademy.org%2Fmath%2Falgebra%2Fsolving-linear-equations-and-inequalities%2FMore-equation-practice%2Fv%2Fsum-of-consecutive-odd-integers&ei=prZqVaauNsu1uQSWp4PYCQ&usg=AFQjCNG6fPNIH4IBilwb3fTOMiTyc6-LKA&bvm=bv.94455598,d.c2E",
+                "http://www.mathgoodies.com/lessons/vol5/addition.html"
+            ]
+        },
+        {
+            "question": "A man purchases 2 watches for Rs. 560. He sells one at 15% profit and the other at 10% loss. He neither gains nor loses. Thus, the cost prices of 2 watches are",
+            "options": [
+                "~Rs.260 and Rs.300",
+                "~Rs.210 and Rs.350",
+                "~Rs270 and Rs.290",
+                "=Rs.224 and Rs.336"
+            ],
+            "id": "430",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-30.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1</b><br>A shopkeeper sells one radio for Rs. 840 at a gain of 20% and another for Rs. 960 at a loss of 4%. What is his total gain or loss percentage?<br>Solution:<br><img src=\"static/Num-fb/images/30.1.jpg\" alt=\"image\"><br><b>Example 2</b><br>When a plot is sold for Rs. 18,700, the owner loses 15%. At what price must that plot be sold in order to gain 15%?<br>Soln:<br>85 : 18700 = 115 : x<br>x =(18700 x 115)/85= 25300.<br>Hence, S.P. = Rs. 25,300.<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/profit-and-loss/018003",
+                "http://www.careerbless.com/aptitude/qa/profitloss.php"
+            ]
+        },
+        {
+            "question": "Suraj went to his college which is 8 kms towards the South from his hostel. His roommate Sandeep went to a clinic which is 6 kms towards the Westfrom the hostel. What is the shortest distance between the clinic and college?",
+            "options": [
+                "~9 km",
+                "~9.5 kms",
+                "~7 kms",
+                "=10 kms"
+            ],
+            "id": "431",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-31.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1</b><br>A man walks 5 km toward south and then turns to the right. After walking 3 km he turns to the left and walks 5 km. Now in which direction is he from the starting place?<br><img src=\"static/Num-fb/images/31.1.jpg\" alt=\"image\"> <br>Hence required direction is South-West.<br><b>Example 2</b><br>Rasik walked 20 m towards north. Then he turned right and walks 30 m. Then he turns right and walks 35 m. Then he turns left and walks 15 m. Finally he turns left and walks 15 m. In which direction and how many metres is he from the starting position?<br><br>Solution<br><img src=\"static/Num-fb/images/31.2.jpg\" alt=\"image\"> <br><br>",
+            "practicelinks": [
+                "http://www.indianstudyhub.com/logical-reasoning/DIRECTION-TEST/",
+                "http://www.mastguru.com/direction-sense-test-questions-answers/question/110"
+            ]
+        },
+        {
+            "question": "How many times does the digit 6 appear when you count from 11 to 100?",
+            "options": [
+                "~17",
+                "=19",
+                "~21",
+                "~20"
+            ],
+            "id": "432",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-32.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1</b>:<br>How many number of times will the digit '7' be written when listing the integers from 1 to 1000? <br>From :1-100 = 20 ( 7,17,27,37,47,57,67,70-79,87,97 =20 , PS=77 has two 7 digits) <br>From :101-200 = 20 <br>From :201-300 = 20 <br>From :301-400 = 20 <br>From :401-500 = 20 <br>From :501-600 = 20 <br>From :601-699 = 20 <br>From :700-800 = 20 + 100 <br>From :801-900 = 20 <br>From :901-1000 = 20 <br><br>Total = 20x10 + 100= 300 <br><b>Example 2</b>:<br>How many times number 3 appears in 1 to 1000 ?<br>Another method of solving :<br>Any number between 1 and 999 can be expressed in the form of xyz where 0 < x, y, z < 9. <br><br>Case 1. The numbers in which 3 occurs only once. This means that 3 is one of the digits and the remaining two digits will be any of the other 9 digits <br><br>You have 1*9*9 = 81 such numbers. However, 3 could appear as the first or the second or the third digit. Therefore, there will be 3*81 = 243 numbers (1-digit, 2-digits and 3- digits) in which 3 will appear only once. <br><br>Case 2. The numbers in which 3 will appear twice. In these numbers, one of the digits is not 3 and it can be any of the 9 digits. <br>There will be 9 such numbers. However, this digit which is not 3 can appear in the first or second or the third place. So there are 3 * 9 = 27 such numbers. <br><br>In each of these 27 numbers, the digit 3 is written twice. Therefore, 3 is written 54 times. <br><br>Case 3. The number in which 3 appears thrice - 333 - 1 number. 3 is written thrice in it. <br><br>Therefore, the total number of times the digit 3 is written between 1 and 999 is 243 + 54 + 3 = 300<br><br>",
+            "practicelinks": [
+                "http://www.beatthegmat.com/",
+                "http://www.mastguru.com"
+            ]
+        },
+        {
+            "question": "If A is more than B by 20%, by what % B is less than A?",
+            "options": [
+                "~16.33",
+                "=16.67",
+                "~17",
+                "~18"
+            ],
+            "id": "433",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-33.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1</b>:<br>If A's height is 40% less than that of B, how much percent B's height is more than that of A?<br>Soln:<br>Excess of B's height over A's = [(40/(100 - 40)] x 100%<br>= 66.66%<br><b>Example 2</b>:<br>The population of a town increased from 1,75,000 to 2,62,500 in a decade. The average percent increase of population per year is:<br>Soln:<br>Increase in 10 years = (262500 - 175000) = 87500.<br>Increase% =(87500x 100)/175000% =50%<br>Required average =(50/10)% =5%.<br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/percentage/017001",
+                "http://www.sawaal.com/percentage-questions-and-answers/if-as-height-is-40-less-than-that-of-b-how-much-percent-bs-height-is-more-than-that-of-a_2515"
+            ]
+        },
+        {
+            "question": "When a particular positive number is divided by 5, the remainder is 2. If the same number is divided by 6, the remainder is 1. If the difference between the quotients of division is 3, then find the number.",
+            "options": [
+                "~37",
+                "~67",
+                "~127",
+                "=97"
+            ],
+            "id": "434",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-34.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1</b>:<br>The largest 4 digit number exactly divisible by 88 is:<br>Largest 4-digit number = 9999<br><br> 88) 9999 (113<br>     88<br>     ----<br>     119<br>      88<br>     ----<br>      319<br>      264<br>      ---<br>       55<br>      ---<br>       <br> Required number = (9999 - 55)<br>                 = 9944.<br><br><b>Example 2</b>:<br>What least number must be subtracted from 7963 to make it exactely divisible by 65 ?<br>Soln:<br> On dividing 7963 by 65 we get 33 as remainder, So the number to be subtracted will be 33<br><br>",
+            "practicelinks": [
+                "http://www.vidyatutorial.com/NumberSystem.html",
+                "http://www.indiabix.com/aptitude/numbers/"
+            ]
+        },
+        {
+            "question": "If March 5th, 1999 was on Friday, what day of the week will be March 5th, 2000?",
+            "options": [
+                "~Saturday",
+                "~Friday",
+                "=Sunday",
+                "~Thursday"
+            ],
+            "id": "435",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-35.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1</b>:<br>It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?<br>Soln:<br>On 31st December, 2005 it was Saturday.<br>Number of odd days from the year 2006 to the year 2009 = (1 + 1 + 2 + 1) = 5 days.<br>  On 31st December 2009, it was Thursday.<br>Thus, on 1st Jan, 2010 it is Friday.<br><b>Example 2</b>:<br>Today is tuesday. After 72 days, it will be ?<br>Tuesday will be repeated after each 7 days so, after at 70 day it will also be tuesday, so at 72 th day it will be Friday<br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/calendar/",
+                "http://www.vidyatutorial.com/Calendar.html"
+            ]
+        },
+        {
+            "question": "An accurate clock shows 8 o'clock in the morning. Through how may degrees will the hour hand rotate when the clock shows 4 o'clock in the afternoon? ",
+            "options": [
+                "~150◦",
+                "~180◦",
+                "~200◦",
+                "=240◦"
+            ],
+            "id": "436",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-36.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>An accurate clock shows 7 o'clock in the evening. Through how may degrees will the hour hand rotate when the clock shows 1 o'clock in the night?<br>A. 144º       B. 150º         C.168º          D.180º<br>Solution<br>Angle traced by the hour hand in 6 hours =(360/12 x 6)º   = 180º.         <br><b>Example 2:</b><br>At what angle the hands of a clock are inclined at 15 minutes past 4 ?<br><br>Solution : 15 minutes past 4= 4 + 15 / 60 = 17 / 4 hrs<br><br>Angle traced by hour hand in 12 hours = 360º<br><br><img src=\"static/Num-fb/images/36.1.jpg\" alt=\"image\"><br><br><br><img src=\"static/Num-fb/images/36.2.jpg\" alt=\"image\"><br><br><br><img src=\"static/Num-fb/images/36.3.jpg\" alt=\"image\"><br><br><br>",
+            "practicelinks": [
+                "http://www.vidyatutorial.com/Clocks.html",
+                "http://www.careerbless.com/aptitude/qa/clock_imp.php"
+            ]
+        },
+        {
+            "question": "If A:B = 3:2 and  B:C  = 5:4 , then A:B:C is",
+            "options": [
+                "~20:15:10",
+                "~10:8:15",
+                "=15:10:8",
+                "~8:10:15"
+            ],
+            "id": "437",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-37.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>Seats for Mathematics, Physics and Biology in a school are in the ratio 5 : 7 : 8. There is a proposal to increase these seats by 40%, 50% and 75% respectively. What will be the ratio of increased seats?<br>A. 2 : 3 : 4   B.  6 : 7 : 8<br>C. 6 : 8 : 9   D.  None of these<br><br>Solution :<br>Originally, let the number of seats for Mathematics, Physics and Biology be 5x, 7x and 8x respectively.<br>Number of increased seats are (140% of 5x), (150% of 7x) and (175% of 8x).<br> (140   x 5x)/100,(150 x 7x)/100 and (175 x 8x)/100<br>  7x,    21x/2   and 14x.<br>  Therefore The required ratio = 7x :   21x/2   : 14x<br>  14x : 21x : 28x<br>  2 : 3 : 4.<br><b>Example 2:</b><br>The salaries A, B, C are in the ratio 2 : 3 : 5. If the increments of 15%, 10% and 20% are allowed respectively in their salaries, then what will be new ratio of their salaries?<br>A. 3 : 3 : 10    B. 10 : 11 : 20  C. 23 : 33 : 60 D. Cannot be determined<br><br>Solution :<br>Let A = 2k, B = 3k and C = 5k.<br>A's new salary =115/100 of 2k =(115    x 2k)/100=23k/10<br>B's new salary =110/100 of 3k =(110 x 3k)/100 = 33k/10<br>C's new salary =(120/100) of 5k =(120 x 5k)/100 = 6k<br>Therefore New ratio       23k/10: 33k/10 :6k= 23 : 33 : 60<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/ratio-and-proportion/",
+                "http://www.lofoya.com/Aptitude-Questions-And-Answers/Ratio-and-Proportion/l1p1.htm"
+            ]
+        },
+        {
+            "question": "The average of 11 results is 50. If the average of first 6 results is 48 and that of the last 6 is 53, find the 6th result?",
+            "options": [
+                "~46",
+                "=56",
+                "~56",
+                "~48"
+            ],
+            "id": "438",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-38.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>A cricket batsmanâ€™s average in first 21 innings was 21. After the 26th innings his average was 23 how many runs he scored in the 23th innings?<br>Sol: <br>Average of 21 innings= (sum/21)=21<br>Sum= 21*21 <br>Let the score of his 23rd inning= x<br>Average after 23 innings= (sum + x) / 23 = 23<br>X= (23*23)-(21*21)<br>X=88<br><b>Example 2:</b><br>The average age of a class of 30 students and a teacher reduces by 0.5 years if we exclude the teacher. If the initial average is 14 years, find the age of the class teacher?<br>Sol:<br>Age of teacher= Total age of (students + Teacher) – Total age of students<br>=(31 X 14) – (30 X 13.5)=434 – 405 = 29 years<br><br>",
+            "practicelinks": [
+                "http://studentzoneonline.com/Aptitude/tabid/64/catid/116/Average.aspx",
+                "http://www.indiabix.com/aptitude/average/"
+            ]
+        },
+        {
+            "question": "At present Raju is 10 years older than Suresh. After 15 years, Suresh will be 55 years old. What is Raju’s present age?",
+            "options": [
+                "~45",
+                "~60",
+                "=50",
+                "~50"
+            ],
+            "id": "439",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-39.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>Sridhar is younger than Rajan by 7 years. If their ages are in the respective ratio of 7 : 9, how old is Sridhar?<br>A.   16 years    B.  18 years<br>C.  28 years    D.  24.5 years<br><br>Let Rajan's age be x years.<br>Then, Sridhar's age = (x - 7) years.<br>   (x - 7)/x   =   7/9<br>  9x - 63 = 7x<br>  2x = 63<br>  x = 31.5<br>Hence, Sridhar's age =(x - 7) = 24.5 years.<br><b>Example 2:</b><br>The age of father 10 years ago was thrice the age of his son. Ten years hence, father's age will be twice that of his son. The ratio of their present ages is:<br>A.    5 : 2   B.  7 : 3<br>C. 9 : 2   D.  13 : 4<br><br>Let the ages of father and son 10 years ago be 3x and x years respectively.<br>Then, (3x + 10) + 10 = 2[(x + 10) + 10]<br>  3x + 20 = 2x + 40<br>  x = 20.<br>  Required ratio = (3x + 10) : (x + 10) = 70 : 30 = 7 : 3.<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/problems-on-ages/",
+                "http://www.mastguru.com/problems-on-ages-questions-answers/question/25"
+            ]
+        },
+        {
+            "question": "January 1, 2015 was Thursday. What day of the week lies on Jan. 1, 2016?",
+            "options": [
+                "=Friday",
+                "~Friday",
+                "~Wednesday",
+                "~Saturday"
+            ],
+            "id": "440",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-40.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?<br>Soln:<br>On 31st December, 2005 it was Saturday.<br>Number of odd days from the year 2006 to the year 2009 = (1 + 1 + 2 + 1) = 5 days.<br>  On 31st December 2009, it was Thursday.<br>Thus, on 1st Jan, 2010 it is Friday.<br><b>Example 2:</b><br>Today is tuesday. After 72 days, it will be ?<br>Tuesday will be repeated after each 7 days so, after at 70 day it will also be tuesday, so at 72 th day it will be Friday<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/calendar/",
+                "http://www.vidyatutorial.com/Calendar.html"
+            ]
+        },
+        {
+            "question": "A candidate who gets 20% marks fails by 10 marks but another candidate who gets 48% marks gets 18% more than the passing marks. Find the maximum marks.",
+            "options": [
+                "~50",
+                "=100",
+                "~150",
+                "~200"
+            ],
+            "id": "441",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-41.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1.</b><br>40% of a number is 120. What is 20% of the same number?<br><br>Soln : Let the number be x<br>40/100 * x   = 120<br>x = 300<br>So 20% of the same number = 20/100 * 300 = 60<br><br><b>Example 2:</b><br> 30% of a number is 90. What is 45% of the same number?<br><br>Soln : Let the number be x<br>30/100 * x   = 90<br>x = 300<br>So 45% of the same number = 45/100 * 300 = 135<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/percentage/",
+                "http://www.purplemath.com/modules/percntof.htm"
+            ]
+        },
+        {
+            "question": "If a light flashes every 5 seconds, how many times will it flash in 1/2 of an hour?",
+            "options": [
+                "~400",
+                "~360",
+                "=361",
+                "~300"
+            ],
+            "id": "442",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-42.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>Six bells commence tolling together and toll at intervals of 2, 4, 6, 8 10 and 12 seconds respectively. In 30 minutes, how many times do they toll together ?<br>A.   4     B.    10<br>C.    15  D.  16<br>L.C.M. of 2, 4, 6, 8, 10, 12 is 120.<br>So, the bells will toll together after every 120 seconds(2 minutes).<br>In 30 minutes, they will toll together    30/2+1=16 times.<br><b>Example 2:</b><br>The traffic lights at three different road crossings change after every 48 sec, 72 sec and 108 sec respectively. If they all change simultaneously at 8 : 20 : 00 hours, then they will again change simultaneously at (C.D.T. 1992)<br>a. 8 : 27: 12 hrs          b. 8:27:36 hrs<br>c. 8: 27: 24 hrs          d. 8:27:48 hrs<br>Solution:<br>Interval of change = (1.c.m. of 48, 72, 108) sec. = 432 sec. The lights will change simultaneously after every 432 seconds, i.e. 7 mm. 12 sec. <br>Next simultaneous change will take place at 8 : 27 : 12 hrs.<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/problems-on-hcf-and-lcm/",
+                "http://studentzoneonline.com/Aptitude/tabid/64/catid/111/HCF-and-LCM.aspx"
+            ]
+        },
+        {
+            "question": "The ratio of the Mother's age to her daughter's age is 9: 5. The product of their ages is 1125. the ratio of their ages after five years will be :",
+            "options": [
+                "~1:3",
+                "~3:5",
+                "~2:3",
+                "=5:3"
+            ],
+            "id": "443",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-43.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>Sridhar is younger than Rajan by 7 years. If their ages are in the respective ratio of 7 : 9, how old is Sridhar?<br>A.   16 years    B.  18 years<br>C.  28 years    D.  24.5 years<br><br>Let Rajan's age be x years.<br>Then, Sridhar's age = (x - 7) years.<br>  (x - 7)/x=7/9<br>  9x - 63 = 7x<br>  2x = 63<br>  x = 31.5<br>Hence, Sridhar's age =(x - 7) = 24.5 years.<br><b>Example 2:</b><br>The age of father 10 years ago was thrice the age of his son. Ten years hence, father's age will be twice that of his son. The ratio of their present ages is:<br>A.   5 : 2   B.  7 : 3<br>C. 9 : 2   D.  13 : 4<br><br>Let the ages of father and son 10 years ago be 3x and x years respectively.<br>Then, (3x + 10) + 10 = 2[(x + 10) + 10]<br>  3x + 20 = 2x + 40<br>  x = 20.<br>  Required ratio = (3x + 10) : (x + 10) = 70 : 30 = 7 : 3.<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/problems-on-ages/",
+                "http://www.mastguru.com/problems-on-ages-questions-answers/question/25"
+            ]
+        },
+        {
+            "question": "1 kid takes 3 mins to eat 1 ice cream. How much time will 10 kids take to eat 10 ice creams?",
+            "options": [
+                "~30 mins",
+                "=3mins",
+                "~10 mins",
+                "~13mins"
+            ],
+            "id": "444",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-44.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br><img src=\"static/Num-fb/images/44.1.jpg\" alt=\"image\"><br>Answer   :   6<br>Explanation    :   The numbers in each row and column add up to 15.<br><b>Example 2:</b><br><img src=\"static/Num-fb/images/44.2.jpg\" alt=\"image\"><br>Answer    :   9<br>Explanation    :   The number at the centre of each triangle equals the sum of the lower two numbers minus the top number.<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/puzzles/number-puzzles/",
+                "https://www.khanacademy.org/math/recreational-math/puzzles?gclid=CP_e0bm1-MUCFUQnjgod4nsAaQ"
+            ]
+        },
+        {
+            "question": "Express the 5% as a fraction and decimal",
+            "options": [
+                "=1/20 , 0.05",
+                "~5/20 ,0.025",
+                "~3/20,0.15",
+                "~5/20,0.005"
+            ],
+            "id": "445",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-45.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br><img src=\"static/Num-fb/images/45.1.jpg\" alt=\"image\"><br>Now you can reduce the fraction:<br><img src=\"static/Num-fb/images/44.1.1.jpg\" alt=\"image\"><br><b>Example 2:</b><br><img src=\"static/Num-fb/images/44.2.jpg\" alt=\"image\"><br><br>",
+            "practicelinks": [
+                "http://www.purplemath.com/modules/percents.htm#Percent_to_Fraction",
+                "http://www.mathsisfun.com/decimal-fraction-percentage.html"
+            ]
+        },
+        {
+            "question": "Two trains move from station A and station B towards each other at the speed of 50 km/h and 60 km/h. At the meeting point, the driver of the second train felt that the train has covered 120 km more. What is the distance between A and B?",
+            "options": [
+                "~1200 km",
+                "=1320 km",
+                "~1100km",
+                "~960km"
+            ],
+            "id": "446",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-46.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>2 trains starting at the same time from 2 stations 200km apart and going in opposite direction cross each other at a distance of 110km from one of the stations. What is the ratio of their speeds?<br>   A.  11 : 9  B.  7 : 3       C.  18 : 4      D.  None of these<br>Solution:<br>In same time, they cover 110km & 90 km respectively.<br>For the same time speed and distance is inversely proportional.<br>so ratio of their speed =110:90= 11: 9<br><b>Example 2:</b><br>Two stations A and B are 110 km apart on a straight line. One train starts from A at 7 am and travel towards B at 20 km/hr speed. Another train starts from B at 8 am and travel towards A at 25 km/hr speed. At what time will they meet?<br>  A.  9 am    B.  10 am       C.  11 am       D.  None of these<br>Solution <br>A ----------------- C ---------------B<br>7am ------------------------------ 8am<br>AC =20 km, CB =90 km<br>Distance travelled in 1 hour =20 km<br>Remaining distance =110−’20=90 km<br>Time taken=<br>Distance<br>Relative speed<br><br>=<br>90<br>(20+25)<br>=2 hours<br>So, time = 8 am + 2 = 10 am<br><br>",
+            "practicelinks": [
+                "http://www.lofoya.com/Aptitude-Questions-And-Answers/Time-Speed-and-Distance/l1p1.htm",
+                "http://www.mastguru.com/time-and-distance-questions-answers/question/34"
+            ]
+        },
+        {
+            "question": "Find the least number which when divided by 5, 6, 7, 8 and 9 leaves the same remainder 1 in each case.",
+            "options": [
+                "~2400",
+                "~2360",
+                "~2520",
+                "=2521"
+            ],
+            "id": "447",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-47.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br> What is the greatest number of four digits which is divisible by 15, 25, 40 and 75 ?<br>Soln:<br>Greatest number of four digits = 9999<br><br>LCM of 15, 25, 40 and 75 = 600<br><br>9999 Ã· 600 = 16, remainder = 399<br><br>Hence, greatest number of four digits which is divisible by 15, 25, 40 and 75<br><br>= 9999 - 399 = 9600<br><br><b>Example 2:</b><br>Find the largest number of four digits which is exactly divisible by 27,18,12,15<br><br>Solution:<br>LCM of 27-18-12-15 is 540.<br>After dividing 9999 by 540 we get 279 remainder.<br>So answer will be 9999-279 = 9720<br><br>",
+            "practicelinks": [
+                "http://www.mastguru.com/find-the-largest-number-of-four-digits-which-is-exactly-divisible-by-27181215/403",
+                "http://www.careerbless.com/aptitude/qa/hcf_lcm.php"
+            ]
+        },
+        {
+            "question": "How many 3-digit numbers can be formed from the digits 2, 3, 5, 6, 7 and 9, which are divisible by 5 and none of the digits is repeated?",
+            "options": [
+                "=20",
+                "~10",
+                "~5",
+                "~15"
+            ],
+            "id": "448",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-48.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>In how many ways can the letters of the word 'LEADER' be arranged?<br>A.  72  B.  144<br>C.   360 D.  720<br>E.   None of these       <br>Solution :<br><br>The word 'LEADER' contains 6 letters, namely 1L, 2E, 1A, 1D and 1R.<br>Required number of ways = 6!/(1!)(2!)(1!)(1!)(1!) = 360.   <br><b>Example 2:</b><br>How many 3-letter words with or without meaning, can be formed out of the letters of the word, 'LOGARITHMS', if repetition of letters is not allowed?<br>A. 720    B. 420<br>C. None of these  D. 5040<br>Solution:<br>The word 'LOGARITHMS' has 10 different letters.<br><br>Hence, the number of 3-letter words(with or without meaning) formed by using these letters <br>= 10P3<br>= 10 x 9 x 8<br>= 720<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/permutation-and-combination/",
+                "https://www.mathsisfun.com/combinatorics/combinations-permutations.html"
+            ]
+        },
+        {
+            "question": "A mixture of 20 liters of milk and water contains 20% of water. The new mixture is formed by adding 5 lit of water. What is the percentage of milk in the new mixture?",
+            "options": [
+                "~36%",
+                "~20%",
+                "=64%",
+                "~46%"
+            ],
+            "id": "449",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-49.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>In a mixture 60 litres, the ratio of milk and water 2 : 1. If this ratio is to be 1 : 2, then the quanity of water to be further added is:<br>Solution:<br>Quantity of milk = 60 x(2/3) litres = 40 litres.<br>Quantity of water in it = (60- 40) litres = 20 litres.<br>New ratio = 1 : 2<br>Let quantity of water to be added further be x litres.<br>Then, milk : water =40/(20 + x)<br>Now, 40/(20 + x) = 1/2<br> 20 + x = 80<br> x = 60.<br> Quantity of water to be added = 60 litres.<br><b>Example 2:</b><br>A milk vendor has 2 cans of milk. The first contains 25% water and the rest milk. The second contains 50% water. How much milk should he mix from each of the containers so as to get 12 litres of milk such that the ratio of water to milk is 3 : 5?<br>A. 5litres, 7 litres           B. 7litres, 4 litres<br>C. 6litres, 6 litres                D. 4litres, 8 litres<br>Solution:<br>Let x and (12-x) litres of milk be mixed from the first and second container respectively<br><br><br>Amount of milk in x litres of the the first container = .75x<br><br>Amount of water in x litres of the the first container = .25x<br><br>Amount of milk in (12-x) litres of the the second container = .5(12-x)<br><br>Amount of water in (12-x) litres of the the second container = .5(12-x)<br><br>Ratio of water to milk = [.25x + .5(12-x)] : [.75x + .5(12-x)] = 3 : 5<br>⇒(.25x+6−’.5x)(.75x+6−’.5x)=35⇒(6−’.25x)(.25x+6)=35⇒30−’1.25x=.75x+18⇒2x=12⇒x=6<br><br>Since x = 6, 12-x = 12-6 = 6<br><br>Hence 6 and 6 litres of milk should mixed from the first and second container respectively <br><br>",
+            "practicelinks": [
+                "http://www.careerbless.com/aptitude/qa/mixturesandalligations.php",
+                "http://www.indiabix.com/aptitude/ratio-and-proportion"
+            ]
+        },
+        {
+            "question": "There are 7 observations in the data and their mean is 11. If each observation is multiplied by 2, then find the new mean.",
+            "options": [
+                "~11",
+                "=22",
+                "~20",
+                "~15"
+            ],
+            "id": "450",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-50.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>A student has gotten the following grades on his tests: 87, 95, 76, and 88. He wants an 85or better overall. What is the minimum grade he must get on the last test in order to achieve that average?<br>Solution:<br>The unknown score is \"x\". Then the desired average is:<br>(87 + 95 + 76 + 88 + x) Ã· 5 = 85<br>Multiplying through by 5 and simplifying, I get:<br>87 + 95 + 76 + 88 + x = 425 <br>                      346 + x = 425 <br>                                x = 79<br><b>He needs to get at least a 79 on the last test.</b><br><br><b>Example 2:</b><br>Example: Suresh did a survey of how many games each of 20 friends owned, and got this:<br>9, 15, 11, 12, 3, 5, 10, 20, 14, 6, 8, 8, 12, 12, 18, 15, 6, 9, 18, 11<br>Find Mean?<br>Solution:<br>To find the Mean, add up all the numbers, then divide by how many numbers there are:<br>Mean =(9+15+11+12+3+5+10+20+14+6+8+8+12+12+18+15+6+9+18+11)/20<br>= 11.1<br>",
+            "practicelinks": [
+                "http://www.purplemath.com/modules/meanmode.htm",
+                "https://www.khanacademy.org/math/probability/descriptive-statistics/central_tendency/v/mean-median-and-mode"
+            ]
+        },
+        {
+            "question": "In a division sum, the divisor is 10 times the quotient and 5 times the remainder. If the remainder is 46, what is the dividend?",
+            "options": [
+                "~4236",
+                "~4336",
+                "=5336",
+                "~4306"
+            ],
+            "id": "451",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-51.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>The difference of two numbers is 1365. On dividing the larger number by the smaller, 6 is obtained as quotient and 15 as remainder. What is the smaller number ?<br>A. 310  B. 330<br>C. 250  D. 270<br><br>Let the smaller number be x<br><br>and the bigger number be (x + 1365)<br><br>(x + 1365) Ã· x = 6, remainder = 15<br><br>=> (x + 1365) = 6x + 15<br><br>=> 5x = 1350<br><br>=> x = 1350/5 = 270<br><br>Smaller number = x = 270<br><b>Example 2:</b><br>On dividing a number by 357, we get 39 as remainder. On dividing the same number 17, what will be the remainder?<br>A. 0    B. 3<br>C. 5    D. 11<br>Solution :<br>Let x be the number and y be the quotient. Then,<br>x = 357 x y + 39<br>  = (17 x 21 x y) + (17 x 2) + 5<br>  = 17 x (21y + 2) + 5)<br>  Therefore Required remainder = 5.<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/numbers/",
+                "http://www.careerbless.com/aptitude/qa/numbers.php"
+            ]
+        },
+        {
+            "question": "A bus travels at 50 kmph and takes 8 hours to reach the distance. If it travels at 100 kmph, then the time taken by it is :",
+            "options": [
+                "~1hr",
+                "~6hrs",
+                "~5hrs",
+                "=4hrs"
+            ],
+            "id": "452",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-52.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>A cyclist covers a distance of 750 meter in 2 minutes 30 seconds. What is the speed in km/hr of cyclist<br>A. 16 km/hr     B.17 km/hr    C.18 km/hr    D.19 km/hr<br><br><img src=\"static/Num-fb/images/52.1.jpg\" alt=\"image\"><br><br><b>Example 2 :</b><br>A man is walking at the rate of 5 km/hr crosses a bridge in 15 minutes. The length of the bridge is<br><br> A. 1000 meters    B. 1050 meters  C1200 meters   D.1250 meters<br><br>Solution :<br>We need to get the answer in meters. So we will first of change distance from km/hour to meter/sec by multiplying it with 5/18 and also change 15 minutes to seconds by multiplying it with 60.<br><img src=\"static/Num-fb/images/52.2.jpg\" alt=\"image\"><br><br>",
+            "practicelinks": [
+                "http://www.mastguru.com/time-and-distance-questions-answers/question/34",
+                "http://www.lofoya.com/Aptitude-Questions-And-Answers/Time-Speed-and-Distance/l1p1.htm"
+            ]
+        },
+        {
+            "question": "A 240 m long train crosses a platform twice its length in 2 min. what is the speed of the train?",
+            "options": [
+                "~4 m/s",
+                "=6 m/s",
+                "~8 m/s",
+                "~10 m/s"
+            ],
+            "id": "453",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-53.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>2 trains starting at the same time from 2 stations 200km apart and going in opposite direction cross each other at a distance of 110km from one of the stations. What is the ratio of their speeds?<br>  A.  11 : 9  B.  7 : 3     C.  18 : 4    D.  None of these<br>Solution:<br>In same time, they cover 110km & 90 km respectively.<br>For the same time speed and distance is inversely proportional.<br>so ratio of their speed =110:90= 11: 9<br><b>Example 2:</b><br>Two stations A and B are 110 km apart on a straight line. One train starts from A at 7 am and travel towards B at 20 km/hr speed. Another train starts from B at 8 am and travel towards A at 25 km/hr speed. At what time will they meet?<br>  A.  9 am  B.  10 am   C.  11 am     D.  None of these<br>Solution <br>A ----------------- C ---------------B<br>7am ------------------------------ 8am<br>AC =20 km, CB =90 km<br>Distance travelled in 1 hour =20 km<br>Remaining distance =110âˆ’20=90 km<br>Time taken=<br>Distance<br>Relative speed<br><br>=<br>90<br>(20+25)<br>=2 hours<br>So, time = 8 am + 2 = 10 am<br><br>",
+            "practicelinks": [
+                "http://www.lofoya.com/Aptitude-Questions-And-Answers/Time-Speed-and-Distance/l1p1.htm",
+                "http://www.mastguru.com/time-and-distance-questions-answers/question/34"
+            ]
+        },
+        {
+            "question": "How many prime numbers are less than 50?",
+            "options": [
+                "=15",
+                "~14",
+                "~10",
+                "~18"
+            ],
+            "id": "454",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-54.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b> <br>Which of the following pairs are Twin Primes?<br>A.(19, 21)  B.(29, 31)  C.(39, 41)  D.(49, 51)<br>Twin Primes are a pair of prime numbers that differ by 2 (successive odd numbers that are both prime numbers). <br><br>21 = 3 Ã— 7, so is not prime. So (19, 21) are not Twin Primes.<br>29 and 31 are both prime numbers, so they are Twin Primes<br>39 = 3 Ã— 13, so is not prime. So (39, 41) are not Twin Primes.<br>49 = 7 Ã— 7 and 51 = 3 Ã— 17, so neither number is prime. So (49, 51) are not Twin Primes.<br><br>The only pair of Twin primes is (29, 31)<br><b>Example 2:</b><br>Which of the following pairs of numbers are NOT co-prime?<br>A. 16 and 25    B. 26 and 35  C. 36 and 45 D.46 and 55<br>Solution:<br>Co-prime means they do not have any common factors other than 1 or -1.<br><br>16 = 24 and 25 = 52, so 16 and 25 have no common factors (except 1) and are co-prime<br>26 = 2 Ã— 13 and 35 = 5 Ã— 7, so 26 and 35 have no common factors (except 1) and are co-prime<br>36 = 22  Ã— 32 and 45 = 5 Ã— 32, so they have a factor 32 in common and are NOT co-prime.<br>46 = 2 Ã— 23 and 55 = 5 Ã— 11, so 46 and 55 have no common factors (except 1) and are co-prime<br><br>",
+            "practicelinks": [
+                "https://www.mathsisfun.com/numbers/prime-numbers-advanced.html",
+                "http://world.mathigon.org/Prime_Numbers"
+            ]
+        },
+        {
+            "question": "The ratio between the present ages of X and Y is 3: 2 respectively. The ratio between X's age 5 years ago and Y's age 5 years hence is 1: 1. What is the ratio between X's 4 years hence and Y's 4 years ago?",
+            "options": [
+                "~1:3",
+                "~2:3",
+                "=17:8",
+                "~3:5"
+            ],
+            "id": "455",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-55.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>Sridhar is younger than Rajan by 7 years. If their ages are in the respective ratio of 7 : 9, how old is Sridhar?<br>A.  16 years  B.  18 years<br>C.  28 years  D.  24.5 years<br><br>Let Rajan's age be x years.<br>Then, Sridhar's age = (x - 7) years.<br>therefore  (x - 7)/x = 7/9<br>=> 9x - 63 = 7x<br>=> 2x = 63<br>=> x = 31.5<br>Hence, Sridhar's age =(x - 7) = 24.5 years.<br><b>Example 2:</b><br>The age of father 10 years ago was thrice the age of his son. Ten years hence, father's age will be twice that of his son. The ratio of their present ages is:<br>A.  5 : 2 B.  7 : 3<br>C.  9 : 2 D.  13 : 4<br><br>Let the ages of father and son 10 years ago be 3x and x years respectively.<br>Then, (3x + 10) + 10 = 2[(x + 10) + 10]<br>  3x + 20 = 2x + 40<br>  x = 20.<br>  Required ratio = (3x + 10) : (x + 10) = 70 : 30 = 7 : 3.<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/problems-on-ages/",
+                "http://www.mastguru.com/problems-on-ages-questions-answers/question/25"
+            ]
+        },
+        {
+            "question": "If selling price is doubled, the profit triples. Find the profit percent.",
+            "options": [
+                "~120",
+                "=100",
+                "~66",
+                "~105"
+            ],
+            "id": "456",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-56.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "If selling price is doubled, the profit triples. Find the profit percent.<br>A.120                      B.100                C. 66                   D. 105 <br><b>Example 1:</b><br>A shopkeeper sells one radio for Rs. 840 at a gain of 20% and another for Rs. 960 at a loss of 4%. What is his total gain or loss percentage?<br>Solution:<br><img src=\"static/Num-fb/images/56.1.jpg\" alt=\"image\"><br><br><b>Example-2:</b><br>When a plot is sold for Rs. 18,700, the owner loses 15%. At what price must that plot be sold in order to gain 15%?<br>Soln:<br>85 : 18700 = 115 : x<br>  x = (18700 x 115)/85 = 25300.<br>Hence, S.P. = Rs. 25,300.<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/profit-and-loss/018003",
+                "http://www.careerbless.com/aptitude/qa/profitloss.php"
+            ]
+        },
+        {
+            "question": "Today is Sunday, after 39 days, it will be",
+            "options": [
+                "~Monday",
+                "~Tuesday",
+                "~Saturday",
+                "=Thursday"
+            ],
+            "id": "457",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-57.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>It was Sunday on Jan 1, 2006. What was the day of the week Jan 1, 2010?<br>Soln:<br>On 31st December, 2005 it was Saturday.<br>Number of odd days from the year 2006 to the year 2009 = (1 + 1 + 2 + 1) = 5 days.<br>  On 31st December 2009, it was Thursday.<br>Thus, on 1st Jan, 2010 it is Friday.<br><b>Example 2:</b><br>Today is tuesday. After 72 days, it will be ?<br>Tuesday will be repeated after each 7 days so, after at 70 day it will also be tuesday, so at 72 th day it will be Friday<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/calendar/",
+                "http://www.vidyatutorial.com/Calendar.html"
+            ]
+        },
+        {
+            "question": "The speed of a boat when travelling downstream is 32 kmph whereas when travelling upstream it is 28 kmph. What is the speed of the boat in still water?",
+            "options": [
+                "=30 km/hr",
+                "~28 km/hr",
+                "~32 km/hr",
+                "~27 km/hr"
+            ],
+            "id": "458",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-58.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b> <br>A man's speed with the current is 15 km/hr and the speed of the current is 2.5 km/hr. The man's speed against the current is:<br><br>A.  8.5 km/hr B.  9 km/hr<br>C.  10 km/hr  D.  12.5 km/hr<br><br>Solution :<br>Man's rate in still water = (15 - 2.5) km/hr = 12.5 km/hr.<br><br>Man's rate against the current = (12.5 - 2.5) km/hr = 10 km/hr.       <br><br><b>Example 2:</b><br>In one hour, a boat goes 11 km/hr along the stream and 5 km/hr against the stream. The speed of the boat in still water (in km/hr) is:<br><br>A.  3 km/hr B.  5 km/hr<br>C.  8 km/hr D.  9 km/hr<br>Solution <br>Speed in still water =  1/2 * (11 + 5) kmph = 8 kmph<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/boats-and-streams/",
+                "http://www.careerbless.com/aptitude/qa/boatsandstreams.php"
+            ]
+        },
+        {
+            "question": "In an examination, 40 students passed in Hindi and 20 students passed in Maths. If 15 students passed in both the exams. Find the number of students who appeared in the examination.",
+            "options": [
+                "~40",
+                "~60",
+                "~75",
+                "=45"
+            ],
+            "id": "459",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-59.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>Answer to Question 1<br>1.  In a class of 50 students, 18 take Chorus, 26 take Band, and 2 take both Chorus and Band.  How many students in the class are not enrolled in either Chorus or Band?<br><img src=\"static/Num-fb/images/59.1.jpg\" alt=\"image\"><br><br>16 + 2 + 24 + x = 50<br>42 + x = 50<br>x = 8 students<br><br><b>Example 2:</b><br>In a school of 320 students, 85 students are in the band, 200 students are on sports teams, and 60 students participate in both activities.  How many students are involved in either band or sports? <br> <br>25 + 60 + 140 = 225<br>There are 225 students involved<br>in either band or sports.<br><br>",
+            "practicelinks": [
+                "http://www.regentsprep.org/regents/math/algebra/AP2/PracVenn.htm",
+                "http://www.mathsisfun.com/sets/venn-diagrams.html"
+            ]
+        },
+        {
+            "question": "X, Y, Z subscribe Rs. 50,000 for a business. X subscribes Rs. 4000 more than Y and Y Rs. 5000 more than Z. Out of a total profit of Rs. 35,000, X  receives:",
+            "options": [
+                "~Rs. 11,900",
+                "=Rs. 14,700",
+                "~Rs. 13,600",
+                "~Rs. 8,600 "
+            ],
+            "id": "460",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-60.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>Raj invested Rs 70000 in a business. Murali invested Rs 50000 . <br>What is the share of Murali in the annual profit of Rs  18000?<br><br><br>Solution â€“ Ratio of investments = 70000 : 50000 = 7:5<br><br>Annual profit = 18000<br><br>As per the investments made, Murali will get 5 parts out of total parts of 12(7+5).<br><br>Hence in 18000, he will get 18000 * 5/12  = 7500<br><br><b>Example 2:</b><br>Sumit and Ravi started a business by investing Rs 85000 and 15000 respectively. In what ratio the profit earned after 2 years be divided between Sumit and Ravi respectively.<br><br>Soln : <br><br>P:Q = 85000:15000 = 17:3 <br><br>Important to note there that if both have invested for different period of times then we had to multiply with number of months to get the desired ratio.<br><br>",
+            "practicelinks": [
+                "http://www.mastguru.com/partnership-questions-answers/question/36",
+                "http://studentzoneonline.com/Aptitude/Partnership.aspx"
+            ]
+        },
+        {
+            "question": "Rahul started a software business by investing Rs. 50,000. After six months, Pooja joined her with a capital of Rs. 80,000. After 3 years, they earned a profit of Rs. 24,500. What was Rahul's share in the profit?",
+            "options": [
+                "~Rs. 9,423",
+                "~Rs. 12,500",
+                "~Rs. 10,250",
+                "=Rs. 10,500"
+            ],
+            "id": "461",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-61.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>Raj invested Rs 70000 in a business. Murali invested Rs 50000 . <br>What is the share of Murali in the annual profit of Rs  18000?<br><br>Solution â€“ Ratio of investments = 70000 : 50000 = 7:5<br><br>Annual profit = 18000<br><br>As per the investments made, Murali will get 5 parts out of total parts of 12(7+5).<br><br>Hence in 18000, he will get 18000 * 5/12  = 7500<br><br><b>Example 2:</b><br>Sumit and Ravi started a business by investing Rs 85000 and 15000 respectively. In what ratio the profit earned after 2 years be divided between Sumit and Ravi respectively.<br><br>Soln : <br><br>P:Q = 85000:15000 = 17:3 <br><br>Important to note there that if both have invested for different period of times then we had to multiply with number of months to get the desired ratio.<br><br>",
+            "practicelinks": [
+                "http://www.mastguru.com/partnership-questions-answers/question/36",
+                "http://studentzoneonline.com/Aptitude/Partnership.aspx"
+            ]
+        },
+        {
+            "question": "Which of the following can't be the square of a natural number?",
+            "options": [
+                "~30976 ",
+                "~28561",
+                "=143642",
+                "~75625"
+            ],
+            "id": "462",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-62.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br><br>How many two-digit numbers satisfy this property.: The last digit (unit's digit) of the square of the two-digit number is 8 ?<br>A.  1 B.  2<br>C.  3 D.  None of these<br>Solution:<br>A number ending in 8 can never be a perfect square.<br><b>Example 2:</b><br>A group of students decided to collect as many paise from each member of group as is the number of members. If the total collection amounts to Rs. 98.01, the number of the member is the group is:<br>A. 101  B. 98<br>C. 99 D. 88<br><br>Solution:<br>Let the number of members = n<br><br>Then n2 = Total amount of money collected = 9801 paise<br>ie, n= square root on 9801=99<br><br>i.e., number of members = 99<br><br>",
+            "practicelinks": [
+                "http://www.careerbless.com/aptitude/qa/sqcuroot.php",
+                "http://www.indiabix.com/aptitude/square-root-and-cube-root/005003"
+            ]
+        },
+        {
+            "question": "A pole 15.5 m high casts a shadow of length 40 m. The height of the building, which casts a shadow of length 25 m under similar conditions will be:",
+            "options": [
+                "=10 m",
+                "~12.5 m",
+                "~17.5 m",
+                "~21.5m"
+            ],
+            "id": "463",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-63.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "A pole 16 m high casts a shadow of length 40 m. The height of the building, which casts a shadow of length 25 m under similar conditions will be:<br><br>A.10 m          B. 12.5 m      C.17.5 m                   D.21.5m<br><br>  <br><b>Example 1:</b><br>If 7 spiders make 7 webs in 7 days, then 1 spider will make 1 web in how many days?<br>A.<br>1 B.<br>7<br>2<br><br>C.<br>7 D.<br>49<br>Solutions:<br>Let the required number days be x.<br>Less spiders, More days (Indirect Proportion)<br>Less webs, Less days (Direct Proportion)<br>Spiders 1 : 7   <br>                :: 7 : x<br>Webs    7 : 1   <br>hence 1 x 7 x x = 7 x 1 x 7<br>=> x = 7.<br><b>Example 2:</b><br>If a quarter kg of potato costs 60 paise, how many paise will 200 gm cost?<br>A.<br>48 paise  B.<br>54 paise<br>C.<br>56 paise  D.<br>72 paise<br>Solution:<br>Let the required weight be x kg.<br>Less weight, Less cost (Direct Proportion)<br>  250 : 200 :: 60 : x  <=> 250 x x = (200 x 60)<br>=> x = (200 x 60)/250<br>=> x = 48.<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/chain-rule/028002",
+                "http://www.mastguru.com/"
+            ]
+        },
+        {
+            "question": "In a certain time, a sum becomes 3 times at the rate of 5% per annum. At what rate of interest the same sum becomes 6 times in same duration?",
+            "options": [
+                "~7%",
+                "~9%",
+                "=12.5%",
+                "~17%"
+            ],
+            "id": "464",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-64.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:<br>A.<br>Rs. 650 B.<br>Rs. 690<br>C.<br>Rs. 698 D.<br>Rs. 700<br>Solution:<br>S.I. for 1 year = Rs. (854 - 815) = Rs. 39.<br>S.I. for 3 years = Rs.(39 x 3) = Rs. 117.<br>  Principal = Rs. (815 - 117) = Rs. 698.<br><br><b>Example 2:</b><br>How much time will it take for an amount of Rs. 450 to yield Rs. 81 as interest at 4.5% per annum of simple interest?<br>A.<br>3.5 years B.<br>4 years<br>C.<br>4.5 years D.<br>5 years<br>Solution:<br>Time =(100 x 81)/(450 x 4.5) years  = 4 years.<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/simple-interest/",
+                "http://www.careerbless.com/aptitude/qa/simpleinterest1.php"
+            ]
+        },
+        {
+            "question": "A sum of money amounts to Rs.10, 000 after 5 years and Rs. 12000 after 8 years at the same rate of simple interest. The rate of interest per annum is:",
+            "options": [
+                "~9%",
+                "=10%",
+                "~7%",
+                "12.5% "
+            ],
+            "id": "465",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Num-fb/num-65.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1:</b><br>A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is:<br>A.<br>Rs. 650 B.<br>Rs. 690<br>C.<br>Rs. 698 D.<br>Rs. 700<br>Solution:<br>S.I. for 1 year = Rs. (854 - 815) = Rs. 39.<br>S.I. for 3 years = Rs.(39 x 3) = Rs. 117.<br>  Principal = Rs. (815 - 117) = Rs. 698.<br><br><b>Example 2:</b><br>How much time will it take for an amount of Rs. 450 to yield Rs. 81 as interest at 4.5% per annum of simple interest?<br>A.<br>3.5 years B.<br>4 years<br>C.<br>4.5 years D.<br>5 years<br>Solution:<br>Time =(100 x 81)/(450 x 4.5) years  = 4 years.<br>",
+            "practicelinks": [
+                "http://www.indiabix.com/aptitude/simple-interest/",
+                "http://www.careerbless.com/aptitude/qa/simpleinterest1.php"
+            ]
+        }
+    ]
+}

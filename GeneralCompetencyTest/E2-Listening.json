@@ -1,0 +1,3257 @@
+{
+    "name": "E2-Listening",
+    "types": "video",
+    "note": "Listen to the video given and answer the following questions:",
+    "videoArray": [
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/UNZNbcf5Hd8\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "Who is the speaker representing?",
+                    "options": [
+                        "~Adults",
+                        "~Youth",
+                        "=Children",
+                        "~Old people"
+                    ],
+                    "id": "1201",
+                    "answer": "0.18-0.25secs",
+                    "practicelinks": [
+                        "http://learnenglishteens.britishcouncil.org/skills/listening-skills-practice",
+                        "http://www.esl-lab.com"
+                    ]
+                },
+                {
+                    "question": "Whom did the speaker meet 20 years ago?",
+                    "options": [
+                        "=A small skinny child laborer",
+                        "~A child mother",
+                        "~A Columbian woman",
+                        "~A group of children"
+                    ],
+                    "id": "1202",
+                    "answer": "1.15 -1.20secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "What is the speaker’s aim?",
+                    "options": [
+                        "~Poverty  eradication",
+                        "=Child liberty",
+                        "~World Peace",
+                        "~Upliftment of women"
+                    ],
+                    "id": "1203",
+                    "answer": "4.35 -4.40 secs",
+                    "practicelinks": [
+                        "http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/2014/09/140911_6min_underwater_living.shtml",
+                        "http://esl.about.com/library/listening/bllis_reservation.htm"
+                    ]
+                },
+                {
+                    "question": "When did the speaker meet the Columbian mother?",
+                    "options": [
+                        "~20 years ago",
+                        "~10 years ago",
+                        "=12 years ago",
+                        "~1 year ago"
+                    ],
+                    "id": "1204",
+                    "answer": "2.08 -2.15 secs",
+                    "practicelinks": [
+                        "http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/2014/09/140918_6min_london_skyline.shtml",
+                        "http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/vxkM3lw2OZc\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "Where did the speaker meet Siddharth?",
+                    "options": [
+                        "~At the railway station",
+                        "~At the bus station",
+                        "~At the  sea port",
+                        "=At the Airport"
+                    ],
+                    "id": "1205",
+                    "answer": "0.15-0.25 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "https://www.englishlistening.com/index.php/listen-to-passages/"
+                    ]
+                },
+                {
+                    "question": "What was Siddharth suffering from?",
+                    "options": [
+                        "~Fever",
+                        "~Cancer",
+                        "=Cerebral Palsy",
+                        "~Conjunctivitis"
+                    ],
+                    "id": "1206",
+                    "answer": "0.59-1.10secs",
+                    "practicelinks": [
+                        "http://esl.about.com/library/listening/bllis_customer1.htm",
+                        "http://esl.about.com/library/listening/bllis_customer2.htm"
+                    ]
+                },
+                {
+                    "question": "How much did Siddharth score in Computer Science?",
+                    "options": [
+                        "~99%",
+                        "=100%",
+                        "~80%",
+                        "~70%"
+                    ],
+                    "id": "1207",
+                    "answer": "1.40-1.55 secs",
+                    "practicelinks": [
+                        "http://esl.about.com/library/listening/bllis_joblikes1.htm",
+                        "http://esl.about.com/library/listening/bllis_joblikes2.htm"
+                    ]
+                },
+                {
+                    "question": "Who recognized Ramanujan’s mathematical genius?",
+                    "options": [
+                        "~Prof  English",
+                        "=Prof  Hardy",
+                        "~Ramanujan himself",
+                        "~Abdu Kalam"
+                    ],
+                    "id": "1208",
+                    "answer": "4.30-4.55 secs",
+                    "practicelinks": [
+                        "http://esl.about.com/library/media/audio/time.mp3",
+                        "http://www.esl-lab.com/"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/f4vJpmkzIz8\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "Who claimed that there was no connection between Africa and India?",
+                    "options": [
+                        "~People",
+                        "=Historians",
+                        "~Politicians",
+                        "~Economists"
+                    ],
+                    "id": "1209",
+                    "answer": "0.09-0.15 secs",
+                    "practicelinks": [
+                        "http://esl.about.com/library/listening/bllis_customer2.htm",
+                        "http://www.elllo.org/english/level-3-beginner-high.htm"
+                    ]
+                },
+                {
+                    "question": "When did Vasco da gama reach India?",
+                    "options": [
+                        "~1500",
+                        "~1948",
+                        "=1498",
+                        "~1600"
+                    ],
+                    "id": "1210",
+                    "answer": "0.00-0.25 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://www.learning-english-online.net/skills/listening-comprehension/"
+                    ]
+                },
+                {
+                    "question": "Whose civilizations was advanced?",
+                    "options": [
+                        "~India’s",
+                        "~Europe’s",
+                        "=Africa’s",
+                        "~Asia’s"
+                    ],
+                    "id": "1211",
+                    "answer": "3.20-3.35 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://www.elllo.org/english/level-3-beginner-high.htm"
+                    ]
+                },
+                {
+                    "question": "What do we  see on the right side of the king in the carving?",
+                    "options": [
+                        "~Soldiers walking",
+                        "~People playing",
+                        "~A man",
+                        "=Several people wearing skirts"
+                    ],
+                    "id": "1212",
+                    "answer": "1.58-2.02 secs",
+                    "practicelinks": [
+                        "http://esl.about.com/library/listening/bllis_customer2.htm",
+                        "http://esl.about.com/library/listening/blufo1.htm"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/gXBNBu4o-Yw\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "What does Success have to do with, broadly speaking?",
+                    "options": [
+                        "~Wealth",
+                        "=Achievement",
+                        "~Popularity",
+                        "~Self-worth"
+                    ],
+                    "id": "1213",
+                    "answer": "1:17 – 1:25",
+                    "practicelinks": [
+                        "http://www.learnenglishfeelgood.com/eslvideo/",
+                        "http://learnenglishteens.britishcouncil.org/skills/listening-skills-practice"
+                    ]
+                },
+                {
+                    "question": "Who is more successful – the girl from the village or Ranbir Kapoor?",
+                    "options": [
+                        "=The girl from the village",
+                        "~Ranbir Kapoor",
+                        "~Both",
+                        "~Neither"
+                    ],
+                    "id": "1214",
+                    "answer": "3:17 – 3:22",
+                    "practicelinks": [
+                        "http://www.learnenglishfeelgood.com/eslvideo/",
+                        "http://learnenglishteens.britishcouncil.org/skills/listening-skills-practice"
+                    ]
+                },
+                {
+                    "question": "Why is the girl more successful?",
+                    "options": [
+                        "~She earns more money",
+                        "~She is more famous",
+                        "=She beat more odds",
+                        "~She travels more"
+                    ],
+                    "id": "1215",
+                    "answer": "3:27 – 3:33",
+                    "practicelinks": [
+                        "http://www.learnenglishfeelgood.com/eslvideo/",
+                        "http://learnenglishteens.britishcouncil.org/skills/listening-skills-practice"
+                    ]
+                },
+                {
+                    "question": "What does the speaker say about himself?",
+                    "options": [
+                        "~I’m not successful",
+                        "=I’m not the best writer",
+                        "~I’m not wealthy",
+                        "~I’m not happy"
+                    ],
+                    "id": "1216",
+                    "answer": "6:05 – 6:10",
+                    "practicelinks": [
+                        "http://www.learnenglishfeelgood.com/eslvideo/",
+                        "http://learnenglishteens.britishcouncil.org/skills/listening-skills-practice"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/r-vsANnFA1Q\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "What was recently discovered in the Indian Ocean?",
+                    "options": [
+                        "=An old city",
+                        "~A city covered in sea weed",
+                        "~Human remains",
+                        "~Animal remains"
+                    ],
+                    "id": "1217",
+                    "answer": "0:13 – 0:20",
+                    "practicelinks": [
+                        "http://www.agendaweb.org/listening/advanced.html",
+                        "http://www.esl-lounge.com/student/listening-advanced.php"
+                    ]
+                },
+                {
+                    "question": "What is Dwaraka, according to the narrator?",
+                    "options": [
+                        "~A city in the kingdom of the Pandavas",
+                        "~A city in the kingdom of the Kauravas",
+                        "=The capital of a massive, mythical kingdom",
+                        "~A village lead by the Hindu God, Krishna"
+                    ],
+                    "id": "1218",
+                    "answer": "0:33 – 0:40",
+                    "practicelinks": [
+                        "http://www.agendaweb.org/listening/advanced.html",
+                        "http://www.esl-lounge.com/student/listening-advanced.php"
+                    ]
+                },
+                {
+                    "question": "Who built Dwaraka in one day?",
+                    "options": [
+                        "=Vishwakarma",
+                        "~Krishna",
+                        "~Balaram",
+                        "~Indra"
+                    ],
+                    "id": "1219",
+                    "answer": "0:45 – 0:53",
+                    "practicelinks": [
+                        "http://www.agendaweb.org/listening/advanced.html",
+                        "http://www.esl-lounge.com/student/listening-advanced.php"
+                    ]
+                },
+                {
+                    "question": "What was Dwaraka’s speciality, according to the author?",
+                    "options": [
+                        "~It was the only city on Earth which was decorated with garlands all the time",
+                        "=It was the only city on Earth which was studded with gems",
+                        "~It was the only city on Earth which was paved with gold",
+                        "~It was the only city on Earth which was built in the ocean"
+                    ],
+                    "id": "1220",
+                    "answer": "1:30 – 1:35",
+                    "practicelinks": [
+                        "http://www.agendaweb.org/listening/advanced.html",
+                        "http://www.esl-lounge.com/student/listening-advanced.php"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/E-R8gfbump0\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "In the course of time, what is the most useless virtue to possess?",
+                    "options": [
+                        "~Patience",
+                        "=Talent",
+                        "~Attitude",
+                        "~Goal"
+                    ],
+                    "id": "1221",
+                    "answer": "0:10 – 0:20",
+                    "practicelinks": [
+                        "http://esl.about.com/od/advancedlistening/",
+                        "http://www.teachya.com/listening/listening_exercises/index.php"
+                    ]
+                },
+                {
+                    "question": "What matters the most where talent is concerned?",
+                    "options": [
+                        "~How you harness your talent",
+                        "~When you use your talent",
+                        "~Where you store your talent",
+                        "=What you do with your talent"
+                    ],
+                    "id": "1222",
+                    "answer": "0:17 – 0: 28",
+                    "practicelinks": [
+                        "http://esl.about.com/od/advancedlistening/",
+                        "http://www.teachya.com/listening/listening_exercises/index.php"
+                    ]
+                },
+                {
+                    "question": "What does talent breed?",
+                    "options": [
+                        "~An attitude",
+                        "~A balanced mind",
+                        "=An ego",
+                        "~A healthy body"
+                    ],
+                    "id": "1223",
+                    "answer": "0:30 – 0:40",
+                    "practicelinks": [
+                        "http://esl.about.com/od/advancedlistening/",
+                        "http://www.teachya.com/listening/listening_exercises/index.php"
+                    ]
+                },
+                {
+                    "question": "What does the Australian Army check applicants track records for, when recruiting for an elite corp team?",
+                    "options": [
+                        "~Successes",
+                        "=Failures",
+                        "~Experience",
+                        "~Ethics"
+                    ],
+                    "id": "1224",
+                    "answer": "1:25 – 1:35",
+                    "practicelinks": [
+                        "http://esl.about.com/od/advancedlistening/",
+                        "http://www.teachya.com/listening/listening_exercises/index.php"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/L7GIenLGlgE\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "How old was Sachin Tendulkar when Harsha Bogle first met him?",
+                    "options": [
+                        "=14 years",
+                        "~12 years",
+                        "~16 years",
+                        "~18 years"
+                    ],
+                    "id": "1225",
+                    "answer": "0:33 – 0:40",
+                    "practicelinks": [
+                        "http://www.examenglish.com/CAE/listening.php",
+                        "http://www.eslgold.com/video.html"
+                    ]
+                },
+                {
+                    "question": "What was Sachin's average score in the year Harsha first met Sachin?",
+                    "options": [
+                        "~1000",
+                        "=1028",
+                        "~1208",
+                        "~1802"
+                    ],
+                    "id": "1226",
+                    "answer": "1:17 – 1: 28",
+                    "practicelinks": [
+                        "http://www.examenglish.com/CAE/listening.php",
+                        "http://www.eslgold.com/video.html"
+                    ]
+                },
+                {
+                    "question": "At which domestic tournament did Harsha see Sachin bat for the first time?",
+                    "options": [
+                        "~Irani Trophy",
+                        "~Duleep Trophy",
+                        "=Ranji Trophy",
+                        "~Deodhar Trophy"
+                    ],
+                    "id": "1227",
+                    "answer": "1:45 – 1:54",
+                    "practicelinks": [
+                        "http://www.examenglish.com/CAE/listening.php",
+                        "http://www.eslgold.com/video.html"
+                    ]
+                },
+                {
+                    "question": "What was the buzz around Sachin in 1989?",
+                    "options": [
+                        "~Sachin was the best player",
+                        "~Sachin was the most happening player",
+                        "~Sachin was the most dependable player",
+                        "=Sachin never fails"
+                    ],
+                    "id": "1228",
+                    "answer": "2:57 – 3:08",
+                    "practicelinks": [
+                        "http://www.examenglish.com/CAE/listening.php",
+                        "http://www.eslgold.com/video.html"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/WNvKHT-im8U\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "Who has the best economy rate in International T20s?",
+                    "options": [
+                        "=Thomas Odoyo",
+                        "~Lasith Malinga",
+                        "~Brendon McCullum",
+                        "~Chris Gayle"
+                    ],
+                    "id": "1229",
+                    "answer": "0:30 – 0:40",
+                    "practicelinks": [
+                        "http://www.businessenglishsite.com/business-english-listening.html",
+                        "http://www.uefap.com/listen/exercise/exlis.htm"
+                    ]
+                },
+                {
+                    "question": "Who has the best batting average in International T20s?",
+                    "options": [
+                        "~Virat Kohli",
+                        "=Hiren Varaiya",
+                        "~A J Finch",
+                        "~M S Dhoni"
+                    ],
+                    "id": "1230",
+                    "answer": "0:57 – 1:20",
+                    "practicelinks": [
+                        "http://www.businessenglishsite.com/business-english-listening.html",
+                        "http://www.uefap.com/listen/exercise/exlis.htm"
+                    ]
+                },
+                {
+                    "question": "What is Rahul Dravid's opinion about judging T20 performances?",
+                    "options": [
+                        "~They are very accurate",
+                        "~They are seemingly accurate",
+                        "=They are going about it the wrong way",
+                        "~The procedure has to be completely redone"
+                    ],
+                    "id": "1231",
+                    "answer": "1:17 – 1:26 ",
+                    "practicelinks": [
+                        "http://www.businessenglishsite.com/business-english-listening.html",
+                        "http://www.uefap.com/listen/exercise/exlis.htm"
+                    ]
+                },
+                {
+                    "question": "At the time of the conversation, where was the next ICC World Twenty-20 happening?",
+                    "options": [
+                        "~India",
+                        "~Pakistan",
+                        "~Maldives",
+                        "=Bangladesh"
+                    ],
+                    "id": "1232",
+                    "answer": "0:05 – 0:14",
+                    "practicelinks": [
+                        "http://www.businessenglishsite.com/business-english-listening.html",
+                        "http://www.uefap.com/listen/exercise/exlis.htm"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/QIpKkCMuokY\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "What would help us reduce the level of death and destruction from future events of Tsunamis?",
+                    "options": [
+                        "=Learning from earlier events",
+                        "~Watching for signs of future occurrences",
+                        "~Depending on ourselves",
+                        "~Building strong structures"
+                    ],
+                    "id": "1233",
+                    "answer": "0:25 – 0:35",
+                    "practicelinks": [
+                        "http://www.talkenglish.com/Listening/ListenAdvanced.aspx",
+                        "http://www.learnenglishfeelgood.com/eslvideo/"
+                    ]
+                },
+                {
+                    "question": "What is the most common and best known cause of big Tsunamis?",
+                    "options": [
+                        "~Sudden flash floods",
+                        "=Sudden movement of the seafloor during earthquakes",
+                        "~Tornadoes",
+                        "~An unpredictable shift in Oceanic currents"
+                    ],
+                    "id": "1234",
+                    "answer": "0:43 : 0:50",
+                    "practicelinks": [
+                        "http://www.talkenglish.com/Listening/ListenAdvanced.aspx",
+                        "http://www.learnenglishfeelgood.com/eslvideo/"
+                    ]
+                },
+                {
+                    "question": "What do the scientists known as “Modellers” do?",
+                    "options": [
+                        "~Make calculations about the occurrence of the next big Tsunami",
+                        "~Make maps to predict the next underwater earthquake",
+                        "=Develop scenarios by running simulations",
+                        "~Help prevent the next big Tsunami"
+                    ],
+                    "id": "1235",
+                    "answer": "1:30 – 1:40",
+                    "practicelinks": [
+                        "http://www.talkenglish.com/Listening/ListenAdvanced.aspx",
+                        "http://www.learnenglishfeelgood.com/eslvideo/"
+                    ]
+                },
+                {
+                    "question": "What will the system for Real Time Tsunami Warning help with?",
+                    "options": [
+                        "~Predict the occurrence of the next big Tsunami",
+                        "~Create a warning system for the next big Tsunami",
+                        "~Prevent the next big Tsunami",
+                        "=Preparing for the next big tsunami"
+                    ],
+                    "id": "1236",
+                    "answer": "2:45 – 2:55",
+                    "practicelinks": [
+                        "http://www.talkenglish.com/Listening/ListenAdvanced.aspx",
+                        "http://www.learnenglishfeelgood.com/eslvideo/"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/AGk9UQJBZwY\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "Which area of the Indian sub-continent did the Pandyas rule?",
+                    "options": [
+                        "=Tamil Nadu",
+                        "~Northern India",
+                        "~Kerala",
+                        "~Karnataka"
+                    ],
+                    "id": "1237",
+                    "answer": "0:05 – 0:15",
+                    "practicelinks": [
+                        "http://www.agendaweb.org/listening/advanced.html",
+                        "http://www.examenglish.com/CAE/listening.php"
+                    ]
+                },
+                {
+                    "question": "Where was the Pandya capital, before it was moved to Madhurai?",
+                    "options": [
+                        "~Nungambakam",
+                        "=Korkai",
+                        "~Chennai",
+                        "~Thiruchirapalli"
+                    ],
+                    "id": "1238",
+                    "answer": "0:13 – 0:19",
+                    "practicelinks": [
+                        "http://www.agendaweb.org/listening/advanced.html",
+                        "http://www.examenglish.com/CAE/listening.php"
+                    ]
+                },
+                {
+                    "question": "What were the Pandyas known for producing, along the South Indian coast?",
+                    "options": [
+                        "~The best silks",
+                        "~The most creative jewellery",
+                        "=The finest pearls",
+                        "~The fiercest warriors"
+                    ],
+                    "id": "1239",
+                    "answer": "0:50 – 0:55",
+                    "practicelinks": [
+                        "http://www.agendaweb.org/listening/advanced.html",
+                        "http://www.examenglish.com/CAE/listening.php"
+                    ]
+                },
+                {
+                    "question": "Who lead the revival of the Pandyas after attacks by the Pallavas and the Cholas?",
+                    "options": [
+                        "~Mudukudumi Paruvaludhi",
+                        "~Musiri Mutriya Cheliyan",
+                        "~Koon Pandiyan",
+                        "=Mahaverman Kulasekara"
+                    ],
+                    "id": "1240",
+                    "answer": "1:10 – 1:20",
+                    "practicelinks": [
+                        "http://www.agendaweb.org/listening/advanced.html",
+                        "http://www.examenglish.com/CAE/listening.php"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/ZOC8C79GS3g\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "What was the theory of Ancient Astronaut Theorists about the destruction of Mohenjo-Daro?",
+                    "options": [
+                        "=It was the epicentre of a nuclear explosion",
+                        "~There was an epidemic of a fatal disease",
+                        "~A massacre by an invading army",
+                        "~An alien attack"
+                    ],
+                    "id": "1241",
+                    "answer": "0:30 – 0:40 ",
+                    "practicelinks": [
+                        "http://www.uefap.com/listen/exercise/exlis.htm",
+                        "http://www.eslgold.com/video.html"
+                    ]
+                },
+                {
+                    "question": "What was strange about the radioactivity levels of skeletons found at Mohenjo-Daro?",
+                    "options": [
+                        "~Radioactivity levels were normal, nothing special about them",
+                        "=Radioactivity levels were 50 times more than normal",
+                        "~Radioactivity levels were 50 times less than normal",
+                        "~Radioactivity levels were not even in the measurable range."
+                    ],
+                    "id": "1242",
+                    "answer": "0:45 – 0:55",
+                    "practicelinks": [
+                        "http://www.uefap.com/listen/exercise/exlis.htm",
+                        "http://www.eslgold.com/video.html"
+                    ]
+                },
+                {
+                    "question": "What is the usual cause for people in an area having boils on their skin, their hair and nails falling out for no reason?",
+                    "options": [
+                        "~An epidemic",
+                        "~An alien attack",
+                        "=Radiation poisoning",
+                        "~A disease"
+                    ],
+                    "id": "1243",
+                    "answer": "1:36 to 1:50",
+                    "practicelinks": [
+                        "http://www.uefap.com/listen/exercise/exlis.htm",
+                        "http://www.eslgold.com/video.html"
+                    ]
+                },
+                {
+                    "question": "According to Hindu mythology, how was Garuda born / created?",
+                    "options": [
+                        "~A heavenly body crashed to Earth",
+                        "~A God became Garuda",
+                        "~A human being was blessed by the Gods",
+                        "=Through a Cosmic Event"
+                    ],
+                    "id": "1244",
+                    "answer": "3:23 to 3:35",
+                    "practicelinks": [
+                        "http://www.uefap.com/listen/exercise/exlis.htm",
+                        "http://www.eslgold.com/video.html"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/UsXwJdaHZ8g\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "Why was the pillar at Kollur built?",
+                    "options": [
+                        "=To welcome Adishankaracharya",
+                        "~To prove that they could build it",
+                        "~To give the experts a chance to build something",
+                        "~To say goodbye to old days"
+                    ],
+                    "id": "1245",
+                    "answer": "0:50 – 1:00",
+                    "practicelinks": [
+                        "http://www.esl-lounge.com/student/listening-advanced.php",
+                        "http://www.businessenglishsite.com/business-english-listening.html"
+                    ]
+                },
+                {
+                    "question": "At what temperature does Zinc become liquid from ore?",
+                    "options": [
+                        "~9960 Celsius",
+                        "~8970 Celsius",
+                        "~10970 Celsius",
+                        "=9970 Celsius"
+                    ],
+                    "id": "1246",
+                    "answer": "1:25 – 1:35",
+                    "practicelinks": [
+                        "http://www.esl-lounge.com/student/listening-advanced.php",
+                        "http://www.businessenglishsite.com/business-english-listening.html"
+                    ]
+                },
+                {
+                    "question": "How long was the technique for extracting zinc from ore kept a secret?",
+                    "options": [
+                        "~2000 years",
+                        "~3000 years",
+                        "=4000 years",
+                        "~5000 years"
+                    ],
+                    "id": "1247",
+                    "answer": "2:27 – 2:32",
+                    "practicelinks": [
+                        "http://www.esl-lounge.com/student/listening-advanced.php",
+                        "http://www.businessenglishsite.com/business-english-listening.html"
+                    ]
+                },
+                {
+                    "question": "What is the process by which the substitution of numbers in the shloka gives you the value of Pi correct to 30 decimal places?",
+                    "options": [
+                        "~Decoding",
+                        "=Encryption",
+                        "~Data Transmission",
+                        "~Encoding"
+                    ],
+                    "id": "1248",
+                    "answer": "3:40 – 3:49",
+                    "practicelinks": [
+                        "http://www.esl-lounge.com/student/listening-advanced.php",
+                        "http://www.businessenglishsite.com/business-english-listening.html"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/OEnJwviM4pg\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "What does Chetan take most pleasure in?",
+                    "options": [
+                        "=Social work",
+                        "~Business",
+                        "~Playing",
+                        "~Doing nothing"
+                    ],
+                    "id": "1249",
+                    "answer": "0:10 – 0:20",
+                    "practicelinks": [
+                        "http://www.teachya.com/listening/listening_exercises/index.php",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                },
+                {
+                    "question": "Where does Chetan spend all his waking hours?",
+                    "options": [
+                        "~At work",
+                        "=In a wheelchair",
+                        "~In a bed",
+                        "~At home"
+                    ],
+                    "id": "1250",
+                    "answer": "0:25 – 0:33",
+                    "practicelinks": [
+                        "http://www.teachya.com/listening/listening_exercises/index.php",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                },
+                {
+                    "question": "What does Chetan do every Sunday for two hours?",
+                    "options": [
+                        "~Goes for a walk around the park",
+                        "~Goes to visit his relatives in the other village",
+                        "=Goes from door to door collecting old newspapers",
+                        "~Goes around his town collecting donations"
+                    ],
+                    "id": "1251",
+                    "answer": "0:30 – 0:40",
+                    "practicelinks": [
+                        "http://www.teachya.com/listening/listening_exercises/index.php",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                },
+                {
+                    "question": "What business does Chetan run?",
+                    "options": [
+                        "~Travel agency",
+                        "~Book store",
+                        "~A restaurant",
+                        "=Transport and Freight"
+                    ],
+                    "id": "1252",
+                    "answer": "1:22 – 1:29",
+                    "practicelinks": [
+                        "http://www.teachya.com/listening/listening_exercises/index.php",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/4oceDC_w6uY\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "What is John Smith's occupation?",
+                    "options": [
+                        "=Plumber",
+                        "~Teacher",
+                        "~Receptionist",
+                        "~Student"
+                    ],
+                    "id": "1253",
+                    "answer": "0:22 – 0:27",
+                    "practicelinks": [
+                        "http://learnenglishteens.britishcouncil.org/skills/listening-skills-practice",
+                        "http://esl.about.com/od/advancedlistening/"
+                    ]
+                },
+                {
+                    "question": "Where is Joe Brown from?",
+                    "options": [
+                        "~Ohio",
+                        "=California",
+                        "~Santa Cruz",
+                        "~Pittsburgh"
+                    ],
+                    "id": "1254",
+                    "answer": "0:53 – 0:58",
+                    "practicelinks": [
+                        "http://learnenglishteens.britishcouncil.org/skills/listening-skills-practice",
+                        "http://esl.about.com/od/advancedlistening/"
+                    ]
+                },
+                {
+                    "question": "What does Mary like to do in her free time?",
+                    "options": [
+                        "~Meet with friends",
+                        "~Study",
+                        "=Watch television and movies",
+                        "~Listen to music"
+                    ],
+                    "id": "1255",
+                    "answer": "1:10 – 1:17",
+                    "practicelinks": [
+                        "http://learnenglishteens.britishcouncil.org/skills/listening-skills-practice",
+                        "http://esl.about.com/od/advancedlistening/"
+                    ]
+                },
+                {
+                    "question": "Why does Linda have no hobbies?",
+                    "options": [
+                        "~Because she's very busy",
+                        "~Because she's not interested in hobbies",
+                        "~Because she's a student",
+                        "=Because she has to study all day"
+                    ],
+                    "id": "1256",
+                    "answer": "1:42 – 1:48",
+                    "practicelinks": [
+                        "http://learnenglishteens.britishcouncil.org/skills/listening-skills-practice",
+                        "http://esl.about.com/od/advancedlistening/"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item \" src=\"https://www.youtube.com/embed/cNlHKlJOTLc\" frameborder=\"0\" allowfullscreen></iframe></div></div>",
+            "questions": [
+                {
+                    "question": "What does the Speaker want to do with everything he says?",
+                    "options": [
+                        "=He also wants to teach how to do it",
+                        "~He also wants to enact how to do it",
+                        "~He also wants to demonstrate when to do it",
+                        "~He just wants to say it, not do it"
+                    ],
+                    "id": "1257",
+                    "answer": "0:42 – 0:48",
+                    "practicelinks": [
+                        "http://esl.about.com/od/advancedlistening/",
+                        "http://www.esl-lounge.com/student/listening-advanced.php"
+                    ]
+                },
+                {
+                    "question": "What was the ‘hook' in the agenda?",
+                    "options": [
+                        "~How you'd want it",
+                        "=Why you'd want it",
+                        "~When you'd want it",
+                        "~What ‘hook'?"
+                    ],
+                    "id": "1258",
+                    "answer": "1:00 – 1:08",
+                    "practicelinks": [
+                        "http://esl.about.com/od/advancedlistening/",
+                        "http://www.esl-lounge.com/student/listening-advanced.php"
+                    ]
+                },
+                {
+                    "question": "What should 90% of the speaker's brain focus on, ideally?",
+                    "options": [
+                        "~The keynote",
+                        "~The auditorium",
+                        "=The audience",
+                        "~The speech"
+                    ],
+                    "id": "1259",
+                    "answer": "1:42 – 1:50",
+                    "practicelinks": [
+                        "http://esl.about.com/od/advancedlistening/",
+                        "http://www.esl-lounge.com/student/listening-advanced.php"
+                    ]
+                },
+                {
+                    "question": "What do you need to tell the audience, to hook their attention?",
+                    "options": [
+                        "~Who they need to listen to",
+                        "~Where they need to pay attention",
+                        "~How do make a presentation",
+                        "=Why they need to listen to you"
+                    ],
+                    "id": "1260",
+                    "answer": "2:28 – 2:35",
+                    "practicelinks": [
+                        "http://esl.about.com/od/advancedlistening/",
+                        "http://www.esl-lounge.com/student/listening-advanced.php"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/WTTTnfJvr_U\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "What does the Speaker say about unique jewellery?",
+                    "options": [
+                        "=Unique jewellery have some unusual history",
+                        "~Unique jewellery have nothing special about them",
+                        "~Unique jewellery always stands out",
+                        "~Nothing is said about unique jewellery"
+                    ],
+                    "id": "1261",
+                    "answer": "0:25 – 0:32",
+                    "practicelinks": [
+                        "http://www.talkenglish.com/Listening/ListenAdvanced.aspx",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                },
+                {
+                    "question": "What do you need to say to a person who has just won an award?",
+                    "options": [
+                        "~You wish them “Good Morning”",
+                        "=You congratulate them",
+                        "~You say “Nice to meet you!”",
+                        "~You say nothing"
+                    ],
+                    "id": "1262",
+                    "answer": "0:34 – 0:42",
+                    "practicelinks": [
+                        "http://www.talkenglish.com/Listening/ListenAdvanced.aspx",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                },
+                {
+                    "question": "How do you need to maintain the tone of the conversation, while making small talk?",
+                    "options": [
+                        "~Clean and airy",
+                        "~Dark and disturbing",
+                        "=Light and upbeat",
+                        "~Daring and courageous"
+                    ],
+                    "id": "1263",
+                    "answer": "0:43 – 0:49",
+                    "practicelinks": [
+                        "http://www.talkenglish.com/Listening/ListenAdvanced.aspx",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                },
+                {
+                    "question": "How does small talk help?",
+                    "options": [
+                        "~Helps build business",
+                        "~Helps create networks",
+                        "~Helps gaining profits",
+                        "=Helps build relationships"
+                    ],
+                    "id": "1264",
+                    "answer": "0:49 – 0:53",
+                    "practicelinks": [
+                        "http://www.talkenglish.com/Listening/ListenAdvanced.aspx",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/f4vJpmkzIz8\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "Who claimed that there was no connection between Africa and India?",
+                    "options": [
+                        "~People",
+                        "=Historians",
+                        "~Politicians",
+                        "~Economists"
+                    ],
+                    "id": "1269",
+                    "answer": "0.09-0.15 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://www.elllo.org/english/level-3-beginner-high.htm"
+                    ]
+                },
+                {
+                    "question": "When did Vasco da gama reach India?",
+                    "options": [
+                        "~1500",
+                        "~1948",
+                        "=1498",
+                        "~1600"
+                    ],
+                    "id": "1270",
+                    "answer": "0.00-0.25 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://www.elllo.org/english/level-3-beginner-high.htm"
+                    ]
+                },
+                {
+                    "question": "Whose civilization was advanced?",
+                    "options": [
+                        "~India's",
+                        "~Europe's",
+                        "=Africa's",
+                        "~Asia's"
+                    ],
+                    "id": "1271",
+                    "answer": "3.20-3.35 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://www.elllo.org/english/level-3-beginner-high.htm"
+                    ]
+                },
+                {
+                    "question": "What do we see on the right side of the king in the carving?",
+                    "options": [
+                        "~Soldiers walking",
+                        "~People playing",
+                        "~A man",
+                        "=Several people wearing skirts"
+                    ],
+                    "id": "1272",
+                    "answer": "1.58-2.02 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://www.elllo.org/english/level-3-beginner-high.htm"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/P3aEmXC_PUg\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "Who is the interviewee in the video?",
+                    "options": [
+                        "~Tom Cruise",
+                        "=Steven Spielberg",
+                        "~Narendra Modi",
+                        "~Sachin Tendulkar"
+                    ],
+                    "id": "1273",
+                    "answer": "0.00-0.30 secs",
+                    "practicelinks": [
+                        "http://esl.about.com/library/listening/bllis_customer1.htm",
+                        "http://esl.about.com/library/listening/bllis_customer2.htm"
+                    ]
+                },
+                {
+                    "question": "What is the most important ingredient of a movie?",
+                    "options": [
+                        "=The story",
+                        "~The  star cast",
+                        "~Script",
+                        "~Direction"
+                    ],
+                    "id": "1274",
+                    "answer": "0.20 – 1.00 mins",
+                    "practicelinks": [
+                        "http://esl.about.com/library/listening/bllis_customer1.htm",
+                        "http://esl.about.com/library/listening/bllis_customer2.htm"
+                    ]
+                },
+                {
+                    "question": "Whose joke did the interviewer share in the video?",
+                    "options": [
+                        "~His Father's joke",
+                        "~His neighbor's joke",
+                        "=His Professor's joke",
+                        "~His own joke"
+                    ],
+                    "id": "1275",
+                    "answer": "1.0– 1.20 secs",
+                    "practicelinks": [
+                        "http://esl.about.com/library/listening/bllis_customer1.htm",
+                        "http://esl.about.com/library/listening/bllis_customer2.htm"
+                    ]
+                },
+                {
+                    "question": "How does Steven Spielberg want to experiment his movies in India?",
+                    "options": [
+                        "~By re- making Indian film",
+                        "~By re- directing Chinese movie",
+                        "~Does not want to experiment at all",
+                        "=By  re-making  A U.S. film in India with Indian director, scripter writer and star cast."
+                    ],
+                    "id": "1276",
+                    "answer": "1.30 secs – 2.15",
+                    "practicelinks": [
+                        "http://esl.about.com/library/listening/bllis_customer1.htm",
+                        "http://esl.about.com/library/listening/bllis_customer2.htm"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/-stghZnXeTY\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "The month of January is named after which of these gods?",
+                    "options": [
+                        "~Greek god",
+                        "~Indian god",
+                        "=Roman god",
+                        "~Italian god"
+                    ],
+                    "id": "1277",
+                    "answer": "0.20-0.30 secs",
+                    "practicelinks": [
+                        "http://www.testden.com/toefl/grammar/questions_a.html",
+                        "http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/2014/09/140904_6min_literacy.shtml"
+                    ]
+                },
+                {
+                    "question": "Who said, “ If you don't know which boat  you are sailing to, no wind is favorable for you”",
+                    "options": [
+                        "~Aristotle",
+                        "~Socrates",
+                        "~Plato",
+                        "=Saneca"
+                    ],
+                    "id": "1278",
+                    "answer": "2.25– 2.40 secs",
+                    "practicelinks": [
+                        "http://esl.about.com/library/listening/bllis_reservation.htm",
+                        "http://esl.about.com/library/listening/blholiday.htm"
+                    ]
+                },
+                {
+                    "question": " What gives us good results and makes us successful  according to the speaker?",
+                    "options": [
+                        "~Individuality",
+                        "~Team work",
+                        "=ownership",
+                        "~Being Proactive"
+                    ],
+                    "id": "1279",
+                    "answer": "3.10-4.00 secs",
+                    "practicelinks": [
+                        "http://esl.about.com/library/listening/bllis_reservation.htm",
+                        "http://esl.about.com/library/listening/blholiday.htm"
+                    ]
+                },
+                {
+                    "question": "How should we live our lives?",
+                    "options": [
+                        "~Wasting time",
+                        "~Putting only some amount of efforts",
+                        "~Taking responsibility",
+                        "=Making the best of every single moment"
+                    ],
+                    "id": "1280",
+                    "answer": "4.10-5.30 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://esl.about.com/library/listening/blufo1.htm"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/A4O3B-1fWBc\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "What is the speaker talking about",
+                    "options": [
+                        "~Confidence in Presentations",
+                        "~Attitude in Presentations",
+                        "=Facial expressions in Presentations",
+                        "~Team work"
+                    ],
+                    "id": "1281",
+                    "answer": "0.05-0.15secs",
+                    "practicelinks": [
+                        "http://esl.about.com/library/listening/bllis_customer2.htm",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "Why should we smile while communicating?",
+                    "options": [
+                        "=It connects with people",
+                        "~It makes you feel ugly",
+                        "~To overcome your fear",
+                        "~To communicate well"
+                    ],
+                    "id": "1282",
+                    "answer": "1.00-1.30 scs",
+                    "practicelinks": [
+                        "http://esl.about.com/library/listening/bllis_customer2.htm",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "According to the speaker, what should match with our expressions?",
+                    "options": [
+                        "~Face",
+                        "=Words",
+                        "~Eye",
+                        "~Legs"
+                    ],
+                    "id": "1283",
+                    "answer": "2.00 -2.20 secs",
+                    "practicelinks": [
+                        "http://esl.about.com/library/listening/bllis_customer2.htm",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "How can we avoid crutch gestures?",
+                    "options": [
+                        "~By sitting",
+                        "=By standing in the front of the mirror and observing crutch gestures",
+                        "~By sleeping",
+                        "~By not doing anything."
+                    ],
+                    "id": "1284",
+                    "answer": "3.00-3.50secs",
+                    "practicelinks": [
+                        "http://esl.about.com/library/listening/bllis_customer2.htm",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/gN-4EZbvoo8\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "Who see the contrast between the black and the white colors in Calligraphy?",
+                    "options": [
+                        "~The Chinese",
+                        "=The Japanese",
+                        "~ Indians",
+                        "~No one can make out"
+                    ],
+                    "id": "1285",
+                    "answer": "0.0– 0.25 secs",
+                    "practicelinks": [
+                        "http://esl.about.com/library/listening/bllis_joblikes2.htm",
+                        "http://esl.about.com/library/listening/blholiday.htm"
+                    ]
+                },
+                {
+                    "question": "When was Indian ink invented and where?",
+                    "options": [
+                        "~1000 years ago, in Japan",
+                        "~500 years ago In India",
+                        "=3,500 years ago in China",
+                        "~200 years ago , In Pakistan"
+                    ],
+                    "id": "1286",
+                    "answer": "0.25 – 0.45 secs",
+                    "practicelinks": [
+                        "http://esl.about.com/library/listening/bllis_joblikes2.htm",
+                        "http://esl.about.com/library/listening/blholiday.htm"
+                    ]
+                },
+                {
+                    "question": "How is the Indian ink made with oil soot is different than the ink with pine soot?",
+                    "options": [
+                        "=Ink with oils soot is deep black in colour while the ink with pine soot is bluish black",
+                        "~There is no difference at all",
+                        "~Oil soot ink is red in colour while pine soot ink is green",
+                        "~Oil soot ink is bluish black while pine soot ink deep black"
+                    ],
+                    "id": "1287",
+                    "answer": "2.00– 2.45 secs",
+                    "practicelinks": [
+                        "http://esl.about.com/library/listening/bllis_joblikes2.htm",
+                        "http://esl.about.com/library/listening/blholiday.htm"
+                    ]
+                },
+                {
+                    "question": "Why is pine soot ink used in brush painting?",
+                    "options": [
+                        "~Because it is very easy to paint",
+                        "~It gives a beautiful bluish black color",
+                        "~It is inexpensive",
+                        "=Because it gives broader spectrum of shades for the painters"
+                    ],
+                    "id": "1288",
+                    "answer": "2.30– 3.00 secs",
+                    "practicelinks": [
+                        "http://esl.about.com/library/listening/bllis_reservation.htm",
+                        "http://englishinteractive.net/listening.html"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/1SExW_Erpz0\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "Which company is  Nikesh Arora representing in the video",
+                    "options": [
+                        "~Face book",
+                        "=Google",
+                        "~Microsoft",
+                        "~Cognizant"
+                    ],
+                    "id": "1289",
+                    "answer": "0.00-0.15 secs",
+                    "practicelinks": [
+                        "http://www.elllo.org/english/level-3-beginner-high.htm",
+                        "http://esl.about.com/library/media/audio/time.mp3"
+                    ]
+                },
+                {
+                    "question": "What did Nikesh prefer to do in the class?",
+                    "options": [
+                        "~Ask a lot of questions",
+                        "~Ask some questions",
+                        "=Preferred sitting in the back of the class and preferred not to react",
+                        "~Never talked in the class"
+                    ],
+                    "id": "1290",
+                    "answer": "0.50-1.30 secs",
+                    "practicelinks": [
+                        "http://www.elllo.org/english/level-3-beginner-high.htm",
+                        "http://esl.about.com/library/media/audio/time.mp3"
+                    ]
+                },
+                {
+                    "question": "Why did he do a degree in finance?",
+                    "options": [
+                        "~He was interested in finance",
+                        "~His father suggested him to  do a course in finance",
+                        "~He  did not have enough money",
+                        "=He applied for jobs in the finance industry but was rejected as he did not have degree in finance"
+                    ],
+                    "id": "1291",
+                    "answer": "3.55-4.20secs",
+                    "practicelinks": [
+                        "http://www.elllo.org/english/level-3-beginner-high.htm",
+                        "http://esl.about.com/library/media/audio/time.mp3"
+                    ]
+                },
+                {
+                    "question": "When did he graduate from the business school in the US?",
+                    "options": [
+                        "=1992",
+                        "~1993",
+                        "~1190",
+                        "~1994"
+                    ],
+                    "id": "1292",
+                    "answer": "4.45-6.00secs",
+                    "practicelinks": [
+                        "http://www.elllo.org/english/level-3-beginner-high.htm",
+                        "http://esl.about.com/library/media/audio/time.mp3"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/midOTs38lIA\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "What did Laxman want to be in his childhood?",
+                    "options": [
+                        "~Politician",
+                        "~Actor",
+                        "=Doctor",
+                        "~Cricketer"
+                    ],
+                    "id": "1293",
+                    "answer": "0.10-0.25 secs",
+                    "practicelinks": [
+                        "http://www.testden.com/toefl/grammar/questions_a.html",
+                        "http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/"
+                    ]
+                },
+                {
+                    "question": "Why is cricket a religion in India?",
+                    "options": [
+                        "=Because every single person in India loves and plays cricket",
+                        "~As it is a very famous game",
+                        "~It is a gentlemen game",
+                        "~It an interesting game"
+                    ],
+                    "id": "1294",
+                    "answer": "2.00-2.15 secs",
+                    "practicelinks": [
+                        "http://www.testden.com/toefl/grammar/questions_a.html",
+                        "http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/"
+                    ]
+                },
+                {
+                    "question": "Where does Laxman want to set up a sports school?",
+                    "options": [
+                        "~Bangalore",
+                        "~Pune",
+                        "~Delhi",
+                        "=Hyderabad"
+                    ],
+                    "id": "1295",
+                    "answer": "3.45-4.15 secs",
+                    "practicelinks": [
+                        "http://www.testden.com/toefl/grammar/questions_a.html",
+                        "http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/"
+                    ]
+                },
+                {
+                    "question": "How can a country build it's future",
+                    "options": [
+                        "~With education",
+                        "=With education and sports",
+                        "~With students",
+                        "~With politicians"
+                    ],
+                    "id": "1296",
+                    "answer": "4.00-4.45 secs",
+                    "practicelinks": [
+                        "http://www.testden.com/toefl/grammar/questions_a.html",
+                        "http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/Z3zztOkMc0c\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "In how many markets are Biocon's products registered?",
+                    "options": [
+                        "~20",
+                        "~15",
+                        "=30",
+                        "~40"
+                    ],
+                    "id": "1297",
+                    "answer": "0.00 – 0.35 secs",
+                    "practicelinks": [
+                        "http://englishteststore.net/index.php?option=com_content&view=article&id=11388:free-english-listening-exercises-and-tests-online&catid=1:latest&Itemid=389",
+                        "http://www.learning-english-online.net/skills/listening-comprehension/"
+                    ]
+                },
+                {
+                    "question": "What was the first product introduced in 2004?",
+                    "options": [
+                        "~Vaccine",
+                        "=Insulin",
+                        "~A sleeping pill",
+                        "~A drug"
+                    ],
+                    "id": "1298",
+                    "answer": "0.35 – 1.00 ",
+                    "practicelinks": [
+                        "http://englishteststore.net/index.php?option=com_content&view=article&id=11388:free-english-listening-exercises-and-tests-online&catid=1:latest&Itemid=389",
+                        "http://www.learning-english-online.net/skills/listening-comprehension/"
+                    ]
+                },
+                {
+                    "question": "Which country came up with  bio economy blue print?",
+                    "options": [
+                        "=USA",
+                        "~UK",
+                        "~India",
+                        "~France"
+                    ],
+                    "id": "1299",
+                    "answer": "1.05 – 1.40 secs",
+                    "practicelinks": [
+                        "http://englishteststore.net/index.php?option=com_content&view=article&id=11388:free-english-listening-exercises-and-tests-online&catid=1:latest&Itemid=389",
+                        "http://www.learning-english-online.net/skills/listening-comprehension/"
+                    ]
+                },
+                {
+                    "question": "How can bio technology  sector help the US economy?",
+                    "options": [
+                        "~Through it's blue print",
+                        "~Through it's market",
+                        "~Through it's competitors",
+                        "=Through it's innovations and there by leading to transformation of the economy"
+                    ],
+                    "id": "1300",
+                    "answer": "1.30- 2.45 ",
+                    "practicelinks": [
+                        "http://englishteststore.net/index.php?option=com_content&view=article&id=11388:free-english-listening-exercises-and-tests-online&catid=1:latest&Itemid=389",
+                        "http://www.learning-english-online.net/skills/listening-comprehension/"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/ucNL1rnZ-_4\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": " Where is the interview taking place ?",
+                    "options": [
+                        "~Indira Bhavan",
+                        "=Swaraj Bhavan",
+                        "~Gandhi Bhavan",
+                        "~Nehru Bhavan"
+                    ],
+                    "id": "1301",
+                    "answer": "0.00-0.20secs",
+                    "practicelinks": [
+                        "http://www.testden.com/toefl/grammar/questions_a.html",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "To whom did Indira Gandhi dedicate Anand Bhavan?",
+                    "options": [
+                        "~To Sonia Gandhi",
+                        "=To the nation",
+                        "~To Rajiv Gandhi",
+                        "~To herself"
+                    ],
+                    "id": "1302",
+                    "answer": "1.00 – 1.45 secs",
+                    "practicelinks": [
+                        "http://www.testden.com/toefl/grammar/questions_a.html",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "From whom did Sonia Gandhi first  hear about freedom movement and politics of previous years?",
+                    "options": [
+                        "~Rajeev Gandhi",
+                        "~Nehru",
+                        "=Indira Gandhi",
+                        "~She learnt herself"
+                    ],
+                    "id": "1303",
+                    "answer": "2.00-2.30 ",
+                    "practicelinks": [
+                        "http://www.testden.com/toefl/grammar/questions_a.html",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "When would Indira Gandhi share her childhood memories with her rest of the family?",
+                    "options": [
+                        "=During holidays and vacation",
+                        "~During her meetings",
+                        "~In Swaraj Bhavan",
+                        "~During her official trips"
+                    ],
+                    "id": "1304",
+                    "answer": "2.20-3.15 secs",
+                    "practicelinks": [
+                        "http://www.testden.com/toefl/grammar/questions_a.html",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/Gy1iAmJJxQg\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "Which company / group of companies is the speaker representing?",
+                    "options": [
+                        "~Wipro",
+                        "~HCL",
+                        "=TATA",
+                        "~Dell"
+                    ],
+                    "id": "1305",
+                    "answer": "0.00-0.15 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.elllo.org/english/level-3-beginner-high.htm"
+                    ]
+                },
+                {
+                    "question": "How can  the employability of Indians be improved according to the speaker",
+                    "options": [
+                        "=Through learning and skilling initiatives",
+                        "~Through jobs",
+                        "~Through training",
+                        "~With the help of the government initiatives"
+                    ],
+                    "id": "1306",
+                    "answer": "2.30-3.00 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.elllo.org/english/level-3-beginner-high.htm"
+                    ]
+                },
+                {
+                    "question": "What is bringing the Industry and the government together?",
+                    "options": [
+                        "~Made in Inida",
+                        "=Make in India",
+                        "~Narendra Modi's image",
+                        "~The government's policies"
+                    ],
+                    "id": "1307",
+                    "answer": "3.00-3.30",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.elllo.org/english/level-3-beginner-high.htm"
+                    ]
+                },
+                {
+                    "question": "Where were 30,000 individuals  trained by  the TATA group",
+                    "options": [
+                        "~In Hyderabad",
+                        "~All over india",
+                        "~In Mysore",
+                        "=In 30 training centers pan India"
+                    ],
+                    "id": "1308",
+                    "answer": "3.30-5.00",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.elllo.org/english/level-3-beginner-high.htm"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/J1-qvjPqaJ0\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": " How many cars are produced every year?",
+                    "options": [
+                        "~100 millions",
+                        "~20 millions",
+                        "~40 millions",
+                        "=60 millions"
+                    ],
+                    "id": "1309",
+                    "answer": "0.15 – 0.55 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "Where did the speaker move his lab to?",
+                    "options": [
+                        "~To college",
+                        "~To an open space",
+                        "=To bedroom",
+                        "~To school"
+                    ],
+                    "id": "1310",
+                    "answer": "1.20– 1.55 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "How is the energy lost , according to the speaker?",
+                    "options": [
+                        "~Through gases",
+                        "=Through wasted heat energy",
+                        "~Through smoke",
+                        "~Through pollution"
+                    ],
+                    "id": "1311",
+                    "answer": "2.20-3.00 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "What is the name of the speaker's own company?",
+                    "options": [
+                        "=Ecoviate",
+                        "~Eco balance",
+                        "~Equivocal",
+                        "~Ecoviaters"
+                    ],
+                    "id": "1312",
+                    "answer": "3.25 – 4.35 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/sy_IjzV5dAs\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "Who is called the God of Cricket?",
+                    "options": [
+                        "~Kapil Dev",
+                        "~Dravid",
+                        "=Sachin Tendulkar",
+                        "~Sunil Gavaskar"
+                    ],
+                    "id": "1313",
+                    "answer": "0.00 – 0.15 secs",
+                    "practicelinks": [
+                        "http://www.iei.illinois.edu/California/index.html",
+                        "https://www.englishlistening.com/index.php/listen-to-passages/"
+                    ]
+                },
+                {
+                    "question": "Who gave Health is wealth; take care of your health advice to Sachin?",
+                    "options": [
+                        "~His Grand father",
+                        "=His Grand mother",
+                        "~His father",
+                        "~His mother"
+                    ],
+                    "id": "1314",
+                    "answer": "1.10 – 1.45 secs",
+                    "practicelinks": [
+                        "http://www.iei.illinois.edu/California/index.html",
+                        "https://www.englishlistening.com/index.php/listen-to-passages/"
+                    ]
+                },
+                {
+                    "question": "What should the present generation do to be healthy?",
+                    "options": [
+                        "~It should eat well.",
+                        "~It should play video and online games",
+                        "~It should work on lap tops rigorously",
+                        "=It should play out door games"
+                    ],
+                    "id": "1315",
+                    "answer": "1.55 – 2.35 secs",
+                    "practicelinks": [
+                        "http://www.iei.illinois.edu/California/index.html",
+                        "https://www.englishlistening.com/index.php/listen-to-passages/"
+                    ]
+                },
+                {
+                    "question": "What has Sachin leant from defeat in his sport?",
+                    "options": [
+                        "=To rise and get ready for another challenge",
+                        "~To give up",
+                        "~To ignore",
+                        "~To pass on the blame of defeat"
+                    ],
+                    "id": "1316",
+                    "answer": "2.25-3.25",
+                    "practicelinks": [
+                        "http://www.iei.illinois.edu/California/index.html",
+                        "https://www.englishlistening.com/index.php/listen-to-passages/"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/LYUPAJZS938\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "What did the speaker always wanted to do?",
+                    "options": [
+                        "~To sing",
+                        "~To paint",
+                        "~To play",
+                        "=To draw"
+                    ],
+                    "id": "1317",
+                    "answer": "0.00 – 0.25 secs",
+                    "practicelinks": [
+                        "http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/2014/09/140911_6min_underwater_living.shtml",
+                        "http://www.testden.com/toefl/grammar/questions_a.html"
+                    ]
+                },
+                {
+                    "question": "What does “noticing” mean according to the speaker?",
+                    "options": [
+                        "=Observing",
+                        "~Looking",
+                        "~Noting down",
+                        "~Pointing out"
+                    ],
+                    "id": "1318",
+                    "answer": "1.05 – 1.45 secs",
+                    "practicelinks": [
+                        "http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/2014/09/140911_6min_underwater_living.shtml",
+                        "http://www.testden.com/toefl/grammar/questions_a.html"
+                    ]
+                },
+                {
+                    "question": "How did the speaker manage to get her own ideas to draw",
+                    "options": [
+                        "~By taking suggestions from others",
+                        "=By noticing people and surroundings around her",
+                        "~By other's orders",
+                        "~By company instructions"
+                    ],
+                    "id": "1319",
+                    "answer": "1.40- 2.15 secs",
+                    "practicelinks": [
+                        "http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/2014/09/140911_6min_underwater_living.shtml",
+                        "http://www.testden.com/toefl/grammar/questions_a.html"
+                    ]
+                },
+                {
+                    "question": "Why did the speaker start Old wives tales ?",
+                    "options": [
+                        "~Because the tales are interesting",
+                        "~To arise humor",
+                        "=To make people aware of Indian superstitions  as she has noticed many such superstitions",
+                        "~For  money"
+                    ],
+                    "id": "1320",
+                    "answer": "2.20 – 3..20 secs",
+                    "practicelinks": [
+                        "http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/2014/09/140911_6min_underwater_living.shtml",
+                        "http://www.testden.com/toefl/grammar/questions_a.html"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/IIpiZ-CC0Tc\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "What has transferred the world into art form",
+                    "options": [
+                        "~Digital photography",
+                        "~You tube and facebook",
+                        "~Film photography",
+                        "=Digital, film, smart phone , YouTube and face book"
+                    ],
+                    "id": "1321",
+                    "answer": "0.00-0.35 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://englishteststore.net/index.php?option=com_content&view=article&id=11388:free-english-listening-exercises-and-tests-online&catid=1:latest&Itemid=389"
+                    ]
+                },
+                {
+                    "question": "What is the visual currency for communication?",
+                    "options": [
+                        "~Facebook",
+                        "~Film making",
+                        "~You tube",
+                        "=Photography"
+                    ],
+                    "id": "1322",
+                    "answer": "0.15 – 0.55 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://englishteststore.net/index.php?option=com_content&view=article&id=11388:free-english-listening-exercises-and-tests-online&catid=1:latest&Itemid=389"
+                    ]
+                },
+                {
+                    "question": "What is the major aspect of photography",
+                    "options": [
+                        "=Focus",
+                        "~Idea",
+                        "~Camera",
+                        "~Object"
+                    ],
+                    "id": "1323",
+                    "answer": "1.10 – 1.45 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://englishteststore.net/index.php?option=com_content&view=article&id=11388:free-english-listening-exercises-and-tests-online&catid=1:latest&Itemid=389"
+                    ]
+                },
+                {
+                    "question": "Who took the most famous photograph called the Moonrise, Hernandez?",
+                    "options": [
+                        "~Anthony Hopkins",
+                        "~Anthony Gonzales",
+                        "=Ansel Adams",
+                        "~Jim Carrey"
+                    ],
+                    "id": "1324",
+                    "answer": "3.20 – 4.20 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://englishteststore.net/index.php?option=com_content&view=article&id=11388:free-english-listening-exercises-and-tests-online&catid=1:latest&Itemid=389"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/jz7b-AvREtQ\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "Who are the least responsible for climate change?",
+                    "options": [
+                        "~Those who like climate changes",
+                        "=Those who are worst affected by climate change",
+                        "~Those who are least affected b climate change",
+                        "~People who are not affected at all"
+                    ],
+                    "id": "1333",
+                    "answer": "0.05 -0.14 secs",
+                    "practicelinks": [
+                        "http://www.iei.illinois.edu/California/index.html",
+                        "http://englishinteractive.net/listening.html"
+                    ]
+                },
+                {
+                    "question": "By which year does India plan to improve energy efficiency ?",
+                    "options": [
+                        "~2022",
+                        "~2017",
+                        "=2020",
+                        "~2030"
+                    ],
+                    "id": "1334",
+                    "answer": "1.02 – 1.07 secs",
+                    "practicelinks": [
+                        "http://www.iei.illinois.edu/California/index.html",
+                        "http://englishinteractive.net/listening.html"
+                    ]
+                },
+                {
+                    "question": "How must the Quto Protocol continue to stand?",
+                    "options": [
+                        "=As a valid, legal instrument",
+                        "~As a legal instrument only",
+                        "~As a valid instrument only",
+                        "~Just as a protocol"
+                    ],
+                    "id": "1335",
+                    "answer": "2.00 – 2.10secs",
+                    "practicelinks": [
+                        "http://www.iei.illinois.edu/California/index.html",
+                        "http://englishinteractive.net/listening.html"
+                    ]
+                },
+                {
+                    "question": "What should the parties do under the Quto Protocol?",
+                    "options": [
+                        "~They should follow it",
+                        "~They should support it",
+                        "~They should not oppose it",
+                        "=They should stand up to deliver on their solemn commitments"
+                    ],
+                    "id": "1336",
+                    "answer": "2.10-2.15 secs",
+                    "practicelinks": [
+                        "http://www.iei.illinois.edu/California/index.html",
+                        "http://englishinteractive.net/listening.html"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/RTMl_doe474\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "What are the qualities of a good speaker?",
+                    "options": [
+                        "~Self motivation, disciplie",
+                        "~Trust",
+                        "~Assertive behavior",
+                        "=Command over language, observation, quickness and confidence"
+                    ],
+                    "id": "1337",
+                    "answer": "0.27 -0.40secs",
+                    "practicelinks": [
+                        "http://www.testden.com/toefl/grammar/questions_a.html",
+                        "http://esl.about.com/library/listening/bllis_joblikes2.htm"
+                    ]
+                },
+                {
+                    "question": "Which is the second most important “do” for a prospective speaker?",
+                    "options": [
+                        "~Keep a note book",
+                        "~Write down important points",
+                        "=Be attentive",
+                        "~Be audience oriented"
+                    ],
+                    "id": "1338",
+                    "answer": "1.10 secs – 1.20 secs",
+                    "practicelinks": [
+                        "http://www.testden.com/toefl/grammar/questions_a.html",
+                        "http://esl.about.com/library/listening/bllis_joblikes2.htm"
+                    ]
+                },
+                {
+                    "question": "Where should a speaker collect his /her information from?",
+                    "options": [
+                        "~News papers, magazines",
+                        "~Radio, television",
+                        "~Reference books, anecdotes, personal experiences",
+                        "=News papers, magazines, Radio, television, books, anecdotes and experiences"
+                    ],
+                    "id": "1339",
+                    "answer": "2.12 -2.30secs",
+                    "practicelinks": [
+                        "http://www.testden.com/toefl/grammar/questions_a.html",
+                        "http://esl.about.com/library/listening/bllis_joblikes2.htm"
+                    ]
+                },
+                {
+                    "question": "How can a speaker give an effective speech?",
+                    "options": [
+                        "~With the help of friends",
+                        "=Wth proper plan, preparation, practice",
+                        "~With focus",
+                        "~With a mike"
+                    ],
+                    "id": "1340",
+                    "answer": "3.15 -3.30 secs",
+                    "practicelinks": [
+                        "http://www.testden.com/toefl/grammar/questions_a.html",
+                        "http://esl.about.com/library/listening/bllis_joblikes2.htm"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/vMZwsZWMwGA\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "What is entrepreneurship all about?",
+                    "options": [
+                        "~Nation's economy",
+                        "~Empowerment",
+                        "=Wealth creation",
+                        "~Peace and security"
+                    ],
+                    "id": "1341",
+                    "answer": "0.14-0.20 secs",
+                    "practicelinks": [
+                        "http://www.learning-english-online.net/skills/listening-comprehension/",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                },
+                {
+                    "question": "How can big dreams be realized, according to the speaker",
+                    "options": [
+                        "=By making them feel accessible",
+                        "~By forgetting them",
+                        "~By visualizing them",
+                        "~By chasing them"
+                    ],
+                    "id": "1342",
+                    "answer": "0.50 -1.05 secs",
+                    "practicelinks": [
+                        "http://www.learning-english-online.net/skills/listening-comprehension/",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                },
+                {
+                    "question": "Since when is the speaker  involved in funding the companies?",
+                    "options": [
+                        "~2005",
+                        "=2006",
+                        "~2010",
+                        "~2001"
+                    ],
+                    "id": "1343",
+                    "answer": "1.22 secs – 1.26 scecs",
+                    "practicelinks": [
+                        "http://www.learning-english-online.net/skills/listening-comprehension/",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                },
+                {
+                    "question": "In which fields should India develop to top at the ease of business?",
+                    "options": [
+                        "~Technology",
+                        "~Telecom",
+                        "~Infrastructure",
+                        "=Technology and Mobile solutions"
+                    ],
+                    "id": "1344",
+                    "answer": "4.10 secs -4.20secs",
+                    "practicelinks": [
+                        "http://www.learning-english-online.net/skills/listening-comprehension/",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/i6SXMYoduoc\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "Where is the start up program going to be started?",
+                    "options": [
+                        "=India",
+                        "~France",
+                        "~Africa",
+                        "~China"
+                    ],
+                    "id": "1345",
+                    "answer": "0.05 -0.15 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                },
+                {
+                    "question": "45% of the startup companies are coming from ?",
+                    "options": [
+                        "~Mumbai",
+                        "~Hyderabad",
+                        "=Bangalore",
+                        "~Delhi"
+                    ],
+                    "id": "1346",
+                    "answer": "0.25 -0.36 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                },
+                {
+                    "question": "What is the main aspect on which Google would concentrate with regards to start ups?",
+                    "options": [
+                        "~Funding",
+                        "=Mentoring",
+                        "~Venture Capital firms",
+                        "~Other MNC's"
+                    ],
+                    "id": "1347",
+                    "answer": "1.30-1.40 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                },
+                {
+                    "question": "How many start up companies perish in the first 8 months , according to the speaker?",
+                    "options": [
+                        "~10%",
+                        "~20%",
+                        "~40%",
+                        "=50%"
+                    ],
+                    "id": "1348",
+                    "answer": "1.14-1.30 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/VmJmgyo-bCQ\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "In which year was SMS Gyan founded?",
+                    "options": [
+                        "=2008",
+                        "~2005",
+                        "~2010",
+                        "~2000"
+                    ],
+                    "id": "1349",
+                    "answer": "0.10-0.20 secs",
+                    "practicelinks": [
+                        "http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/2014/08/140828_witn_6min_ebola.shtml",
+                        "http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/2014/09/140904_6min_literacy.shtml"
+                    ]
+                },
+                {
+                    "question": "Why was SMS GYAN started?",
+                    "options": [
+                        "~To become rich",
+                        "=To find out information about anything through SMS",
+                        "~To face competition",
+                        "~To flirt"
+                    ],
+                    "id": "1350",
+                    "answer": "1.00-1.20 secs",
+                    "practicelinks": [
+                        "http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/2014/08/140828_witn_6min_ebola.shtml",
+                        "http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/2014/09/140904_6min_literacy.shtml"
+                    ]
+                },
+                {
+                    "question": "What is the largest offline search on mobile , according to the speaker?",
+                    "options": [
+                        "~Google",
+                        "~Mozilla",
+                        "=SMS Gyan",
+                        "~Infosys"
+                    ],
+                    "id": "1351",
+                    "answer": "3.10 secs-3.30 secs",
+                    "practicelinks": [
+                        "http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/2014/08/140828_witn_6min_ebola.shtml",
+                        "http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/2014/09/140904_6min_literacy.shtml"
+                    ]
+                },
+                {
+                    "question": "Who was the person who gave an opportunity to launch SMS Gyan?",
+                    "options": [
+                        "~V. P. Google",
+                        "~Head, Airtel",
+                        "~CEO, Amazon",
+                        "=Head, Bharati Airtel(New products)"
+                    ],
+                    "id": "1352",
+                    "answer": "2.00 -2.35",
+                    "practicelinks": [
+                        "http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/2014/08/140828_witn_6min_ebola.shtml",
+                        "http://www.bbc.co.uk/worldservice/learningenglish/general/sixminute/2014/09/140904_6min_literacy.shtml"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/9MHSDznq7mk\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "According to the speaker, who are the incredible people in her life ?",
+                    "options": [
+                        "~Friends and family",
+                        "=Father and grandfather",
+                        "~Mother and sister",
+                        "~She herself"
+                    ],
+                    "id": "1353",
+                    "answer": "0.10 -0.40secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.learning-english-online.net/skills/listening-comprehension/"
+                    ]
+                },
+                {
+                    "question": "What is the name of the monkey that the speaker is referring to ?",
+                    "options": [
+                        "~Lion tail",
+                        "~Cat's tail",
+                        "~Tiger tail",
+                        "=Lion tailed macaque"
+                    ],
+                    "id": "1354",
+                    "answer": "1.20 -1.45secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.learning-english-online.net/skills/listening-comprehension/"
+                    ]
+                },
+                {
+                    "question": "The speaker's  biggest dream is to",
+                    "options": [
+                        "~Become tigerologist",
+                        "~Be successful",
+                        "=Re- wild India",
+                        "~Save animals"
+                    ],
+                    "id": "1355",
+                    "answer": "3.20- 3.50 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.learning-english-online.net/skills/listening-comprehension/"
+                    ]
+                },
+                {
+                    "question": "Why did the speaker's daughter  jump with happiness?",
+                    "options": [
+                        "=Because she saw her first leopard",
+                        "~Because she was with her mother",
+                        "~Her grand-parents made her happy",
+                        "~ Because she saw a monkey"
+                    ],
+                    "id": "1356",
+                    "answer": "4.20 – 5.20 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.learning-english-online.net/skills/listening-comprehension/"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/IwVh-Qv3Mic\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "What does sleep do to our body, according to the speaker?",
+                    "options": [
+                        "~It gives rest",
+                        "=It maintains the human body",
+                        "~It spoils health",
+                        "~It is not required at all"
+                    ],
+                    "id": "1361",
+                    "answer": "0.10 – 1.05 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://englishinteractive.net/listening.html"
+                    ]
+                },
+                {
+                    "question": "Why should not we sleep more than 8 -10 hours a day?",
+                    "options": [
+                        "~We  may become lazy",
+                        "~We may become sick",
+                        "=Human body is so sophisticated that it does not need to be in maintenance (sleeping) mode half the time.",
+                        "~The doctors advice us"
+                    ],
+                    "id": "1362",
+                    "answer": "1.40 – 2.15 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://englishinteractive.net/listening.html"
+                    ]
+                },
+                {
+                    "question": "When will the human body work efficiently?",
+                    "options": [
+                        "=When we control body, mind, emotions, energy are aligned properly",
+                        "~When we lose control on our mind",
+                        "~When we don't et properly",
+                        "~When we exercise"
+                    ],
+                    "id": "1363",
+                    "answer": "3.20 – 4.00 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://englishinteractive.net/listening.html"
+                    ]
+                },
+                {
+                    "question": " What must a mother do to led a good life?",
+                    "options": [
+                        "~Do yoga",
+                        "~Work",
+                        "~Sleep",
+                        "=Do inner engineering"
+                    ],
+                    "id": "1364",
+                    "answer": "3.45-4.50 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://englishinteractive.net/listening.html"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/Sw3Hwj2ysvo\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "Whom does Aishwarya Rai want to meet in India or outside?",
+                    "options": [
+                        "~Madhuri Dikshit",
+                        "=Mother Teresa",
+                        "~Nelson Mandela",
+                        "~Sonia Gandhi"
+                    ],
+                    "id": "1365",
+                    "answer": "0.30 – 1.00",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://englishinteractive.net/listening.html"
+                    ]
+                },
+                {
+                    "question": "With whom does Aishwarya want to spend time ?",
+                    "options": [
+                        "~With friends",
+                        "~With family",
+                        "~With media",
+                        "=With friends and family"
+                    ],
+                    "id": "1366",
+                    "answer": "1.25 - 1.50 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://englishinteractive.net/listening.html"
+                    ]
+                },
+                {
+                    "question": "What does she want to do with million dollars, if she is offered or wins",
+                    "options": [
+                        "~Make a movie",
+                        "~Spends on her family and friends",
+                        "=Would like to serve humanity with the money",
+                        "~Buy happiness"
+                    ],
+                    "id": "1367",
+                    "answer": "2.00 – 2.55 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://englishinteractive.net/listening.html"
+                    ]
+                },
+                {
+                    "question": "Where is the interview taking place?",
+                    "options": [
+                        "=London",
+                        "~India",
+                        "~France",
+                        "~USA"
+                    ],
+                    "id": "1368",
+                    "answer": "0.00 – 0.12 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://englishinteractive.net/listening.html"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/iP7El5_sGWg\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "What  scares Amir Khan",
+                    "options": [
+                        "~Anger",
+                        "=Horror films",
+                        "~Comedy films",
+                        "~Animals"
+                    ],
+                    "id": "1369",
+                    "answer": "0.0.5 -0.25 secs",
+                    "practicelinks": [
+                        "http://www.elllo.org/english/level-3-beginner-high.htm",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "How does Amir Khan maintain and develop his character while making a film?",
+                    "options": [
+                        "~He reads the script and follows it",
+                        "~He follows the instructions of the director of the film",
+                        "=He  understands the character completely  from the scriptand accordingly acts",
+                        "~He does not do anything ."
+                    ],
+                    "id": "1370",
+                    "answer": "0.45 – 1.45",
+                    "practicelinks": [
+                        "http://www.elllo.org/english/level-3-beginner-high.htm",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "Why does Amir khan not reveal his acceptance of a script?",
+                    "options": [
+                        "~It is his sentiment",
+                        "~He wants it to be a secret",
+                        "~Due to media",
+                        "=He wants to check few other things before he gives his acceptance"
+                    ],
+                    "id": "1371",
+                    "answer": "1.40 – 2.40 secs",
+                    "practicelinks": [
+                        "http://www.elllo.org/english/level-3-beginner-high.htm",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "Where can writers drop/send  their scripts?",
+                    "options": [
+                        "=At Amir Khan's  office",
+                        "~At his home",
+                        "~At the shooting spot",
+                        "~At a studio"
+                    ],
+                    "id": "1372",
+                    "answer": "2.40 – 3.40",
+                    "practicelinks": [
+                        "http://www.elllo.org/english/level-3-beginner-high.htm",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/D4uEwUjtvo8\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "Credit cardholders in India are",
+                    "options": [
+                        "~Less than 1 %",
+                        "=Less than 2 %",
+                        "~More than 5%",
+                        "~No credit card users at all in India"
+                    ],
+                    "id": "1373",
+                    "answer": "0.05 – 0.30 secs",
+                    "practicelinks": [
+                        "http://www.learning-english-online.net/skills/listening-comprehension/",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                },
+                {
+                    "question": "How does Ghar pe solve the problems of  transacting online?",
+                    "options": [
+                        "=By bridging the gap gap between ten credit card penetration and internet penetration",
+                        "~By allowing simple online transactions",
+                        "~By using simple and low cost technology",
+                        "~It cannot solve  online problems at all"
+                    ],
+                    "id": "1374",
+                    "answer": "0.45-1.30 secs",
+                    "practicelinks": [
+                        "http://www.learning-english-online.net/skills/listening-comprehension/",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                },
+                {
+                    "question": "Why did the speaker resign from his job?",
+                    "options": [
+                        "~He did not like it",
+                        "~He wanted to work abroad",
+                        "=He was insulted  by a mentor  and he wanted to prove him wrong by creating something new",
+                        "~He was not satisfied with his salary"
+                    ],
+                    "id": "1375",
+                    "answer": "2.00 – 3.05 secs",
+                    "practicelinks": [
+                        "http://www.learning-english-online.net/skills/listening-comprehension/",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                },
+                {
+                    "question": "What is the hardest problem to set up a start up?",
+                    "options": [
+                        "~Finance",
+                        "~Competition",
+                        "~Market",
+                        "=Finding the appropriate problem to solve"
+                    ],
+                    "id": "1376",
+                    "answer": "2.55 – 3.45secs",
+                    "practicelinks": [
+                        "http://www.learning-english-online.net/skills/listening-comprehension/",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/d6ORqehFxsk\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "What is the difference between people who want success and people who achieve success?",
+                    "options": [
+                        "~There is no difference at all",
+                        "~Attitude difference",
+                        "=Skills difference",
+                        "~Talent Difference"
+                    ],
+                    "id": "1377",
+                    "answer": "0.00 – 0.15 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.testden.com/toefl/grammar/questions_a.html"
+                    ]
+                },
+                {
+                    "question": "When can we become successful?",
+                    "options": [
+                        "=When we believe in ourselves",
+                        "~When we believe in others",
+                        "~When we have good relationships with others",
+                        "~When we do nothing"
+                    ],
+                    "id": "1378",
+                    "answer": "0.20 – 0.50 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.testden.com/toefl/grammar/questions_a.html"
+                    ]
+                },
+                {
+                    "question": "Why should we use time wisely?",
+                    "options": [
+                        "~To help others",
+                        "=Because time is short and limited",
+                        "~To  work better",
+                        "~To have a good life"
+                    ],
+                    "id": "1379",
+                    "answer": "1.00 – 1.20 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.testden.com/toefl/grammar/questions_a.html"
+                    ]
+                },
+                {
+                    "question": "How can we chase our dreams and achieve them?",
+                    "options": [
+                        "~By moving ahead in our lives",
+                        "~By not worrying about the problems at hand",
+                        "~By proper planning",
+                        "=By not worrying about the problems at hand, with proper planning and moving ahead in our lives"
+                    ],
+                    "id": "1380",
+                    "answer": "2.00 – 3.00 mins",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.testden.com/toefl/grammar/questions_a.html"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/RF78ajkneNQ\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "Why is Cash On delivery a problem to a merchant",
+                    "options": [
+                        "=It  costs the merchant a lot",
+                        "~It  is difficult because merchants do not have enough finance",
+                        "~Because buyers don't trust them",
+                        "~It is not a problem at all for them"
+                    ],
+                    "id": "1381",
+                    "answer": "0.00– 0.30 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "How many days are given to the buyer and the merchant to solve their problems?",
+                    "options": [
+                        "~6 days",
+                        "=7 days",
+                        "~10 days",
+                        "~3 days"
+                    ],
+                    "id": "1382",
+                    "answer": "2.30- 3.10 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "What can also be stored in Pay U paise?",
+                    "options": [
+                        "~Debit card data",
+                        "~Bank account data",
+                        "=Credit card Data",
+                        "~Nothing can be stored"
+                    ],
+                    "id": "1383",
+                    "answer": "3.30 – 4.15 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "Which country is well known for ROD system?",
+                    "options": [
+                        "~India",
+                        "~USA",
+                        "~France",
+                        "=China"
+                    ],
+                    "id": "1384",
+                    "answer": "5.45 – 6.20 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/ANup6R_Q7pQ\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "In the video, Kris Gopalakrishnan talks about the emerging competition from which country?",
+                    "options": [
+                        "~Japan",
+                        "=China",
+                        "~Korea",
+                        "~Malaysia"
+                    ],
+                    "id": "1385",
+                    "answer": "0.00 – 0.35 secs",
+                    "practicelinks": [
+                        "http://www.learning-english-online.net/skills/listening-comprehension/",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "To which economy are the Chinese companies trying to shift?",
+                    "options": [
+                        "~Manufacturing economy",
+                        "~Auto Mobile economy",
+                        "=Services economy",
+                        "~IT economy"
+                    ],
+                    "id": "1386",
+                    "answer": "1.00-1.40secs",
+                    "practicelinks": [
+                        "http://www.learning-english-online.net/skills/listening-comprehension/",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": " Who are the largest IT service employers in China?",
+                    "options": [
+                        "~Chinese companies",
+                        "~Japanese companies",
+                        "=Indian companies",
+                        "~UK based firms"
+                    ],
+                    "id": "1387",
+                    "answer": "1.20 – 1.50 secs",
+                    "practicelinks": [
+                        "http://www.learning-english-online.net/skills/listening-comprehension/",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "How does Infosys plan to face competition from other companies?",
+                    "options": [
+                        "~With good IT strategies",
+                        "~With good leadership strategies",
+                        "~With Innovation",
+                        "=With innovation and strong leadership strategies"
+                    ],
+                    "id": "1388",
+                    "answer": "2.25 – 2.50 secs",
+                    "practicelinks": [
+                        "http://www.learning-english-online.net/skills/listening-comprehension/",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/estcJ5eWSqU\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "What made  Juhaim Jabbar  an entrepreneur?",
+                    "options": [
+                        "~His friends",
+                        "~His  family",
+                        "=His inability to charge his mobile phone while riding a bike",
+                        "~His wealthy status"
+                    ],
+                    "id": "1389",
+                    "answer": "0.10 – 35 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                },
+                {
+                    "question": "What is start up village?",
+                    "options": [
+                        "=A public- private partnership between the Indian Govt, Kerala Govt and a telecom firm",
+                        "~A public company",
+                        "~A private company",
+                        "~An NGO"
+                    ],
+                    "id": "1390",
+                    "answer": "1.10 – 1.25 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                },
+                {
+                    "question": "How many innovators are currently  a part of start up village?",
+                    "options": [
+                        "~1000",
+                        "=600",
+                        "~200",
+                        "~500"
+                    ],
+                    "id": "1391",
+                    "answer": "2.00 – 2.35 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                },
+                {
+                    "question": "Where is Jabbaer's bike charger being manufactured?",
+                    "options": [
+                        "~India",
+                        "~UK",
+                        "~USA",
+                        "=China"
+                    ],
+                    "id": "1392",
+                    "answer": "2.20 – 2.50 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/9lir5WO_pUI\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "How many years did Sam and Vivek work together?",
+                    "options": [
+                        "~10 years",
+                        "~2 years",
+                        "~6 years",
+                        "=3 years"
+                    ],
+                    "id": "1393",
+                    "answer": "0.00.25 secs",
+                    "practicelinks": [
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "Which Profession did Sam choose?",
+                    "options": [
+                        "=Photography",
+                        "~Dance",
+                        "~Real estate",
+                        "~Event Management"
+                    ],
+                    "id": "1394",
+                    "answer": "0.20 – 0.55 secs",
+                    "practicelinks": [
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "Why did Vivek decide to close down his business?",
+                    "options": [
+                        "~He was nor interested in it",
+                        "~He didn't have enough finance",
+                        "=His overhead costs were high and profits were low",
+                        "~He was sick"
+                    ],
+                    "id": "1395",
+                    "answer": "1.15 – 1.45 secs",
+                    "practicelinks": [
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "What do we learn from this video?",
+                    "options": [
+                        "~Importance of marketing",
+                        "=Importance of online marketing",
+                        "~Impact of Social media advertising",
+                        "~Decision making"
+                    ],
+                    "id": "1396",
+                    "answer": "2.45 – 3.10 secs",
+                    "practicelinks": [
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/FbG14qP29FA\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "Where did teleradiology start its operations from?",
+                    "options": [
+                        "~Hyderabad",
+                        "=Bangalore",
+                        "~Chennai",
+                        "~Trivandrum"
+                    ],
+                    "id": "1397",
+                    "answer": "0.00-0.20 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.learning-english-online.net/skills/listening-comprehension"
+                    ]
+                },
+                {
+                    "question": "What is the current staff strength of teleradiology",
+                    "options": [
+                        "~600",
+                        "~1000",
+                        "=500",
+                        "~200"
+                    ],
+                    "id": "1398",
+                    "answer": "0.10 – 0.35 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.learning-english-online.net/skills/listening-comprehension"
+                    ]
+                },
+                {
+                    "question": "For whom did Teleradiology work for initially?",
+                    "options": [
+                        "~Harvard University",
+                        "=Yale university",
+                        "~Oxford University",
+                        "~MIT"
+                    ],
+                    "id": "1399",
+                    "answer": "0.55 – 1.25 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.learning-english-online.net/skills/listening-comprehension"
+                    ]
+                },
+                {
+                    "question": "What does entrepreneurship offer the speaker?",
+                    "options": [
+                        "=Creativity and the power to do good",
+                        "~Innovation",
+                        "~Leadership",
+                        "~Creativity and innovation"
+                    ],
+                    "id": "1400",
+                    "answer": "1.35 -2.05 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.learning-english-online.net/skills/listening-comprehension"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/lTTvI10TIoE\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "How many years did the speaker serve in the corporate segment",
+                    "options": [
+                        "~10 years",
+                        "=20 years",
+                        "~12 years",
+                        "~5 years"
+                    ],
+                    "id": "1401",
+                    "answer": "0.05 -0.20 secs",
+                    "practicelinks": [
+                        "http://www.testden.com/toefl/grammar/questions_a.html",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "What was the biggest challenge the speaker faced after becoming an entrepreneur?",
+                    "options": [
+                        "~Marketing",
+                        "~Controlling overhead expenses",
+                        "=Paying salaries",
+                        "~Competition"
+                    ],
+                    "id": "1402",
+                    "answer": "1.35 – 2.20 secs",
+                    "practicelinks": [
+                        "http://www.testden.com/toefl/grammar/questions_a.html",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "Who walked the ramp during the festival of Hope event a",
+                    "options": [
+                        "~ Common people",
+                        "~Cancer survivors",
+                        "~Celebrities",
+                        "=Common people and cancer survivors together"
+                    ],
+                    "id": "1403",
+                    "answer": "3.18 – 4.05",
+                    "practicelinks": [
+                        "http://www.testden.com/toefl/grammar/questions_a.html",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                },
+                {
+                    "question": "What was the speaker's mantra for success?",
+                    "options": [
+                        "=Chasing dreams despite obstacles",
+                        "~Giving up",
+                        "~Talking to people",
+                        "~Running after money"
+                    ],
+                    "id": "1404",
+                    "answer": "4.20 – 5.26 secs",
+                    "practicelinks": [
+                        "http://www.testden.com/toefl/grammar/questions_a.html",
+                        "http://www.iei.illinois.edu/California/index.html"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/k-nhzbbPm_A\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "On which river does the Khatmandu valley depend?",
+                    "options": [
+                        "~Musi",
+                        "=Bhagmati",
+                        "~Kalyani",
+                        "~Godavari"
+                    ],
+                    "id": "1405",
+                    "answer": "1.0– 1.40 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.learning-english-online.net/skills/listening-comprehension/"
+                    ]
+                },
+                {
+                    "question": "Who has helped in developing irrigation facilities in Nepal?",
+                    "options": [
+                        "~China",
+                        "~Bhutan",
+                        "=India",
+                        "~Pakistan"
+                    ],
+                    "id": "1406",
+                    "answer": "2.00 – 2.45 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.learning-english-online.net/skills/listening-comprehension/"
+                    ]
+                },
+                {
+                    "question": "Where is the land of Thunder Dragon, Bhutan?",
+                    "options": [
+                        "~In Himalayas",
+                        "~In Western Ghats",
+                        "~In eastern ghats",
+                        "=In eastern Himalayas"
+                    ],
+                    "id": "1407",
+                    "answer": "2.40 – 3.20 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.learning-english-online.net/skills/listening-comprehension/"
+                    ]
+                },
+                {
+                    "question": "What should be done to ensure that the river Ganga peacefully flows?",
+                    "options": [
+                        "=Water of the Himalayas should be harnessed",
+                        "~We should save it  from impurities",
+                        "~Government should take proper steps",
+                        "~Nothing should be done"
+                    ],
+                    "id": "1408",
+                    "answer": "4.15 – 5.05 secs",
+                    "practicelinks": [
+                        "http://englishinteractive.net/listening.html",
+                        "http://www.learning-english-online.net/skills/listening-comprehension/"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/HrrW3rO51ak\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "Which is festival is called festival of Lights?",
+                    "options": [
+                        "~Holy",
+                        "=Diwali",
+                        "~Christmas",
+                        "~Pongal"
+                    ],
+                    "id": "1409",
+                    "answer": "0.00 – 0.30 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://www.esl-lab.com/"
+                    ]
+                },
+                {
+                    "question": "What does a lotus  blossom indicate?",
+                    "options": [
+                        "~Happiness",
+                        "=Welcome",
+                        "~Warmth",
+                        "~Sacredness"
+                    ],
+                    "id": "1410",
+                    "answer": "0.35 secs – 1.30 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://www.esl-lab.com/"
+                    ]
+                },
+                {
+                    "question": "Why are Indian silks famous all over the world?",
+                    "options": [
+                        "~Because of their color",
+                        "~Because of  the texture",
+                        "=Because of  Indian silks beauty",
+                        "~They are not at all famous"
+                    ],
+                    "id": "1411",
+                    "answer": "1.35 secs -2.15 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://www.esl-lab.com/"
+                    ]
+                },
+                {
+                    "question": "Diwali lighting displays  in India are compared to which of these  displays in the western countries?",
+                    "options": [
+                        "~Halloween celebrations",
+                        "~Good Friday celebrations",
+                        "~Martin Luther King's day celebrations",
+                        "=Christmas celebrations"
+                    ],
+                    "id": "1412",
+                    "answer": "2.15- 2.45 secs",
+                    "practicelinks": [
+                        "https://www.englishlistening.com/index.php/listen-to-passages/",
+                        "http://www.esl-lab.com/"
+                    ]
+                }
+            ]
+        },
+        {
+            "link": "<div class=\"embed-responsive embed-responsive-4by3\"><iframe class=\"embed-responsive-item\" src=\"https://www.youtube.com/embed/U3mVEf0WfQI\" frameborder=\"0\" allowfullscreen></iframe></div>",
+            "questions": [
+                {
+                    "question": "Where is the nearest airport to Shillong?",
+                    "options": [
+                        "~Delhi",
+                        "~Assam",
+                        "=Guwahati",
+                        "~Vizag"
+                    ],
+                    "id": "1413",
+                    "answer": "0.0– 0.40 secs",
+                    "practicelinks": [
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html",
+                        "http://englishinteractive.net/listening.html"
+                    ]
+                },
+                {
+                    "question": "Why should we carry umbrella when we visit Shillong?",
+                    "options": [
+                        "~It does not rain in Shillong at all",
+                        "~It is very sunny",
+                        "~To look rad",
+                        "=Shillong has the longest rainy season"
+                    ],
+                    "id": "1414",
+                    "answer": "0.45 secs – 1. 10 secs",
+                    "practicelinks": [
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html",
+                        "http://englishinteractive.net/listening.html"
+                    ]
+                },
+                {
+                    "question": "Who are incharge of businesses in Shillong?",
+                    "options": [
+                        "~Men",
+                        "=Women",
+                        "~Children",
+                        "~Senior citizens"
+                    ],
+                    "id": "1415",
+                    "answer": "1.10  – 1.25 secs",
+                    "practicelinks": [
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html",
+                        "http://englishinteractive.net/listening.html"
+                    ]
+                },
+                {
+                    "question": "When can Shillong be visited?",
+                    "options": [
+                        "=Anytime during the year",
+                        "~Only in Summer season",
+                        "~Only in Winter",
+                        "~In rainy season"
+                    ],
+                    "id": "1416",
+                    "answer": "3.00 – 3.35 secs",
+                    "practicelinks": [
+                        "http://www.esolcourses.com/content/topicsmenu/listening.html",
+                        "http://englishinteractive.net/listening.html"
+                    ]
+                }
+            ]
+        }
+    ]
+}

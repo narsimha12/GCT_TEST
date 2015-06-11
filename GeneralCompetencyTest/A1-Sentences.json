@@ -1,0 +1,1607 @@
+{
+    "name": "A1 : Sentences",
+    "questions": [
+        {
+            "question": "I'm off for two weeks at August.",
+            "options": [
+                "~I'm off for two weeks at August.",
+                "=I'm off for two weeks in August.",
+                "~I'm off for two weeks on August.",
+                "~I'm off for two weeks between August."
+            ],
+            "id": "101",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q001.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "My friend <b>at</b> work is from Japan.<br>The factory workers have been <b>on</b> strike since January.<br><b>Between</b> you and me, I don't think he's a very good teacher.<br><br>",
+            "practicelinks": [
+                "http://www.grammarbank.com/prepositions-exercises.html",
+                "https://www.ego4u.com/en/cram-up/grammar/prepositions"
+            ]
+        },
+        {
+            "question": "The factory workers have been on strike since January.",
+            "options": [
+                "=The factory workers have been on strike since January.",
+                "~The factory workers have been in strike since January.",
+                "~The factory workers have been about strike since January.",
+                "~The factory workers have been through strike since January."
+            ],
+            "id": "102",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q002.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "I'm off for two weeks <b>in</b> August.<br>We were talking <b>about</b> you.<br>We have to drive <b>through</b> the tunnel to get to my friend's place.<br><br>",
+            "practicelinks": [
+                "http://www.grammarbank.com/prepositions-exercises.html",
+                "https://www.ego4u.com/en/cram-up/grammar/prepositions"
+            ]
+        },
+        {
+            "question": "During our visit to Japan, we saw a lot of interesting places.",
+            "options": [
+                "=During our visit to Japan, we saw a lot of interesting places.",
+                "~While our visit to Japan, we saw a lot of interesting places.",
+                "~Through our visit to Japan, we saw a lot of interesting places.",
+                "~When our visit to Japan, we saw a lot of interesting places."
+            ],
+            "id": "103",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q003.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "The phone rang <b>while</b> I was watching TV.<br>She rode <b>through</b> the forest on her horse.<br><br>",
+            "practicelinks": [
+                "http://grammar.ccc.commnet.edu/grammar/prepositions.htm",
+                "https://www.ego4u.com/en/cram-up/grammar/prepositions"
+            ]
+        },
+        {
+            "question": "Another way of saying 'old-fashioned' is 'beside the times'.",
+            "options": [
+                "~Another way of saying 'old-fashioned' is 'beside the times'.",
+                "=Another way of saying 'old-fashioned' is 'behind the times'.",
+                "~Another way of saying 'old-fashioned' is 'outside the times'.",
+                "~Another way of saying 'old-fashioned' is 'beforethe times'."
+            ],
+            "id": "104",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q004.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Your accounting methods are behind the times.<br>Sarah is a bit behind the times. Her clothes are quite old-fashioned. <br>Our 90â€”year-old state senator is a bit behind the times.<br><br>",
+            "practicelinks": [
+                "http://www.therace.in/questions.php?id=8&title=Idioms%20&%20Phrases",
+                "http://www.englishleap.com/exercises/idioms-exercise"
+            ]
+        },
+        {
+            "question": "Spain is one of a largest European countries.",
+            "options": [
+                "~Spain is one of a largest European countries.",
+                "~Spain is one of an largest European countries.",
+                "~Spain is one of largest European countries.",
+                "=Spain is one of the largest European countries."
+            ],
+            "id": "105",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q005.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "This lake has <b>the clearest</b> water.<br>This bowl is <b>the biggest</b> one.<br>This exam is <b>the easiest</b>.<br><br>",
+            "practicelinks": [
+                "http://www.myenglishpages.com/site_php_files/grammar-exercise-grammar-comparatives-superlatives.php",
+                "http://www.tolearnenglish.com/exercises/exercise-english-2/exercise-english-12647.php"
+            ]
+        },
+        {
+            "question": "Let’s go to the Mexico.",
+            "options": [
+                "~Let’s go to the Mexico.",
+                "=Let’s go to Mexico.",
+                "~Let’s go to a Mexico.",
+                "~Let’s go to an Mexico."
+            ],
+            "id": "106",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q006.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "I'm from China.<br>I've climbed Mount Everest.  <br>She speaks French.<br><br>",
+            "practicelinks": [
+                "http://www.myenglishpages.com/site_php_files/grammar-exercise-articles.php",
+                "http://www.focus.olsztyn.pl/en-grammar-articles-test-10.html#.VWQdV0-qpHw"
+            ]
+        },
+        {
+            "question": "I got an lot of good presents for my birthday.",
+            "options": [
+                "~I got an lot of good presents for my birthday.",
+                "~I got the lot of good presents for my birthday.",
+                "=I got a lot of good presents for my birthday.",
+                "~I got lot of good presents for my birthday."
+            ],
+            "id": "107",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q007.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Love can cause <b>a lot of</b> suffering.<br>With <b>a lot of practice</b>, using articles correctly will become second nature.<br><br>",
+            "practicelinks": [
+                "http://www.usingenglish.com/quizzes/216.html",
+                "http://www.myenglishpages.com/site_php_files/grammar-exercise-articles.php"
+            ]
+        },
+        {
+            "question": "Do you have pen I could borrow?",
+            "options": [
+                "~Do you have pen I could borrow?",
+                "~Do you have the pen I could borrow?",
+                "~Do you have an pen I could borrow?",
+                "=Do you have a pen I could borrow?"
+            ],
+            "id": "108",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q008.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "A man is walking down a road.<br>Seiko is a practicing Buddhist.<br><br>",
+            "practicelinks": [
+                "http://www.usingenglish.com/quizzes/216.html",
+                "http://www.myenglishpages.com/site_php_files/grammar-exercise-articles.php"
+            ]
+        },
+        {
+            "question": "Do you remember exact date when the war started?",
+            "options": [
+                "~Do you remember exact date when the war started?",
+                "=Do you remember the exact date when the war started?",
+                "~Do you remember an exact date when war started?",
+                "~Do you remember a exact date when the war started?"
+            ],
+            "id": "109",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q009.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "There is a dog with the man.<br>Combine butter, sugar and eggs. Add flour to the mixture.<br>The Prime Minister will arrive tomorrow.<br><br>",
+            "practicelinks": [
+                "http://www.usingenglish.com/quizzes/216.html",
+                "http://www.myenglishpages.com/site_php_files/grammar-exercise-articles.php"
+            ]
+        },
+        {
+            "question": "I can spell as well as the most students.",
+            "options": [
+                "~I can spell as well as the most students.",
+                "~I can spell as well as anmost students.",
+                "~I can spell as well as a most students.",
+                "=I can spell as well as most students."
+            ],
+            "id": "110",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q010.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "In Mumbai, you can always get <b>into town</b> late <b>at night</b> and <b>home</b> again <b>by bus</b> or<b> taxi</b>.<br><br>",
+            "practicelinks": [
+                "http://www.focus.olsztyn.pl/en-grammar-articles-test-9.html#.VWRF3E-qpHw",
+                "http://www.usingenglish.com/quizzes/50.html"
+            ]
+        },
+        {
+            "question": "I have an wonderful idea!",
+            "options": [
+                "~I have an wonderful idea!",
+                "=I have a wonderful idea!",
+                "~I have the wonderful idea!",
+                "~I have wonderful idea!"
+            ],
+            "id": "111",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q011.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "That was a <b>lovely dinner</b>!<br>The koala is a <b>marsupial</b>.<br><br>",
+            "practicelinks": [
+                "http://www.focus.olsztyn.pl/en-grammar-articles-test-9.html#.VWRF3E-qpHw",
+                "http://www.englisch-hilfen.de/en/exercises/nouns_articles/article_the3.htm"
+            ]
+        },
+        {
+            "question": "Someone call an doctor!",
+            "options": [
+                "~Someone call an doctor!",
+                "=Someone call the doctor!",
+                "~Someone call doctor!",
+                "~Someone call doctors!"
+            ],
+            "id": "112",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q012.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Somebody call <b>a</b> policeman!<br>My daughter really wants <b>a</b> dog for Christmas.<br><br>",
+            "practicelinks": [
+                "http://www.focus.olsztyn.pl/en-grammar-articles-test-9.html#.VWRF3E-qpHw",
+                "http://www.usingenglish.com/quizzes/50.html"
+            ]
+        },
+        {
+            "question": "Is this the bad time? Should I call you later?",
+            "options": [
+                "~Is this the bad time? Should I call you later?",
+                "~Is this bad time? Should I call you later?",
+                "~Is this one bad time? Should I call you later?",
+                "=Is this a bad time? Should I call you later?"
+            ],
+            "id": "113",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q013.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Please give me a <b>bottle</b> of water.<br>We need a<b> light</b> in this room.<br><br>",
+            "practicelinks": [
+                "http://www.focus.olsztyn.pl/en-grammar-articles-test-9.html#.VWRF3E-qpHw",
+                "http://www.englisch-hilfen.de/en/exercises/nouns_articles/article_the3.htm"
+            ]
+        },
+        {
+            "question": "I know the shortcut to reach the theatre on time.",
+            "options": [
+                "~I know the shortcut to reach the theatre on time.",
+                "~I know shortcut to reach the theatre on time.",
+                "~I know an shortcut to reach the theatre on time.",
+                "=I know a shortcut to reach the theatre on time."
+            ],
+            "id": "114",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q014.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "My daughter really wants <b>a dog for</b> Christmas.<br>When I was at the zoo, I saw <b>an elephant</b>!<br><br>",
+            "practicelinks": [
+                "http://englishpage.com/articles/index.htm",
+                "http://www.myenglishpages.com/site_php_files/grammar-exercise-articles.php"
+            ]
+        },
+        {
+            "question": "The President of the USA lives in White House.",
+            "options": [
+                "~The President of the USA lives in White House.",
+                "=The President of the USA lives in the White House.",
+                "~The President of the USA lives in a White House.",
+                "~The President of USA lives in anWhite House."
+            ],
+            "id": "115",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q015.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "One day I would like to fly to <b>the moon</b> and visit <b>the nearest planets</b>.<br>The captain checked the position of <b>the Northern Star</b> to determine the location of his ship.<br>",
+            "practicelinks": [
+                "http://englishpage.com/articles/index.htm",
+                "http://www.myenglishpages.com/site_php_files/grammar-exercise-articles.php"
+            ]
+        },
+        {
+            "question": "I spoke with the specialist I told you about.",
+            "options": [
+                "=I spoke with the specialist I told you about.",
+                "~I spoke with a specialist I told you about.",
+                "~I spoke with anspecialist I told you about.",
+                "~I spoke with specialist I told you about."
+            ],
+            "id": "116",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q016.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "A woman who fell 10 metres from High Peak was lifted to safety by a helicopter. <b>The woman</b> fell while climbing.<br>He is <b>the doctor</b> I came to see.<br>",
+            "practicelinks": [
+                "http://www.englisch-hilfen.de/en/exercises/nouns_articles/article_the2.htm",
+                "http://www.englishexercises.org/makeagame/viewgame.asp?id=71"
+            ]
+        },
+        {
+            "question": "Mount Everest is tallest mountain.",
+            "options": [
+                "~Mount Everest is tallest mountain.",
+                "~Mount Everest is a tallest mountain.",
+                "=Mount Everest is the tallest mountain.",
+                "~Mount Everest is one tallest mountain."
+            ],
+            "id": "117",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q017.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "He is <b>the tallest boy</b> in the class.<br>It is <b>the oldest building</b> in the town<br>",
+            "practicelinks": [
+                "http://www.englisch-hilfen.de/en/exercises/nouns_articles/article_the2.htm",
+                "http://www.englishexercises.org/makeagame/viewgame.asp?id=71"
+            ]
+        },
+        {
+            "question": "Several friends played baseball together.",
+            "options": [
+                "=Several friends played baseball together.",
+                "~Several friends will played baseball together.",
+                "~Several friends plays baseball together.",
+                "~Several friends to play baseball together."
+            ],
+            "id": "118",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q018.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "She <b>washed</b> her car.<br>Last year, I <b>traveled</b> to Japan.<br>",
+            "practicelinks": [
+                "http://www.myenglishpages.com/site_php_files/grammar-exercise-simple-past.php",
+                "https://english.lingolia.com/en/grammar/tenses-comparison/past-tenses/exercises/articles/past-tenses-mixed-exercise"
+            ]
+        },
+        {
+            "question": "She cross the street.",
+            "options": [
+                "~She cross the street.",
+                "=She crossed the street.",
+                "~She havecrossed the street.",
+                "~She crossing the street."
+            ],
+            "id": "119",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q019.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "I <b>saw</b> a movie yesterday.<br>I <b>didn't see</b> a play yesterday.<br>",
+            "practicelinks": [
+                "http://www.myenglishpages.com/site_php_files/grammar-exercise-simple-past.php",
+                "https://english.lingolia.com/en/grammar/tenses-comparison/past-tenses/exercises/articles/past-tenses-mixed-exercise"
+            ]
+        },
+        {
+            "question": "The workers hasa new schedule.",
+            "options": [
+                "~The workers hasa new schedule.",
+                "~The workers given a new schedule.",
+                "~The workers had been a new schedule.",
+                "=The workers have a new schedule."
+            ],
+            "id": "120",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q020.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "I <b>saw</b> a movie yesterday.<br>I <b>didn't see</b> a play yesterday.<br>",
+            "practicelinks": [
+                "http://www.myenglishpages.com/site_php_files/grammar-exercise-simple-past.php",
+                "https://english.lingolia.com/en/grammar/tenses-comparison/past-tenses/exercises/articles/past-tenses-mixed-exercise"
+            ]
+        },
+        {
+            "question": "Ambika meet Sonia at the corner.",
+            "options": [
+                "~Ambika meet Sonia at the corner.",
+                "=Ambika met Sonia at the corner.",
+                "~Ambikato meet Sonia at the corner.",
+                "~Ambikameeted Sonia at the corner."
+            ],
+            "id": "121",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q021.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "I <b>saw</b> a movie yesterday.<br>I <b>didn't see</b> a play yesterday.<br>",
+            "practicelinks": [
+                "http://www.myenglishpages.com/site_php_files/grammar-exercise-simple-past.php",
+                "https://english.lingolia.com/en/grammar/tenses-comparison/past-tenses/exercises/articles/past-tenses-mixed-exercise"
+            ]
+        },
+        {
+            "question": "Hari jog in the morning.",
+            "options": [
+                "~Hari jog in the morning.",
+                "~Hari joggerin the morning.",
+                "=Hari will jog in the morning.",
+                "~Hari jogging in the morning."
+            ],
+            "id": "122",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q022.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "You <b>will help</b> him later.<br>You <b>are going to meet</b> Jane tonight.<br>",
+            "practicelinks": [
+                "https://english.lingolia.com/en/grammar/tenses/future-i-simple-will/exercises",
+                "http://www.myenglishpages.com/site_php_files/grammar-exercise-simple-future.php"
+            ]
+        },
+        {
+            "question": "Every morning Ambika get up and feeds the cat.",
+            "options": [
+                "~Every morning Ambika gets up and feeds the cat.",
+                "~Every morning Ambika get up and feed the cat.",
+                "=Every morning Ambika gets up and feeds the cat.",
+                "~Every morning Ambika gets up and feed the cat."
+            ],
+            "id": "123",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q023.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "He drinks tea at breakfast.<br>She only eats fish.<br>They watch television regularly.<br>",
+            "practicelinks": [
+                "http://www.myenglishpages.com/site_php_files/grammar-exercise-simple-present.php",
+                "http://www.englishexercises.org/makeagame/viewgame.asp?id=1555"
+            ]
+        },
+        {
+            "question": "Bala hopes that Dinesh will win the race.",
+            "options": [
+                "=Bala hopes that Dinesh will win the race.",
+                "~Balahope that Dinesh wins the race.",
+                "~Balawill hoping that Dinesh will win the race.",
+                "~Bala hoped that Dinesh won the race."
+            ],
+            "id": "124",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q024.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "The restaurant <b>opens</b> at 19.30 tonight.<br>Next Thursday at 14.00 there <b>is</b> an English exam.<br>The plane <b>leaves<b> in ten minutes.<br>",
+            "practicelinks": [
+                "http://www.englishpage.com/verbpage/verbs22.htm",
+                "https://www.ego4u.com/en/cram-up/grammar/future-mix/exercises"
+            ]
+        },
+        {
+            "question": "We playing a computer game at the moment.",
+            "options": [
+                "~We playing a computer game at the moment.",
+                "~We will playing a computer game at the moment.",
+                "=We are playing a computer game at the moment.",
+                "~We played a computer game at the moment."
+            ],
+            "id": "125",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q025.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "You <b>are learning</b> English now.<br>You <b>are not swimming</b> now.<br>",
+            "practicelinks": [
+                "http://www.eclecticenglish.com/grammar/PresentContinuous1F.html",
+                "http://www.englishleap.com/present-continuous-tense-exercise"
+            ]
+        },
+        {
+            "question": "Nandini often forgottenher homework.",
+            "options": [
+                "~Nandini often forgottenher homework.",
+                "~Nandini often forget her homework.",
+                "=Nandini often forgets her homework.",
+                "~Nandini often forgetful her homework."
+            ],
+            "id": "126",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q026.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "He drinks tea at breakfast.<br>She only eats fish.<br>They watch television regularly.<br>",
+            "practicelinks": [
+                "http://www.myenglishpages.com/site_php_files/grammar-exercise-simple-present.php",
+                "http://www.englishexercises.org/makeagame/viewgame.asp?id=1555"
+            ]
+        },
+        {
+            "question": "I have preparing lunch.",
+            "options": [
+                "~I have preparing lunch.",
+                "=I am preparing lunch.",
+                "~I did preparing lunch.",
+                "~I am prepared lunch."
+            ],
+            "id": "127",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q027.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "You <b>are learning</b> English now.<br>You <b>are not swimming</b> now.<br>",
+            "practicelinks": [
+                "http://www.eclecticenglish.com/grammar/PresentContinuous1F.html",
+                "http://www.englishleap.com/present-continuous-tense-exercise"
+            ]
+        },
+        {
+            "question": "Janani will already typed five pages when her computer crashed.",
+            "options": [
+                "~Janani will already typed five pages when her computer crashed.",
+                "~Janani already typed five pages when her computer crashed.",
+                "~Janani could already typed five pages when her computer crashed.",
+                "=Janani had already typed five pages when her computer crashed."
+            ],
+            "id": "128",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q028.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Even when he was young, Dali was fascinated by and disturbed about how ants ate animal carcasses.<br><b>When</b> you're in London, write an e-mail to me.<br>",
+            "practicelinks": [
+                "http://baladre.info/english/sedaviwebfront/connectormixed1.htm",
+                "http://www.1-language.com/englishcoursenew/unit47_grammar_exs.htm"
+            ]
+        },
+        {
+            "question": "I correcting it by the end of the day.",
+            "options": [
+                "~I correcting it by the end of the day.",
+                "~I may corrected it by the end of the day.",
+                "~I correct it by the end of the day.",
+                "=I will correct it by the end of the day."
+            ],
+            "id": "129",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q029.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>He'll carry</b> your bag for you.<br><b>I will see</b> the movie this weekend.<br>",
+            "practicelinks": [
+                "http://www.myenglishpages.com/site_php_files/grammar-exercise-simple-future.php",
+                "http://www.really-learn-english.com/simple-future-exercises.html"
+            ]
+        },
+        {
+            "question": "They leaving work at the end of the hour.",
+            "options": [
+                "~They leaving work at the end of the hour.",
+                "~They leaves work at the end of the hour.",
+                "=They leave work at the end of the hour.",
+                "~They will left work at the end of the hour."
+            ],
+            "id": "130",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q030.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>He'll carry</b> your bag for you.<br><b>I will see</b> the movie this weekend.<br>",
+            "practicelinks": [
+                "http://www.myenglishpages.com/site_php_files/grammar-exercise-simple-future.php",
+                "http://www.really-learn-english.com/simple-future-exercises.html"
+            ]
+        },
+        {
+            "question": "Have you received any informations?",
+            "options": [
+                "=Have you received any information?",
+                "~Had you received any informations?",
+                "~Have they received any informations?",
+                "~Had you received any information?"
+            ],
+            "id": "131",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q031.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "The price of freedom is constant vigilance.<br>Her writing shows maturity and intelligence.<br>",
+            "practicelinks": [
+                "http://www.englishexercises.org/makeagame/viewgame.asp?id=3246",
+                "http://www.grammar-quizzes.com/agree2a.html"
+            ]
+        },
+        {
+            "question": "She sings good",
+            "options": [
+                "=She sings well.",
+                "~She sings best",
+                "~She sings bad",
+                "~She sings good"
+            ],
+            "id": "132",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q032.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "She is a good tennis player.<br>She did extremely well on the exam.<br>",
+            "practicelinks": [
+                "http://www.grammar-quizzes.com/agr_misc.html",
+                "http://www.businessenglishresources.com/31-2/student-section/practice-exercises-new/common-english-mistakes-error-correction/"
+            ]
+        },
+        {
+            "question": "Everybody came accept Ram",
+            "options": [
+                "~Everybody have come except Ram",
+                "=Everybody came except Ram",
+                "~Everybody had come accept Ram",
+                "~Everybody has come accept Ram"
+            ],
+            "id": "133",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q033.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "accept his opinion; accept an award<br>There was nothing left except bread.<br>",
+            "practicelinks": [
+                "http://www.grammar-quizzes.com/accept-except.html",
+                "http://grammar.about.com/od/words/a/AcceptExcept.htm"
+            ]
+        },
+        {
+            "question": "It is past your bedtime.",
+            "options": [
+                "~It has passed your bedtime.",
+                "=It is past your bedtime",
+                "~You bedtime is passed",
+                "~It also past your bedtime"
+            ],
+            "id": "134",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q034.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Forget the past.<br>The days for mourning are now past.<br>",
+            "practicelinks": [
+                "http://grammar.about.com/od/words/a/passedgloss.htm",
+                "http://www.towson.edu/ows/exercises/PastPassedExercise1.aspx"
+            ]
+        },
+        {
+            "question": "He felled off the ladder and broke his leg",
+            "options": [
+                "~He felled from the ladder and broke his leg",
+                "~He felt from ladder and broke his leg",
+                "=He fell off the ladder and broke his leg",
+                "~He felled off the ladder and broke his leg"
+            ],
+            "id": "135",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q035.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "fall off a bicycle, off the wagon or off the radar<br>fall off or from the roof or the top of a mountain<br>",
+            "practicelinks": [
+                "http://www.grammarbank.com/prepositions-exercises.html",
+                "https://www.ego4u.com/en/cram-up/grammar/prepositions/exercises?02"
+            ]
+        },
+        {
+            "question": "She told to me about it.",
+            "options": [
+                "=She told me about it.",
+                "~She telled me about it",
+                "~She spoke me about it",
+                "~She told to me about it"
+            ],
+            "id": "136",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q036.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Let me tell <b>you</b> a story.<br>Let me give <b>you</b> some money.<br>",
+            "practicelinks": [
+                "http://www.grammarbank.com/prepositions-exercises.html",
+                "https://www.ego4u.com/en/cram-up/grammar/prepositions/exercises?02"
+            ]
+        },
+        {
+            "question": "The train is now approaching at the CST.",
+            "options": [
+                "=The train is now approaching the CST.",
+                "~The train is now approaching at the CST.",
+                "~The train is now approaching to the CST.",
+                "~The train is now approaching on the CST."
+            ],
+            "id": "137",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q037.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "I'm approaching you for a reason.<br>I'm approaching you to get some results.<br>",
+            "practicelinks": [
+                "http://www.grammarbank.com/prepositions-exercises.html",
+                "https://www.ego4u.com/en/cram-up/grammar/prepositions/exercises?02"
+            ]
+        },
+        {
+            "question": "He excepted the award with great pleasure.",
+            "options": [
+                "=He accepted the award with great pleasure.",
+                "~He accept award with great pleasure",
+                "~He excepted the ward with great pleasure.",
+                "~He except the award with great pleasure"
+            ],
+            "id": "138",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q038.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Do you accept dogs in your hotel?<br>The officer accepts your point and has decided to let you off with a caution.<br>",
+            "practicelinks": [
+                "http://grammar.ccc.commnet.edu/grammar/quizzes/affect_except_options.htm",
+                "http://www.grammar-quizzes.com/accept-except.html"
+            ]
+        },
+        {
+            "question": "If we both put our cards on the table it would be easier for us to come to an agreement.",
+            "options": [
+                "=If we both put our cards on the table it would be easier for us to come to an agreement.",
+                "~If we both put our wallets on the table it would be easier for us to come to an agreement.",
+                "~If we both put our plans on the table it would be easier for us to come to an agreement.",
+                "~If we both put our thoughts on the table it would be easier for us to come to an agreement."
+            ],
+            "id": "139",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q039.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "I could only put my cards on the table and say I don't know what happened to this child.<br>She thought it was time to put her cards on the table and tell him that she had no intention of marrying him.<br>",
+            "practicelinks": [
+                "http://www.therace.in/questions.php?id=8&title=Idioms%20&%20Phrases",
+                "http://www.englishleap.com/exercises/idioms-exercise"
+            ]
+        },
+        {
+            "question": "I spent a quiet afternoon at home reading to myself.",
+            "options": [
+                "~I spent an quiet afternoon at home reading to myself.",
+                "~I spent a quiet afternoon at home reading to herself.",
+                "~I spent a quiet afternoon at home reading to himself.",
+                "=I spent a quiet afternoon at home reading to myself."
+            ],
+            "id": "140",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q040.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "I want to dress myself today.<br>I got some ice cream for Grace and myself.<br><br>",
+            "practicelinks": [
+                "http://www.tolearnenglish.com/exercises/exercise-english-2/exercise-english-28080.php",
+                "http://www.espressoenglish.net/i-my-me-mine-myself/"
+            ]
+        },
+        {
+            "question": "   Tomorrow we will be going to Tulasis party.",
+            "options": [
+                "~Tomorrow we will be going to Tulasis party.",
+                "~Tomorrow we will be going, to Tulasi’s party.",
+                "=Tomorrow, we will be going to Tulasi’s party.",
+                "~Tomorrow we will be going to Tulasi’s party."
+            ],
+            "id": "141",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q041.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "In similar usage, we can also see the examples given below for the placement of the comma.<br>Why, I can't believe this!<br>No, you can't have a dollar.<br><br>For a similar use of the apostrophe, have a look at the examples given below:<br>a woman's hat<br>the boss's wife<br>Mrs. Chang's house<br><br>",
+            "practicelinks": [
+                "https://depts.dyc.edu/learningcenter/owl/exercises/comma_placement_ex1.htm",
+                "https://depts.dyc.edu/learningcenter/owl/exercises/apostrophes_ex3.htm"
+            ]
+        },
+        {
+            "question": "   I am going to buy three apple.",
+            "options": [
+                "~I am going to buy three apple.",
+                "~I going to buy three apples.",
+                "~I go to buy three apples.",
+                "=I am going to buy three apples."
+            ],
+            "id": "142",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q042.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "A similar example in the usage of the Simple Future Tense can be seen in the sentence given below:<br>I am leaving later today.<br>He is going to faint.<br><br>",
+            "practicelinks": [
+                "http://www.myenglishpages.com/site_php_files/grammar-exercise-simple-future.php",
+                "http://www.englisch-hilfen.de/en/exercises/tenses/future.htm"
+            ]
+        },
+        {
+            "question": "   In five minutes I will had been working for ten hours.",
+            "options": [
+                "~In five minutes I will had been working for ten hours.",
+                "=In five minutes, I will have been working for ten hours.",
+                "~In five minutes I will be working for ten hours.",
+                "~In five minutes, I had been working for ten hours."
+            ],
+            "id": "143",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q043.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Some more examples which use the “will have been” + present form of the verb are:<br><b>Will</b> you <b>have been waiting</b> for more than two hours when her plane finally arrives?<br>They <b>will have been talking</b> for over an hour by the time Thomas arrives.<br><br>",
+            "practicelinks": [
+                "http://www.perfect-english-grammar.com/future-perfect-exercise-4.html",
+                "http://www.englisch-hilfen.de/en/exercises/tenses/future_perfect_statements.htm"
+            ]
+        },
+        {
+            "question": "   I will like more tea she said to the server.",
+            "options": [
+                "~I will like more tea she said to the server.",
+                "~“I will like more tea,” she said to the server.",
+                "=“I would like more tea,” she said to the server.",
+                "~“I like more tea,” she said to the server."
+            ],
+            "id": "144",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q044.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Some other examples in similar form are:<br>When I was young <b>I would do</b> my homework every evening.<br>In the summer we <b>would</b> always go camping.<br><br>",
+            "practicelinks": [
+                "http://www.grammar-quizzes.com/modal2a.html",
+                "http://www.grammar-quizzes.com/modal6.html"
+            ]
+        },
+        {
+            "question": "   If he try hard enuf, Bill can become an actor some day.",
+            "options": [
+                "~If he try hard enuf, Bill can become an actor some day.",
+                "=If he tries hard enough, Bill could become an actor some day.",
+                "~If he tries hard enough, Bill can become an actor some day.",
+                "~If he try hard enough, Bill can become an actor some day."
+            ],
+            "id": "145",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q045.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Some more examples which are similar are:<br>If we don’t hurry we <b>could be</b> late.<br>If you are not careful, you <b>could lose</b> your way in the dark.<br><br>",
+            "practicelinks": [
+                "http://mbonillo.xavierre.com/exercises/eso2/2esowint09/cancould2eso3.htm",
+                "http://www.englishexercises.org/makeagame/viewgame.asp?id=7710"
+            ]
+        },
+        {
+            "question": "   Today is Monday May four 2015.",
+            "options": [
+                "~Today is Monday May four 2015.",
+                "~Today is Monday May fourth 2015.",
+                "~Today is Monday, May fourth 2015.",
+                "=Today is Monday, May fourth, 2015."
+            ],
+            "id": "146",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q046.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Some similar examples of this rule can be seen in the sentences given below:<br>The store closed its doors for good on <b>Wednesday, October 15, 1958.</b><br>The meeting scheduled for <b>July 10, 2011,</b> was cancelled due to a hurricane watch.<br><br>",
+            "practicelinks": [
+                "http://grammar.ccc.commnet.edu/grammar/quizzes/comma_quiz.htm",
+                "https://depts.dyc.edu/learningcenter/owl/comma_placement.htm"
+            ]
+        },
+        {
+            "question": "   I simply cannot wait to get there!",
+            "options": [
+                "=I simply cannot wait to get there!",
+                "~I simply cannot wait to getting there!",
+                "~I cannot simply wait to get there!",
+                "~I cannot wait simply to get there!"
+            ],
+            "id": "147",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q047.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Some more examples which show us the order of Subject-verb-object (and other parts of speech) in a sentence can be seen here:<br>We <b>always</b> have to wait a long time for the bus.<br>He <b>sometimes</b> plays golf on Sundays.<br><br>",
+            "practicelinks": [
+                "https://www.ego4u.com/en/cram-up/grammar/word-order/exercises?11",
+                "http://www.english-4u.de/word_order.html"
+            ]
+        },
+        {
+            "question": "   Me and my friend are gonna go to the beach next weekend.",
+            "options": [
+                "~Me and my friend are gonna go to the beach next weekend.",
+                "=My friend and I are going to go to the beach next weekend.",
+                "~My friend and me are going to the beach next weekend.",
+                "~My friend are gonna to the beach next weekend."
+            ],
+            "id": "148",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q048.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Some more examples showing the order of I / me in a sentence are given here:<br><b>Janaki and I</b> walked down the road.<br>If you have a problem, please call <b>Rishi or me.</b><br>She gave the ball to Janaki and <b>me.</b><br><br>",
+            "practicelinks": [
+                "http://www.learnersdictionary.com/qa/when-to-use-i-and-when-to-use-me",
+                "http://grammar.ccc.commnet.edu/grammar/cgi-shl/quiz.pl/pronouns_add2.htm"
+            ]
+        },
+        {
+            "question": "   What he got for Diwali? she asked.",
+            "options": [
+                "~What he got for Diwali? she asked.",
+                "~“What he get for Diwali?” she asked.",
+                "=“What did he get for Diwali?” she asked.",
+                "~“What he gets for Diwali?” she asked."
+            ],
+            "id": "149",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q049.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Some more examples in the same form are:<br><b>Did he bring</b> his friend?<br><b>Did itrain</b> on Sunday?<br><br>",
+            "practicelinks": [
+                "http://www.perfect-english-grammar.com/past-simple-exercise-3.html",
+                "http://web2.uvcs.uvic.ca/elc/studyzone/330/grammar/pastnq1.htm"
+            ]
+        },
+        {
+            "question": "   When are we going?",
+            "options": [
+                "=When are we going?",
+                "~When we are going?",
+                "~When going are we?",
+                "~When we going?"
+            ],
+            "id": "150",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q050.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Some other examples of the SVO order in question sentences are:<br>When were you here?<br>Whoaskedyou?<br><br>",
+            "practicelinks": [
+                "http://www.examenglish.com/grammar/A2_subject_and_object_questions.htm",
+                "https://www.ego4u.com/en/cram-up/grammar/word-order/questions"
+            ]
+        },
+        {
+            "question": "   We going now?",
+            "options": [
+                "~We going now?",
+                "=Are we going now?",
+                "~We going are now?",
+                "~We are go now?"
+            ],
+            "id": "151",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q051.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Some other examples of the SVO order in such question sentences are:<br><b>Are the students</b> reading some books?<br><b>Will the students</b> read some books?<br><br>",
+            "practicelinks": [
+                "http://www.examenglish.com/grammar/A2_subject_and_object_questions.htm",
+                "https://www.ego4u.com/en/cram-up/grammar/word-order/questions"
+            ]
+        },
+        {
+            "question": "   Anyone wanna play with me?",
+            "options": [
+                "~Anyone wanna play with me?",
+                "~Anyone does wanting to play with me?",
+                "=Does anyone want to play with me?",
+                "~Anyone does wants t play with me?"
+            ],
+            "id": "152",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q052.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Some more examples to illustrate this are:<br>Do the students study physics?<br>Didyouhavea partyin your flatyesterday?<br><br>",
+            "practicelinks": [
+                "https://www.ego4u.com/en/cram-up/grammar/simple-past/exercises?07",
+                "https://www.ego4u.com/en/cram-up/grammar/word-order/exercises?06"
+            ]
+        },
+        {
+            "question": "   I has not seen them yet.",
+            "options": [
+                "~I has not seen them yet.",
+                "~I not seen them yet.",
+                "=I have not seen them yet.",
+                "~I have not see them yet."
+            ],
+            "id": "153",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q053.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Some more examples for the Present Perfect:<br><b>Have you</b> met Judy <b>yet</b>?<br>I <b>haven't visited</b> the Tate Gallery <b>yet</b><br><b>Has he</b> arrived <b>yet</b>?<br>They <b>haven't</b> eaten <b>yet</b><br><br>",
+            "practicelinks": [
+                "http://www.eclecticenglish.com/grammar/PresentPerfect1C.html",
+                "http://www.englisch-hilfen.de/en/exercises/tenses/present_perfect_already_yet.htm"
+            ]
+        },
+        {
+            "question": "   Hell be comin soon so dont worry.",
+            "options": [
+                "~Hell be comin soon so dont worry.",
+                "~He’ll be comin soon so don’t worry.",
+                "~He’ll be coming soon so don’t worry.",
+                "=He’ll be coming soon, so don’t worry."
+            ],
+            "id": "154",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q054.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "He said, \"Dan cried, 'Do not treat me that way.' \"<br>I don't paint anymore. For a while I thought it was just a phase that I'd get over.Now, I don't even try.<br><br>",
+            "practicelinks": [
+                "http://www.grammarbook.com/grammar_quiz/question_marks_2.asp",
+                "http://www.grammarbook.com/grammar_quiz/apostrophes_1.asp"
+            ]
+        },
+        {
+            "question": "   He likes cats, but she don’t like cats.",
+            "options": [
+                "~He likes cats, but she don’t like cats.",
+                "~He likes cats, but she don’t likes cats.",
+                "=He likes cats, but she doesn’t like cats.",
+                "~He like cats, but she doesn’t like cats."
+            ],
+            "id": "155",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q055.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "She always forgets her purse, but he never forgets his wallet.<br>I play tennis, but she does not play tennis.<br><br>",
+            "practicelinks": [
+                "http://www.englishpage.com/verbpage/verbs1.htm",
+                "http://www.really-learn-english.com/simple-present-exercises.html#04"
+            ]
+        },
+        {
+            "question": "   When I get home, I will make dinner.",
+            "options": [
+                "=When I get home, I will make dinner.",
+                "~When I got home, I will make dinner.",
+                "~When I get home, I make dinner.",
+                "~When I got home, I make dinner."
+            ],
+            "id": "156",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q056.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "When I get my salary tomorrow, I will buy a new computer.<br>I will give you a pen tomorrow.<br><br>",
+            "practicelinks": [
+                "http://www.myenglishpages.com/site_php_files/grammar-exercise-future-progressive.php",
+                "http://www.ecenglish.com/learnenglish/lessons/future-continuous-tense-with-will"
+            ]
+        },
+        {
+            "question": "   My friends house is big red and expensive.",
+            "options": [
+                "~My friends house is big red and expensive.",
+                "=My friend’s house is big, red, and expensive.",
+                "~My friend’s house is big red and expensive.",
+                "~My friends house is big, red, and expensive."
+            ],
+            "id": "157",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q057.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "He hit the ball, dropped the bat, and ran to first base.<br>My estate goes to my husband, son, daughter-in-law, and nephew.<br><br>",
+            "practicelinks": [
+                "https://depts.dyc.edu/learningcenter/owl/exercises/comma_placement_ex1.htm",
+                "http://grammar.ccc.commnet.edu/grammar/quizzes/comma_quiz.htm"
+            ]
+        },
+        {
+            "question": "   The old car doesn’t need to be fixed.",
+            "options": [
+                "~The old car doesn’t need fixed.",
+                "=The old car doesn’t need to be fixed.",
+                "~The old car do need to be fixed.",
+                "~The old car doesn’t need to be fix."
+            ],
+            "id": "158",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q058.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "No, it <b>doesn't have</b> a problem.<br>She <b>doesn’t have to</b> cook till next week.<br><br>",
+            "practicelinks": [
+                "http://www.englisch-hilfen.de/en/exercises/tenses/do.htm",
+                "http://www.englisch-hilfen.de/en/exercises/tenses/simple_present_negation2.htm"
+            ]
+        },
+        {
+            "question": "   “Jeevan,” she said, “Could you please be quiet?”",
+            "options": [
+                "~Jeevan she said, Could you please be quiet?",
+                "~“Jeevan,” she said, “Can you please go quiet?”",
+                "=“Jeevan,” she said, “Could you please be quiet?”",
+                "~Jeevan, she said, Could you please quiet?"
+            ],
+            "id": "159",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q059.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "“He loved you,” she said.<br>“He loved you,” she said, “but you didn’t care.”<br><br>",
+            "practicelinks": [
+                "http://grammar.ccc.commnet.edu/grammar/quizzes/quotes_quiz.htm",
+                "http://www.grammarly.com/handbook/punctuation/quotation-marks/"
+            ]
+        },
+        {
+            "question": "   We going to the super market later?",
+            "options": [
+                "~We going to the super market later?",
+                "~Are we go to the super market later?",
+                "~Are we going the super market later?",
+                "=Are we going to the super market later?"
+            ],
+            "id": "160",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q060.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Some other examples of the SVO order in such question sentences are:<br><b>Are the students</b> reading some books?<br><b>Will the students</b> read some books?<br><br>",
+            "practicelinks": [
+                "http://www.examenglish.com/grammar/A2_subject_and_object_questions.htm",
+                "https://www.ego4u.com/en/cram-up/grammar/word-order/questions"
+            ]
+        },
+        {
+            "question": "   Spot my dog is the faster runner in the hole neighborhood.",
+            "options": [
+                "~Spot my dog is the faster runner in the hole neighborhood.",
+                "=Spot, my dog, is the fastest runner in the whole neighborhood.",
+                "~Spot, my dog, is the faster runner in the whole neighborhood.",
+                "~Spot my dog is the fastest runner in the whole neighborhood."
+            ],
+            "id": "161",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q061.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "The Founders Bridge, which spans the Connecticut River, is falling down.<br>Heublein, a Hartford, Connecticut-based company, is moving to another state.<br><br>",
+            "practicelinks": [
+                "http://www.grammarbook.com/grammar_quiz/commas_1.asp",
+                "http://grammar.ccc.commnet.edu/grammar/quizzes/comma_quiz.htm"
+            ]
+        },
+        {
+            "question": "   Once the train arrives we will be on are way.",
+            "options": [
+                "~Once the train arrives we will be on our way.",
+                "~Once the train arrives we will be on are way.",
+                "=Once the train arrives, we will be on our way.",
+                "~Once the train arrives, we will be on are way."
+            ],
+            "id": "162",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q062.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Plans <b>are</b> nothing; planning is everything.<br>We shape <b>our</b> buildings; thereafter they shape us.<br><br>",
+            "practicelinks": [
+                "http://www.kbteachers.com/english/fill-in-the-blanks.html",
+                "http://www.mhhe.com/socscience/english/langan/sentence_skills/exercises/ch29/p4exr.htm"
+            ]
+        },
+        {
+            "question": "   Apollo 11 was the first manned mission to land on the moon.",
+            "options": [
+                "=Apollo 11 was the first manned mission to land on the moon.",
+                "~Apollo 11 is the first manned mission to land on the moon.",
+                "~Apollo 11 be the first manned mission to land on the moon.",
+                "~Apollo 11 the first manned mission to land on the moon."
+            ],
+            "id": "163",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q063.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Rosie was able to finish her degree by taking online courses.<br>Robert Frost was America's favourite poet.<br><br>",
+            "practicelinks": [
+                "http://www.eclecticenglish.com/grammar/PresentSimpleToBe1A.html",
+                "https://www.myenglishpages.com/site_php_files/grammar-exercise-be-present.php"
+            ]
+        },
+        {
+            "question": "   The cashere gave me two thousand and sixteen hundred rupees sixty paise.",
+            "options": [
+                "~The cashere gave me two thousand and sixteen hundred rupees sixty paise.",
+                "~The cashier gave me two thousand and sixteen hundred rupees sixty paise.",
+                "=The cashier gave me two thousand sixteen hundred rupees and sixty paise.",
+                "~The cashere gave me two thousand and sixteen hundred rupees and sixty paise."
+            ],
+            "id": "164",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q064.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "He earned thirty-thousand euros last year.<br>The software upgrade costs ninety-nine pounds and ninety-nine pence.<br><br>",
+            "practicelinks": [
+                "http://www.grammarbook.com/grammar_quiz/numbers_1.asp",
+                "http://www.englishmedialab.com/Quizzes/business/money%20idioms.htm"
+            ]
+        },
+        {
+            "question": "   I no have time.",
+            "options": [
+                "~I no have time.",
+                "=I do not have time.",
+                "~I do have not time.",
+                "~I not have time."
+            ],
+            "id": "165",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q065.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "No, it <b>doesn't have</b> a problem.<br>She <b>doesn’t have to</b> cook till next week.<br><br>",
+            "practicelinks": [
+                "http://www.englisch-hilfen.de/en/exercises/tenses/do.htm",
+                "http://www.englisch-hilfen.de/en/exercises/tenses/simple_present_negation2.htm"
+            ]
+        },
+        {
+            "question": "   Learning the Sanskrit isn’t easy.",
+            "options": [
+                "~Learning the Sanskrit isn’t easy.",
+                "~Learning Sanskrit isn’t the easy.",
+                "~The learning Sanskrit isn’t easy.",
+                "=Learning Sanskrit isn’t easy."
+            ],
+            "id": "166",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q066.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Formal education</b> in Britain begins when <b>children</b> reach the age of five.<br>He adores <b>dancing</b>.<br><br>",
+            "practicelinks": [
+                "http://www.learnenglishfeelgood.com/mixed-english-articles1.html",
+                "http://esl.fis.edu/grammar/multi/article3.htm"
+            ]
+        },
+        {
+            "question": "   His health is more better.",
+            "options": [
+                "~His health is more better.",
+                "~His health is most better.",
+                "~His health is betterer.",
+                "=His health is much better."
+            ],
+            "id": "167",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q067.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Ah!That's much better. Now I can't hear those awful bells.<br>The book was <b>much better</b> than I expected.<br><br>",
+            "practicelinks": [
+                "http://www.grammar-quizzes.com/muchmore.html",
+                "http://www.grammar-quizzes.com/themore.html"
+            ]
+        },
+        {
+            "question": "   Why you did not come?",
+            "options": [
+                "~Why you did not come?",
+                "~Why not you come?",
+                "=Why did you not come?",
+                "~Why not you did come?"
+            ],
+            "id": "168",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q068.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Sarah and Orlando discussed their plans for the weekend.<br>We will not discuss what happened at the meeting.<br><br>",
+            "practicelinks": [
+                "https://www.ego4u.com/en/cram-up/grammar/simple-past/exercises?07",
+                "http://www.englishexercises.org/makeagame/viewgame.asp?id=5686"
+            ]
+        },
+        {
+            "question": "   Let us discuss about this matter.",
+            "options": [
+                "~Let us discuss about this matter.",
+                "=Let us discuss this matter.",
+                "~Let us discuss in this matter.",
+                "~Let us discuss for this matter."
+            ],
+            "id": "169",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q069.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Sarah and Orlando discussed their plans for the weekend.<br>We will not discuss what happened at the meeting.<br><br>",
+            "practicelinks": [
+                "http://www.myenglishpages.com/site_php_files/grammar-exercise-transitive-intransitive-verbs.php",
+                "http://www.learnenglishfeelgood.com/transitive-intransitive-verbs2.html"
+            ]
+        },
+        {
+            "question": "   Generally, girls are talkative than boys.",
+            "options": [
+                "~Generally, girls are talkative than boys.",
+                "=Generally, girls are more talkative than boys.",
+                "~Generally, girls are most talkative than boys.",
+                "~Generally, girls are too talkative than boys."
+            ],
+            "id": "170",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q070.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "They have finished <b>most</b> of the rice.<br><b>Many</b> people came to visit the fair.<br><br>",
+            "practicelinks": [
+                "http://www.englishleap.com/grammar/adjectives",
+                "http://www.grammarinenglish.com/adjectives/?lesson=exercises"
+            ]
+        },
+        {
+            "question": "   Arpita is looking gorgeous in this dress.",
+            "options": [
+                "=Arpita is looking gorgeous in this dress.",
+                "~Arpita is looking gorgeousest in this dress.",
+                "~Arpita is looking gorgeouser in this dress.",
+                "~Arpita is looking more gorgeous in this dress."
+            ],
+            "id": "171",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q071.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "New Delhi is a <b>large</b> city with many historical monuments.<br>Sheila is a <b>beautiful</b> woman.<br><br>",
+            "practicelinks": [
+                "http://www.englishleap.com/grammar/adjectives",
+                "http://www.englishpractice.com/grammar/adjectives-exercise/"
+            ]
+        },
+        {
+            "question": "   She has a very sour voice.",
+            "options": [
+                "~She has a very sour voice.",
+                "~She has a very bittervoice.",
+                "=She has a very sweet voice.",
+                "~She has a very salty voice."
+            ],
+            "id": "172",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q072.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "New Delhi is a <b>large</b> city with many historical monuments.<br>Sheila is a <b>beautiful</b> woman.<br><br>",
+            "practicelinks": [
+                "http://www.englishleap.com/grammar/adjectives",
+                "http://www.englishpractice.com/grammar/adjectives-exercise/"
+            ]
+        },
+        {
+            "question": "   Diamond is the hard natural material.",
+            "options": [
+                "~Diamond is the hard natural material.",
+                "~Diamond is the hardernatural material.",
+                "=Diamond is the hardest natural material.",
+                "~Diamond is the hardynatural material."
+            ],
+            "id": "173",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q073.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "She has the <b>biggest</b> dog in the colony.<br>He is the <b>sweetest</b> boy in his class.<br>The cupboard is the <b>cleanest</b> thing in the house.<br><br>",
+            "practicelinks": [
+                "http://www.englishleap.com/grammar/adjectives",
+                "http://www.englishpractice.com/grammar/adjectives-exercise/"
+            ]
+        },
+        {
+            "question": "   This exercise is quite more simple.",
+            "options": [
+                "~This exercise is quite more simple.",
+                "~This exercise is quite most simple.",
+                "=This exercise is quite simple.",
+                "~This exercise is quite more very simple."
+            ],
+            "id": "174",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q074.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "He is <b>cleverer</b> than her.<br>He is <b>more clever</b> than studious.<br><br>",
+            "practicelinks": [
+                "http://www.englishleap.com/grammar/adjectives",
+                "http://www.englishpractice.com/grammar/adjectives-exercise/"
+            ]
+        },
+        {
+            "question": "   Rohan is a trustworthier boy.",
+            "options": [
+                "=Rohan is a trustworthy boy.",
+                "~Rohan is a trustworthier boy.",
+                "~Rohan is a trustworthest boy.",
+                "~Rohan is a trustworthiest boy."
+            ],
+            "id": "175",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q075.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "New Delhi is a <b>large</b> city with many historical monuments.<br>Sheila is a <b>beautiful</b> woman.<br><br>",
+            "practicelinks": [
+                "http://www.englishleap.com/grammar/adjectives",
+                "http://www.englishpractice.com/grammar/adjectives-exercise/"
+            ]
+        },
+        {
+            "question": "   The entire staff of the hotel we stayed at was very friendlier.",
+            "options": [
+                "=The entire staff of the hotel we stayed at was very friendly.",
+                "~The entire staff of the hotel we stayed at was very friendlier.",
+                "~The entire staff of the hotel we stayed at was very friendliest.",
+                "~The entire staff of the hotel we stayed at was very friend."
+            ],
+            "id": "176",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q076.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "New Delhi is a <b>large</b> city with many historical monuments.<br>Sheila is a <b>beautiful</b> woman.<br><br>",
+            "practicelinks": [
+                "http://www.englishleap.com/grammar/adjectives",
+                "http://www.englishpractice.com/grammar/adjectives-exercise/"
+            ]
+        },
+        {
+            "question": "   You are getting gooder all the time!",
+            "options": [
+                "~You are getting gooder all the time!",
+                "~You are getting goodest all the time!",
+                "=You are getting better all the time!",
+                "~You are getting good all the time!"
+            ],
+            "id": "177",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q077.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "I hope you feel <b>better</b>!<br>The book was <b>better</b> than I expected.<br><br>",
+            "practicelinks": [
+                "http://www.grammar-quizzes.com/muchmore.html",
+                "http://www.grammar-quizzes.com/themore.html"
+            ]
+        },
+        {
+            "question": "   Your efforts to accomplish this project are out standing!",
+            "options": [
+                "~Your efforts to accomplish this project are outstandinger!",
+                "~Your efforts to accomplish this project are outstandingest!",
+                "=Your efforts to accomplish this project are outstanding!",
+                "~Your efforts to accomplish this project are out standing!"
+            ],
+            "id": "178",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q078.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "New Delhi is a <b>large</b> city with many historical monuments.<br>Sheila is a <b>beautiful</b> woman.<br><br>",
+            "practicelinks": [
+                "http://www.englishleap.com/grammar/adjectives",
+                "http://www.englishpractice.com/grammar/adjectives-exercise/"
+            ]
+        },
+        {
+            "question": "   Cricket is an excitinger game.",
+            "options": [
+                "=Cricket is an exciting game.",
+                "~Cricket is an excitinger game.",
+                "~Cricket is an excitingest game.",
+                "~Cricket is an excite game."
+            ],
+            "id": "179",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q079.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "New Delhi is a <b>large</b> city with many historical monuments.<br>Sheila is a <b>beautiful</b> woman.<br><br>",
+            "practicelinks": [
+                "http://www.englishleap.com/grammar/adjectives",
+                "http://www.englishpractice.com/grammar/adjectives-exercise/"
+            ]
+        },
+        {
+            "question": "   Annoying music escaped from Kinya’s ear buds.",
+            "options": [
+                "=Annoying music escaped from Kinya’s ear buds.",
+                "~Annoying music escaped from Kinyas ear buds.",
+                "~Annoying music escaped from Kinyas’ ear buds.",
+                "~Annoying music escaped from Kinya ear buds."
+            ],
+            "id": "180",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q080.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "Nita's mother constantly stressed minding one's p's and q's.<br>The dragon's burnt tooth was black.<br><br>",
+            "practicelinks": [
+                "http://www.grammar-quizzes.com/punc-apostrophes.html",
+                "http://www.usingenglish.com/quizzes/39.html"
+            ]
+        },
+        {
+            "question": "   The game start every day at 8 p.m.",
+            "options": [
+                "~The game start every day at 8 p.m.",
+                "=The game starts every day at 8 p.m.",
+                "~The game starting every day at 8 p.m.",
+                "~The game started every day at 8 p.m."
+            ],
+            "id": "181",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q081.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "John <b>sleeps</b> eight hours every night during the week.<br>It <b>rains</b> a lot in winter.<br><br>",
+            "practicelinks": [
+                "http://www.englishexercises.org/makeagame/viewgame.asp?id=1555",
+                "http://14.139.82.142/login/index.php"
+            ]
+        },
+        {
+            "question": "   Many children drink milk with their meals.",
+            "options": [
+                "=Many children drink milk with their meals.",
+                "~Many children drinks milk with their meals.",
+                "~Many children drinking milk with their meals.",
+                "~Many children drank milk with their meals."
+            ],
+            "id": "182",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q082.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "John <b>sleeps</b> eight hours every night during the week.<br>It <b>rains</b> a lot in winter.<br><br>",
+            "practicelinks": [
+                "http://www.englishexercises.org/makeagame/viewgame.asp?id=1555",
+                "http://14.139.82.142/login/index.php"
+            ]
+        },
+        {
+            "question": "   Our cat generally sleepa lot during the day.",
+            "options": [
+                "~Our cat generally sleep a lot during the day.",
+                "~Our cat generally slept a lot during the day.",
+                "~Our cat generally sleeping a lot during the day.",
+                "=Our cat generally sleeps a lot during the day."
+            ],
+            "id": "183",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q083.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "John <b>sleeps</b> eight hours every night during the week.<br>It <b>rains</b> a lot in winter.<br><br>",
+            "practicelinks": [
+                "http://www.englishexercises.org/makeagame/viewgame.asp?id=1555",
+                "http://14.139.82.142/login/index.php"
+            ]
+        },
+        {
+            "question": "   Jai write a letter to his mother once a week.",
+            "options": [
+                "~Jai write a letter to his mother once a week.",
+                "=Jai writes a letter to his mother once a week.",
+                "~Jai written a letter to his mother once a week.",
+                "~Jai writing a letter to his mother once a week."
+            ],
+            "id": "184",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q084.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "John <b>sleeps</b> eight hours every night during the week.<br>It <b>rains</b> a lot in winter.<br><br>",
+            "practicelinks": [
+                "http://www.englishexercises.org/makeagame/viewgame.asp?id=1555",
+                "http://14.139.82.142/login/index.php"
+            ]
+        },
+        {
+            "question": "   Shagun and Ishita livein a big city in the centre of the country.",
+            "options": [
+                "=Shagun and Ishita live in a big city in the centre of the country.",
+                "~Shagun and Ishita lives in a big city in the centre of the country.",
+                "~Shagun and Ishita living in a big city in the centre of the country.",
+                "~Shagun and Ishita will living in a big city in the centre of the country."
+            ],
+            "id": "185",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q085.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "John <b>sleeps</b> eight hours every night during the week.<br>It <b>rains</b> a lot in winter.<br><br>",
+            "practicelinks": [
+                "http://www.englishexercises.org/makeagame/viewgame.asp?id=1555",
+                "http://14.139.82.142/login/index.php"
+            ]
+        },
+        {
+            "question": "   Usually tourists not goto Egypt to play golf.",
+            "options": [
+                "~Usually tourists not go to Egypt to play golf.",
+                "=Usually tourists do not go to Egypt to play golf.",
+                "~Usually tourists not going to Egypt to play golf.",
+                "~Usually tourists not went to Egypt to play golf."
+            ],
+            "id": "186",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q086.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "John <b>sleeps</b> eight hours every night during the week.<br>It <b>rains</b> a lot in winter.<br><br>",
+            "practicelinks": [
+                "http://www.englishexercises.org/makeagame/viewgame.asp?id=1555",
+                "http://14.139.82.142/login/index.php"
+            ]
+        },
+        {
+            "question": "   Raju always take the bus to go to school.",
+            "options": [
+                "~Raju always take the bus to go to school.",
+                "=Raju always takes the bus to go to school.",
+                "~Raju always taking the bus to go to school.",
+                "~Raju always taken the bus to go to school."
+            ],
+            "id": "187",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q087.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "John <b>sleeps</b> eight hours every night during the week.<br>It <b>rains</b> a lot in winter.<br><br>",
+            "practicelinks": [
+                "http://www.englishexercises.org/makeagame/viewgame.asp?id=1555",
+                "http://14.139.82.142/login/index.php"
+            ]
+        },
+        {
+            "question": "   We all know that many children not like vegetables.",
+            "options": [
+                "~We all know that many children not like vegetables.",
+                "=We all know that many children do not like vegetables.",
+                "~We all know that many children not liking vegetables.",
+                "~We all know that many children liking vegetables."
+            ],
+            "id": "188",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q088.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "John <b>sleeps</b> eight hours every night during the week.<br>It <b>rains</b> a lot in winter.<br><br>",
+            "practicelinks": [
+                "http://www.englishexercises.org/makeagame/viewgame.asp?id=1555",
+                "http://14.139.82.142/login/index.php"
+            ]
+        },
+        {
+            "question": "   Anne think it's a good idea to do English exercises.",
+            "options": [
+                "~Anne think it's a good idea to do English exercises.",
+                "=Anne thinks it's a good idea to do English exercises.",
+                "~Anne thinking it's a good idea to do English exercises.",
+                "~Anne thank it's a good idea to do English exercises."
+            ],
+            "id": "189",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q089.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "John <b>sleeps</b> eight hours every night during the week.<br>It <b>rains</b> a lot in winter.<br><br>",
+            "practicelinks": [
+                "http://www.englishexercises.org/makeagame/viewgame.asp?id=1555",
+                "http://14.139.82.142/login/index.php"
+            ]
+        },
+        {
+            "question": "   If you want to be healthy, you must eat good food.",
+            "options": [
+                "=If you want to be healthy, you must eat good food.",
+                "~If you want is healthy, you must eat good food.",
+                "~If you want to be healthy, you must eating good food.",
+                "~If you want to be healthy, you must ate good food."
+            ],
+            "id": "190",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q090.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "John <b>sleeps</b> eight hours every night during the week.<br>It <b>rains</b> a lot in winter.<br><br>",
+            "practicelinks": [
+                "http://www.englishexercises.org/makeagame/viewgame.asp?id=1555",
+                "http://14.139.82.142/login/index.php"
+            ]
+        },
+        {
+            "question": "   Oil, which is lighter than water, rises to the surface.",
+            "options": [
+                "=Oil, which is lighter than water, rises to the surface.",
+                "~Oil which is lighter than water rises to the surface.",
+                "~Oil which is lighter than water, rises to the surface.",
+                "~Oil, which is lighter than water rises to the surface."
+            ],
+            "id": "191",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q091.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "That Tuesday, <b>which happens to be my birthday</b>, is the only day when I am available to meet.<br>I appreciate your hard work. In this case, <b>however</b>, you seem to have over-exerted yourself.<br>This restaurant has an exciting atmosphere. The food, <b>on the other hand</b>, is rather bland.<br><br>",
+            "practicelinks": [
+                "http://www.bristol.ac.uk/arts/exercises/grammar/grammar_tutorial/page_48.htm",
+                "http://www.towson.edu/ows/modulecomma.htm"
+            ]
+        },
+        {
+            "question": "   The closet contained worn clothes, old shoes, and dirty hats.",
+            "options": [
+                "=The closet contained worn clothes, old shoes, and dirty hats.",
+                "~The closet contained worn clothes old shoes and dirty hats.",
+                "~The closet contained worn clothes old shoes, and dirty hats.",
+                "~The closet contained worn clothes, old shoes and dirty hats."
+            ],
+            "id": "192",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q092.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "My estate goes to my husband, son, daughter-in-law, and nephew.<br>We had coffee, cheese and crackers and grapes.<br><br>",
+            "practicelinks": [
+                "http://www.bristol.ac.uk/arts/exercises/grammar/grammar_tutorial/page_48.htm",
+                "http://www.towson.edu/ows/modulecomma.htm"
+            ]
+        },
+        {
+            "question": "   August 15, 1947, will never be forgotten.",
+            "options": [
+                "~August 15 1947 will never be forgotten.",
+                "~August 15 1947, will never be forgotten.",
+                "=August 15, 1947, will never be forgotten.",
+                "~August 15, 1947 will never be forgotten."
+            ],
+            "id": "193",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q093.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "It was in the Sun's June 5, 2003, edition.<br>We will hold elections for class president on Monday, January 14, 2008.<br><br>",
+            "practicelinks": [
+                "http://www.towson.edu/ows/exercises/Commas%20with%20dates%20-%20exercise03.aspx",
+                "http://www.softschools.com/quizzes/grammar/commas_in_dates/quiz3133.html"
+            ]
+        },
+        {
+            "question": "   The flight was safe enough wasn't it?",
+            "options": [
+                "~The flight was safe enough wasn't it?",
+                "~The flight was safe, enough, wasn't it?",
+                "~The flight, was safe enough, wasn't it?",
+                "=The flight was safe enough, wasn't it?"
+            ],
+            "id": "194",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q094.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "He hit the ball well, but he ran too slowly to make a run.<br>She was still quite upset, although she had won the Oscar.<br><br>",
+            "practicelinks": [
+                "http://uwf.edu/writinglabapp/minilessons/mini-lesson_42x.htm",
+                "http://www.bristol.ac.uk/arts/exercises/grammar/grammar_tutorial/page_45.htm"
+            ]
+        },
+        {
+            "question": "   Although he is considered a great writer, but his works are not widely read.",
+            "options": [
+                "~Although he is considered a great writer, but his works are not widely read.",
+                "=Although he is considered a great writer, his works are not widely read.",
+                "~Although he is considered a great writer, however his works are not widely read.",
+                "~Although he is considered a great writer, still his works are not widely read."
+            ],
+            "id": "195",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q095.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": ".Although the hurricane was headed our way last night, early this morning it turned north and missed Florida completely.<br>.Although Sarah spent most of her time in the garden or crocheting, Lisa soon discovered her favourite hobby was shopping, which she did at least once a week.<br><br>",
+            "practicelinks": [
+                "http://www.englishdaily626.com/conjunctions.php",
+                "http://www.myenglishpages.com/site_php_files/grammar-exercise-conjunctions.php"
+            ]
+        },
+        {
+            "question": "   You'll miss the train if you hurry up.",
+            "options": [
+                "~You'll miss the train if you hurry up.",
+                "~You'll miss the train as you hurry up.",
+                "~You'll miss the train until you hurry up.",
+                "=You'll miss the train unless you hurry up."
+            ],
+            "id": "196",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q096.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "I won't go unless it is free.<br>You can't enter unless you have a ticket.<br><br>",
+            "practicelinks": [
+                "http://www.englishdaily626.com/conjunctions.php",
+                "http://www.myenglishpages.com/site_php_files/grammar-exercise-conjunctions.php"
+            ]
+        },
+        {
+            "question": "   It is neither hot and cold in winter in the south.",
+            "options": [
+                "~It is neither hot or cold in winter in the south.",
+                "=It is neither hot nor cold in winter in the south.",
+                "~It is neither hot but cold in winter in the south.",
+                "~It is neither hot and cold in winter in the south."
+            ],
+            "id": "197",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q097.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Neither</b> my mother <b>nor</b> my father went to university.<br>“I fear <b>neither</b> man <b>nor</b> beast!” Jay proclaimed as Frank stared at the python coiled on the branch over his head.<br><br>",
+            "practicelinks": [
+                "https://www.myenglishpages.com/site_php_files/grammar-exercise-either-or-neither-nor.php",
+                "http://www.englishdaily626.com/conjunctions.php"
+            ]
+        },
+        {
+            "question": "   The sun rise at 6:30 this morning and it was a beautiful sunrise.",
+            "options": [
+                "~The sun rise at 6:30 this morning and it was a beautiful sunrise.",
+                "=The sun rose at 6:30 this morning and it was a beautiful sunrise.",
+                "~The sun raises at 6:30 this morning and it was a beautiful sunrise.",
+                "~The sun risen at 6:30 this morning and it was a beautiful sunrise."
+            ],
+            "id": "198",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q098.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "I did not have any money because I <b>had lost</b> my wallet.<br>You <b>had studied</b> English before you moved to New York.<br><br>",
+            "practicelinks": [
+                "https://www.myenglishpages.com/site_php_files/grammar-exercise-simple-past.php",
+                "http://www.perfect-english-grammar.com/past-simple-exercise-7.html"
+            ]
+        },
+        {
+            "question": "   Take my advice, since you'll get into trouble.",
+            "options": [
+                "~Take my advice, but you'll get into trouble.",
+                "~Take my advice, since you'll get into trouble.",
+                "=Take my advice, or you'll get into trouble.",
+                "~Take my advice, so you'll get into trouble."
+            ],
+            "id": "199",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q099.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "You can study hard for this exam <b>or</b> you can fail.<br>Live free <b>or</b> die.<br><br>",
+            "practicelinks": [
+                "http://www.englishleap.com/exercises/conjunctions-1",
+                "http://www.myenglishpages.com/site_php_files/grammar-exercise-conjunctions.php"
+            ]
+        },
+        {
+            "question": "  You must be tired, or you haven't taken any break the whole morning.",
+            "options": [
+                "~You must be tired, but you haven't taken any break the whole morning.",
+                "~You must be tired, or you haven't taken any break the whole morning.",
+                "=You must be tired, for you haven't taken any break the whole morning.",
+                "~You must be tired, and you haven't taken any break the whole morning."
+            ],
+            "id": "200",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Sentence-fb/Q100.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "I go to the park every Sunday, <b>for</b> I love to watch the ducks on the lake.<br>Most of the visitors were happy just sitting around in the shade, <b>for</b> it had been a long, dusty journey on the train.<br>",
+            "practicelinks": [
+                "http://www.englishdaily626.com/conjunctions.php",
+                "http://www.myenglishpages.com/site_php_files/grammar-exercise-conjunctions.php"
+            ]
+        }
+    ],
+    "note": "Select the correct form of the sentence for the following questions, some of the sentences may be correct in their original form:",
+    "types": "question"
+}

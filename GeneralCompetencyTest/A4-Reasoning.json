@@ -1,0 +1,485 @@
+{
+    "name": "A4: Reasoning",
+    "questions": [
+        {
+            "question": "I am facing East. I turn 180 degreesin the clockwise direction and then 90 degreesin the anti – clockwise direction. Which direction am I facing now?",
+            "options": [
+                "~East",
+                "~West",
+                "~North",
+                "=South"
+            ],
+            "id": "601",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-1.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1</b><br>A man walks 5 km toward south and then turns to the right. After walking 3 km he turns to the left and walks 5 km. Now in which direction is he from the starting place?<br><img src=\"static/Reasoning-fb/images/1.1.jpeg\" alt=\"image\"><br>Hence required direction is South-West.<br><b>Example 2</b><br>Rasik walked 20 m towards north. Then he turned right and walks 30 m. Then he turns right and walks 35 m. Then he turns left and walks 15 m. Finally he turns left and walks 15 m. In which direction and how many metres is he from the starting position?<br>Solution<br><img src=\"\" alt=\"image\"><br>",
+            "practicelinks": [
+                "http://www.indianstudyhub.com/logical-reasoning/DIRECTION-TEST/",
+                "http://www.mastguru.com/direction-sense-test-questions-answers/question/110"
+            ]
+        },
+        {
+            "question": " Find the next number in the series.8, 27, 125, 343___,",
+            "options": [
+                "~512",
+                "=1331",
+                "~729",
+                "~1000"
+            ],
+            "id": "602",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-2.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1</b><br>10, 5, 13, 10, 16, 20, 19, (....)<br>Soln.<br>There are two series (10, 13, 16, 19) and (5, 10, 20, 40), one increasing by 3 and the other multiplied by 2.<br><b>Example 2</b><br>1, 4, 9, 16, 25, 36, 49, (....)<br>Soln<br>Numbers are 12, 22, 32, 42, 52, 62, 72.<br>So, the next number is 82 = 64.<br>",
+            "practicelinks": [
+                "http://www.careerbless.com/aptitude/qa/series1.php",
+                "http://www.edugoog.com/series-completion/question-answer/number-series/1.html"
+            ]
+        },
+        {
+            "question": "City ‘K’ is situated to the West of city ‘L’ City ‘M’ is situated to the North of city ‘L’. City ‘N’ is situated towards the South of city ‘M’. In which direction is city ‘L’ situated with respect to city ‘N’?",
+            "options": [
+                "~North",
+                "~South",
+                "~East",
+                "=Cannot be determined"
+            ],
+            "id": "603",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-3.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1</b><br>Y is in the East of X which is in the North of Z. If P is in the South of Z, then in which direction of Y, is P?<br><img src=\"static/Reasoning-fb/images/3.1.jpeg\" alt=\"image\"><br>Soln :<br>P is in South-West of Y.<br><b>Example 2</b>:<br>K is 40 m South-West of L. If M is 40 m South-East of L, then M is in which direction of K?<br>Soln:<br><img src=\"static/Reasoning-fb/images/3.2.jpeg\" alt=\"image\"><br>Hence M is in the East of K.<br>",
+            "practicelinks": [
+                "http://www.careerbless.com/aptitude/qa/series1.php",
+                "http://www.edugoog.com/series-completion/question-answer/number-series/1.html"
+            ]
+        },
+        {
+            "question": "If Akash is the brother of the son of Sundar’s son, then how is Akash related to Sundar?",
+            "options": [
+                "~Brother",
+                "~Father",
+                "=Grandson",
+                "~Grandfather"
+            ],
+            "id": "604",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-4.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1</b><br>Deepak said to Nitin, \"That boy playing with the football is the younger of the two brothers of the daughter of my father's wife.\" How is the boy playing football related to Deepak?<br>Soln:<br>Father's wife → mother. Hence, the daughter of the mother means sister and sister's younger brother means brother. Therefore, the boy is the brother of Deepak.<br><b>Example 2</b><br>Pointing to a woman, Abhijit said, \"Her granddaughter is the only daughter of my brother.\" How is the woman related to Abhijit?<br>Soln:<br>Daughter of Abhijit's brother → niece of Abhijit. Thus the granddaughter of the woman is Abhijit's niece.<br>Hence, the woman is the mother of Abhijit.",
+            "practicelinks": [
+                "http://www.edugoog.com/blood-relations/question-answer/1.html",
+                "http://www.mastguru.com/blood-relation-questions-answers/question/100"
+            ]
+        },
+        {
+            "question": "If MAN is coded as 28, what will be the code number for CHILD?",
+            "options": [
+                "~30",
+                "~42",
+                "=36",
+                "~38"
+            ],
+            "id": "605",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-5.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1</b>:<br>If PALAM could be given the code number 43, what code number can be given to SANTACRUZ?<br>In the given code, A = 1,<br>B = 2,<br>C = 3,...... , Z = 26<br>So PALAM = 16 + 1 + 12 + 1 + 13 = 43.<br>Similarly, SANTACRUZ = 19 + 1 + 14 + 20 + 1 + 3 + 18 + 21 + 26 = 123<br><b>Example 2</b><br>If Z = 52 and ACT = 48, then BAT will be equal to<br>In the given code, A = 2,<br>B = 4,<br>C = 6,...... , Z = 52<br>BAT = 4+2+40 = 46<br>",
+            "practicelinks": [
+                "http://www.edugoog.com/coding-decoding/question-answer/number-to-letter-coding/1.html",
+                "http://www.mastguru.com/coding-decoding-questions-answers/question/109/2"
+            ]
+        },
+        {
+            "question": " Find the odd man out : 1225, 625, 125, 25, 5",
+            "options": [
+                "~5",
+                "~25",
+                "~125",
+                "=1225"
+            ],
+            "id": "606",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-6.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1</b><br>Find the odd man out. 12, 24, 34, 48, 64, 84<br>Soln<br>All numbers except 34 are multiples of 4<br><b>Example 2</b><br>Find the odd man out. 1, 5, 11, 17, 23, 29<br>Soln<br>All given numbers except 1 are prime numbers. <br>One is not a prime number because it does not have two factors. It is divisible by only 1<br>",
+            "practicelinks": [
+                "http://www.careerbless.com/aptitude/qa/series1.php",
+                "http://www.m4maths.com/placement-puzzles.php?SOURCE=self&TOPIC=Logical%20Reasoning&SUB_TOPIC=Number%20Series"
+            ]
+        },
+        {
+            "question": "Harshini and Sowmya are standing 10 m apart and Harshini is towards Sowmya’s left. Both start travelling towards North, walk for about 30 m and then turn right to travel 40 m further. Harshini then takes a left turn, travels 20 m and stops but Sowmya takes a right turn to travel 10 m. Sowmya again turns right, travels 10 m and stops. How far are they from each other?",
+            "options": [
+                "~10 m",
+                "~20 m",
+                "~25 m",
+                "=30 m"
+            ],
+            "id": "607",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-7.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1</b><br>A man walks 5 km toward south and then turns to the right. After walking 3 km he turns to the left and walks 5 km. Now in which direction is he from the starting place?<br><img src=\"static/Reasoning-fb/images/7.1.jpeg\" alt=\"image\"><br>Hence required direction is South-West.<br><b>Example 2</b><br>Rasik walked 20 m towards north. Then he turned right and walks 30 m. Then he turns right and walks 35 m. Then he turns left and walks 15 m. Finally he turns left and walks 15 m. In which direction and how many metres is he from the starting position?<br>Solution<br><img src=\"static/Reasoning-fb/images/7.2.jpeg\" alt=\"image\"><br>",
+            "practicelinks": [
+                "http://www.indianstudyhub.com/logical-reasoning/DIRECTION-TEST/",
+                "http://www.mastguru.com/direction-sense-test-questions-answers/question/110"
+            ]
+        },
+        {
+            "question": "Pointing towards a man in a photograph, a woman said, “He is the father of the brother of my father”. How is the man related to the woman?",
+            "options": [
+                "=Grandfather",
+                "~Father",
+                "~Uncle",
+                "~Uncle or Father"
+            ],
+            "id": "608",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-8.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1</b><br>Deepak said to Nitin, \"That boy playing with the football is the younger of the two brothers of the daughter of my father's wife.\" How is the boy playing football related to Deepak?<br>Soln:<br>Father's wife → mother. Hence, the daughter of the mother means sister and sister's younger brother means brother. Therefore, the boy is the brother of Deepak.<br><b>Example 2</b><br>Pointing to a woman, Abhijit said, \"Her granddaughter is the only daughter of my brother.\" How is the woman related to Abhijit?<br>Soln:<br>Daughter of Abhijit's brother → niece of Abhijit. Thus the granddaughter of the woman is Abhijit's niece.<br>Hence, the woman is the mother of Abhijit.",
+            "practicelinks": [
+                "http://www.edugoog.com/blood-relations/question-answer/1.html",
+                "http://www.mastguru.com/blood-relation-questions-answers/question/100"
+            ]
+        },
+        {
+            "question": "Four people played a game of chess, where each one plays with every other player exactly once. What is the maximum number of points that any player could gather if every win gets him one point",
+            "options": [
+                "=3",
+                "~4",
+                "~5",
+                "~6"
+            ],
+            "id": "609",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-9.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1</b><br>Would you rather work for 30 days and get paid 25 lakh rupees, or be paid 1 paisa the first day, 2 paisa the second day, 4 paisa the third day, and so on...?<br>Soln <br>The trick is to find out how much money you make in 30 days if you get 1 paisa the first day, 2 paisa the second day, 4 paisa the third day, and so on... Day 1: 1 paisa<br><br>Day 2: 2 paisa<br><br>Day 3: 4 paisa<br><br>Day 4: 8 paisa <br><br>Day 5: 16 paisa<br><br>Day 6: 32 paisa<br><br>Day 7: 64 paisa<br><br>Day 8: 128 paisa<br><br>Day 9: 256 paisa<br><br>-------<br><br>-------<br><br>-------<br><br>-------<br><br>Keep mutliplying by 2<br><br>-------<br><br>-------<br><br>-------<br><br>-------<br><br>Day 30: 53,68,70,912 paisa<br><br>53,68,70,912 paisa/100 = 53,68,709.12 rupees and 53,68,709.12 is bigger than Rs 25,00,000<br><br>Therefore, you are better off taking 1 paisa the first day, 2 paisa the second day, 4 paisa the third day, and so on... until the 30th day.<br><b>Example 2</b><br>You are given 8 balls, 7 of which have same weight and one ball which is heavier than the others. You are given a balance and you have to find the heavier ball. What is the minimum number of times you weigh the balls?<br>Soln<br>Two time.<br>We separate into 6 balls and 2 balls.<br>We weigh three balls each.  If the weight is same. Then we weigh the other two balls. <br>If three balls weight is not same. We pick the heaver three ball bunch and pick two of them and weigh.<br>The heaver one will go down. If same the third ball is heaver.<br>",
+            "practicelinks": [
+                "http://www.mathsisfun.com/puzzles/logic-puzzles-index.html",
+                "http://www.basic-mathematics.com/fun-math-puzzles.html"
+            ]
+        },
+        {
+            "question": "Lakshmi has same number of sisters as she has brothers, but her brother Shashank has twice as many sisters as he has brothers. How many children are there in the family?",
+            "options": [
+                "~4",
+                "~5",
+                "~6",
+                "=7"
+            ],
+            "id": "610",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-10.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1</b><br>Would you rather work for 30 days and get paid 25 lakh rupees, or be paid 1 paisa the first day, 2 paisa the second day, 4 paisa the third day, and so on...?<br>Soln <br>The trick is to find out how much money you make in 30 days if you get 1 paisa the first day, 2 paisa the second day, 4 paisa the third day, and so on... Day 1: 1 paisa<br><br>Day 2: 2 paisa<br><br>Day 3: 4 paisa<br><br>Day 4: 8 paisa <br><br>Day 5: 16 paisa<br><br>Day 6: 32 paisa<br><br>Day 7: 64 paisa<br><br>Day 8: 128 paisa<br><br>Day 9: 256 paisa<br><br>-------<br><br>-------<br><br>-------<br><br>-------<br><br>Keep mutliplying by 2<br><br>-------<br><br>-------<br><br>-------<br><br>-------<br><br>Day 30: 53,68,70,912 paisa<br><br>53,68,70,912 paisa/100 = 53,68,709.12 rupees and 53,68,709.12 is bigger than Rs 25,00,000<br><br>Therefore, you are better off taking 1 paisa the first day, 2 paisa the second day, 4 paisa the third day, and so on... until the 30th day.<br><b>Example 2</b><br>You are given 8 balls, 7 of which have same weight and one ball which is heavier than the others. You are given a balance and you have to find the heavier ball. What is the minimum number of times you weigh the balls?<br>Soln<br>Two time.<br>We separate into 6 balls and 2 balls.<br>We weigh three balls each.  If the weight is same. Then we weigh the other two balls. <br>If three balls weight is not same. We pick the heaver three ball bunch and pick two of them and weigh.<br>The heaver one will go down. If same the third ball is heaver.<br>",
+            "practicelinks": [
+                "http://www.mathsisfun.com/puzzles/logic-puzzles-index.html",
+                "http://www.basic-mathematics.com/fun-math-puzzles.html"
+            ]
+        },
+        {
+            "question": "Find the next in the series. TYU, NSO, HMI, ___",
+            "options": [
+                "=BGC",
+                "~AGC",
+                "~CGC",
+                "~GBC"
+            ],
+            "id": "611",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-11.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1</b>:<br>If PALAM could be given the code number 43, what code number can be given to SANTACRUZ?<br>In the given code, A = 1,<br>B = 2,<br>C = 3,...... , Z = 26<br>So PALAM = 16 + 1 + 12 + 1 + 13 = 43.<br>Similarly, SANTACRUZ = 19 + 1 + 14 + 20 + 1 + 3 + 18 + 21 + 26 = 123<br><b>Example 2</b><br>If Z = 52 and ACT = 48, then BAT will be equal to<br>In the given code, A = 2,<br>B = 4,<br>C = 6,...... , Z = 52<br>BAT = 4+2+40 = 46<br>Practice Links:<br>http://www.edugoog.com/coding-decoding/question-answer/number-to-letter-coding/1.html<br>http://www.mastguru.com/coding-decoding-questions-answers/question/109/2<br>",
+            "practicelinks": [
+                "http://www.edugoog.com/coding-decoding/question-answer/number-to-letter-coding/1.html",
+                "http://www.mastguru.com/coding-decoding-questions-answers/question/109/2"
+            ]
+        },
+        {
+            "question": "Find the missing number in the series 4, 16, 36, ___, 100, 144",
+            "options": [
+                "~60",
+                "~72",
+                "~68",
+                "=64"
+            ],
+            "id": "612",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-12.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1</b><br>10, 5, 13, 10, 16, 20, 19, (....)<br>Soln.<br>There are two series (10, 13, 16, 19) and (5, 10, 20, 40), one increasing by 3 and the other multiplied by 2.<br><b>Example 2</b><br>1, 4, 9, 16, 25, 36, 49, (....)<br>Soln<br>Numbers are 12, 22, 32, 42, 52, 62, 72.<br>So, the next number is 82 = 64.<br>",
+            "practicelinks": [
+                "http://www.careerbless.com/aptitude/qa/series1.php",
+                "http://www.edugoog.com/series-completion/question-answer/number-series/1.html"
+            ]
+        },
+        {
+            "question": "Find the next letters in the series LRX, DJP, VBH, NTZ, ___",
+            "options": [
+                "~ELS",
+                "=FLR",
+                "~FMR",
+                "~GKS"
+            ],
+            "id": "613",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-13.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1</b><br>FAG, GAF, HAI, IAH, ____<br>The middle letters are static, so concentrate on the first and third letters. The series involves an alphabetical order with a reversal of the letters. The first letters are in alphabetical order: F, G, H, I , J. The second and fourth segments are reversals of the first and third segments. The missing segment begins with a new letter.<br>Answer is JAK<br><b>Example 2</b><br>In following alphabet series , one term missing as shown by question mark . Choose missing term from options.<br>AZ, CX, FU, ?<br>The first letter of the first, second, third, .... terms are respectively moved two, three, four, ... steps forward to obtain the first letter of the successive term.<br>The second letter of the first, second, third.... terms are respectively moved two, three, four, ... steps backward to obtain the second letter of the successive terms.<br>",
+            "practicelinks": [
+                "http://www.edugoog.com/details/az-cx-fu-alphabet-series.html",
+                "http://www.indiabix.com/logical-reasoning/letter-and-symbol-series/"
+            ]
+        },
+        {
+            "question": "Analogy question 5 : 24 : : 8 : ___",
+            "options": [
+                "~64",
+                "~62",
+                "~61",
+                "=63"
+            ],
+            "id": "614",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-14.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1</b>:<br>14 : 9 :: 26 : ?<br><br>Solution :<br>14 = (2 x 9 - 4)<br>26 = (2 x 15 - 4)<br>? = 15<br><b>Example 2</b><br>8 : 28 :: 27 : ?<br>Soln :<br>First number = 8 and the sum of the digits of the second number is 2 + 8 = 10.<br>Thus the difference of the first number and the sum of the digits of second number is 10 - 8 = 2.<br>Similarly, the sum of the digits of third number is 2 + 7 = 9.<br>Hence the sum of digits of fourth number should be 2 more than 9 i.e. 11<br>Hence, fourth number is 65.<br>",
+            "practicelinks": [
+                "http://www.indiabix.com/verbal-reasoning/analogy/037001",
+                "http://www.edugoog.com/analogy/question-answer/number-analogy/1.html"
+            ]
+        },
+        {
+            "question": "Find the next number in the series. 4, 25, 64, 121, 196, ___",
+            "options": [
+                "~361",
+                "~256",
+                "~225",
+                "=289"
+            ],
+            "id": "615",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-15.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<br><b>Example 1</b><br>10, 5, 13, 10, 16, 20, 19, (....)<br>Soln.<br>There are two series (10, 13, 16, 19) and (5, 10, 20, 40), one increasing by 3 and the other multiplied by 2.<br><b>Example 2</b><br>1, 4, 9, 16, 25, 36, 49, (....)<br>Soln<br>Numbers are 12, 22, 32, 42, 52, 62, 72.<br>So, the next number is 82 = 64.<br><br>",
+            "practicelinks": [
+                "http://www.careerbless.com/aptitude/qa/series1.php",
+                "http://www.edugoog.com/series-completion/question-answer/number-series/1.html"
+            ]
+        },
+        {
+            "question": "DKY, FJW, HIU,  ?, LGQ ",
+            "options": [
+                "~KGR",
+                "~LFQ",
+                "~KFR",
+                "=JHS"
+            ],
+            "id": "616",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-16.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>If PALAM could be given the code number 43, what code number can be given to SANTACRUZ?<br>In the given code, A = 1,<br>B = 2,<br>C = 3,...... , Z = 26<br>So PALAM = 16 + 1 + 12 + 1 + 13 = 43.<br>Similarly, SANTACRUZ = 19 + 1 + 14 + 20 + 1 + 3 + 18 + 21 + 26 = 123<br><b>Example 2:</b><br>If Z = 52 and ACT = 48, then BAT will be equal to<br>In the given code, A = 2,<br>B = 4,<br>C = 6,...... , Z = 52<br>BAT = 4+2+40 = 46<br><br>",
+            "practicelinks": [
+                "http://www.edugoog.com/coding-decoding/question-answer/number-to-letter-coding/1.html",
+                "http://www.mastguru.com/coding-decoding-questions-answers/question/109/2"
+            ]
+        },
+        {
+            "question": "Pointing to a photograph Sowmya says, \"He is the son of the only son of my grandfather.\" How is the man in the photograph related to Sowmya?",
+            "options": [
+                "=Brother",
+                "~Uncle",
+                "~Cousin",
+                "~Data is inadequate"
+            ],
+            "id": "617",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-17.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>Deepak said to Nitin, \"That boy playing with the football is the younger of the two brothers of the daughter of my father's wife.\" How is the boy playing football related to Deepak?<br>Soln:<br>Father's wife ? mother. Hence, the daughter of the mother means sister and sister's younger brother means brother. Therefore, the boy is the brother of Deepak.<br><b>Example 2:</b><br>Pointing to a woman, Abhijit said, \"Her granddaughter is the only daughter of my brother.\" How is the woman related to Abhijit?<br>Soln:<br>Daughter of Abhijit's brother ? niece of Abhijit. Thus the granddaughter of the woman is Abhijit's niece.<br>Hence, the woman is the mother of Abhijit.<br><br>",
+            "practicelinks": [
+                "http://www.edugoog.com/blood-relations/question-answer/1.html",
+                "http://www.mastguru.com/blood-relation-questions-answers/question/100"
+            ]
+        },
+        {
+            "question": "If 'orange' is called 'butter', 'butter' is called 'soap', 'soap' is called 'ink', 'ink' is called 'honey' and 'honey' is called 'orange', which of the following is used for washing clothes ?",
+            "options": [
+                "=Ink",
+                "~Honey",
+                "~Butter",
+                "~Soap"
+            ],
+            "id": "618",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-18.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:<b><br>If orange is called butter, butter is called soap, soap is called ink, ink is called honey and honey is called orange, which of the following is used for washing clothes ?<br><br>Clearly, 'soap' is used for washing the clothes.<br>But, 'soap' is called 'ink'.<br>So, 'ink' is used for washing the clothes.<br><br><b>Example 2:</b><br>If ‘light’ is called ‘dark’, ‘dark’ is called ‘green’, ‘green’ is called ‘blue’, ‘blue’ is called ‘red’, ‘red’ is called ‘white’ and ‘white’ is called ‘yellow’, what is the colour of blood?<br>Color of human blood is red<br>Here red is called white.  Hence answer is white.<br><br>",
+            "practicelinks": [
+                "http://careerride.com/online-logical-reasoning-test-3.aspx",
+                "http://www.edugoog.com/details/orange-is-called-butter-butter-is-called-soap-soap-is-called-ink-ink-is-called-honey-and-honey-is-called-orange-which-of-following-is-used-for-washing-clothes-substitution-coding.html"
+            ]
+        },
+        {
+            "question": "If A is coded as 2, B as 3 and so on, what is the code for FACE?",
+            "options": [
+                "~7346",
+                "~6357",
+                "~6245",
+                "=7246"
+            ],
+            "id": "619",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-19.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>If PALAM could be given the code number 43, what code number can be given to SANTACRUZ?<br>In the given code, A = 1,<br>B = 2,<br>C = 3,...... , Z = 26<br>So PALAM = 16 + 1 + 12 + 1 + 13 = 43.<br>Similarly, SANTACRUZ = 19 + 1 + 14 + 20 + 1 + 3 + 18 + 21 + 26 = 123<br><b>Example 2:</b><br>If Z = 52 and ACT = 48, then BAT will be equal to<br>In the given code, A = 2,<br>B = 4,<br>C = 6,...... , Z = 52<br>BAT = 4+2+40 = 46<br><br>",
+            "practicelinks": [
+                "http://www.edugoog.com/coding-decoding/question-answer/number-to-letter-coding/1.html",
+                "http://www.mastguru.com/coding-decoding-questions-answers/question/109/2"
+            ]
+        },
+        {
+            "question": "If in a certain language, TRIANGLE is coded SQHZMFKD, then which word would be coded as DWZLOKD?",
+            "options": [
+                "~DISMISS",
+                "=EXAMPLE",
+                "~FIGMENT",
+                "~DISJOIN"
+            ],
+            "id": "620",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-20.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>FAG, GAF, HAI, IAH, ____<br>The middle letters are static, so concentrate on the first and third letters. The series involves an alphabetical order with a reversal of the letters. The first letters are in alphabetical order: F, G, H, I , J. The second and fourth segments are reversals of the first and third segments. The missing segment begins with a new letter.<br>Answer is JAK<br><b>Example 2:</b><br>In following alphabet series , one term missing as shown by Question- mark . Choose missing term from options.<br>AZ, CX, FU, ?<br>The first letter of the first, second, third, .... terms are respectively moved two, three, four, ... steps forward to obtain the first letter of the successive term.<br>The second letter of the first, second, third.... terms are respectively moved two, three, four, ... steps backward to obtain the second letter of the successive terms.<br><br>",
+            "practicelinks": [
+                "http://www.edugoog.com/details/az-cx-fu-alphabet-series.html",
+                "http://www.indiabix.com/logical-reasoning/letter-and-symbol-series/"
+            ]
+        },
+        {
+            "question": "If ROSE is coded as 6821, CHAIR is coded as 73456 and PREACH is coded as 961473, what will be the code for REACH?",
+            "options": [
+                "~216473",
+                "~246173",
+                "=61473",
+                "~214763"
+            ],
+            "id": "621",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-21.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>FAG, GAF, HAI, IAH, ____<br>The middle letters are static, so concentrate on the first and third letters. The series involves an alphabetical order with a reversal of the letters. The first letters are in alphabetical order: F, G, H, I , J. The second and fourth segments are reversals of the first and third segments. The missing segment begins with a new letter.<br>Answer is JAK<br><b>Example 2:</b><br>In following alphabet series , one term missing as shown by Question- mark . Choose missing term from options.<br>AZ, CX, FU, ?<br>The first letter of the first, second, third, .... terms are respectively moved two, three, four, ... steps forward to obtain the first letter of the successive term.<br>The second letter of the first, second, third.... terms are respectively moved two, three, four, ... steps backward to obtain the second letter of the successive terms.<br><br>",
+            "practicelinks": [
+                "http://www.edugoog.com/details/az-cx-fu-alphabet-series.html",
+                "http://www.indiabix.com/logical-reasoning/letter-and-symbol-series/"
+            ]
+        },
+        {
+            "question": "If 'eraser' is called 'box', 'box' is called 'pencil', 'pencil' is called 'sharpener', and 'sharpener' is called 'bag', what will a child sharp with?",
+            "options": [
+                "~Eraser",
+                "~Pencil",
+                "=Bag",
+                "~Sharpner"
+            ],
+            "id": "622",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-22.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br> If orange is called butter, butter is called soap, soap is called ink, ink is called honey and honey is called orange, which of the following is used for washing clothes ?<br><br>Clearly, 'soap' is used for washing the clothes.<br>But, 'soap' is called 'ink'.<br>So, 'ink' is used for washing the clothes.<br><br><b>Example 2:</b><br>If ‘light’ is called ‘dark’, ‘dark’ is called ‘green’, ‘green’ is called ‘blue’, ‘blue’ is called ‘red’, ‘red’ is called ‘white’ and ‘white’ is called ‘yellow’, what is the colour of blood?<br>Color of human blood is red<br>Here red is called white.  Hence answer is white.<br><br>",
+            "practicelinks": [
+                "http://careerride.com/online-logical-reasoning-test-3.aspx",
+                "http://www.edugoog.com/details/orange-is-called-butter-butter-is-called-soap-soap-is-called-ink-ink-is-called-honey-and-honey-is-called-orange-which-of-following-is-used-for-washing-clothes-substitution-coding.html"
+            ]
+        },
+        {
+            "question": "There are five different houses, A to E in a row. A is to the right of B and E is to the left of C and right of A. B is to the right of D. Which of the houses comes first? ",
+            "options": [
+                "~A",
+                "~B",
+                "~E",
+                "=D"
+            ],
+            "id": "623",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-23.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>A, P, R, X, S and Z are sitting in a row. S and Z are in the centre. A and P are at the ends. R is sitting to the left of A. Who is to the right of P ?<br><br>Solution:<br>The seating arrangement is as follows:<br> <br>Therefore, right of P is X.<br><b>Example 2:</b><br>A, B, C, D and E are sitting on a bench. A is sitting next to B, C is sitting next to D, D is not sitting with E who is on the left end of the bench. C is on the second position from the right. A is to the right of B and E. A and C are sitting together. In which position A is sitting ?<br><br>Soln:<br> <br>Therefore, A is sitting in between B and C.<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/verbal-reasoning/seating-arrangement/",
+                "http://www.mastguru.com/seating-arrangement-questions-answers/question/108"
+            ]
+        },
+        {
+            "question": "Four girls are sitting on a bench to be photographed. Shikha is to the left of Reena. Manju is to the right of Reena. Rita is between Reena and Manju. Who would be last from the left in the photograph?",
+            "options": [
+                "~Reena",
+                "~Shikha",
+                "~Rita",
+                "=Manju"
+            ],
+            "id": "624",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-24.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>A, P, R, X, S and Z are sitting in a row. S and Z are in the centre. A and P are at the ends. R is sitting to the left of A. Who is to the right of P ?<br><br>Solution:<br>The seating arrangement is as follows:<br> <br>Therefore, right of P is X.<br><b>Example 2:</b><br>A, B, C, D and E are sitting on a bench. A is sitting next to B, C is sitting next to D, D is not sitting with E who is on the left end of the bench. C is on the second position from the right. A is to the right of B and E. A and C are sitting together. In which position A is sitting ?<br><br>Soln:<br> <br>Therefore, A is sitting in between B and C.<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/verbal-reasoning/seating-arrangement/",
+                "http://www.mastguru.com/seating-arrangement-questions-answers/question/108"
+            ]
+        },
+        {
+            "question": "If COBRA can be written as 3152181, how can ZEBRA be written?",
+            "options": [
+                "~302181",
+                "=2652181",
+                "~31822151",
+                "~1182153"
+            ],
+            "id": "625",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-25.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>If PALAM could be given the code number 43, what code number can be given to SANTACRUZ?<br>In the given code, A = 1,<br>B = 2,<br>C = 3,...... , Z = 26<br>So PALAM = 16 + 1 + 12 + 1 + 13 = 43.<br>Similarly, SANTACRUZ = 19 + 1 + 14 + 20 + 1 + 3 + 18 + 21 + 26 = 123<br><b>Example 2:</b><br>If Z = 52 and ACT = 48, then BAT will be equal to<br>In the given code, A = 2,<br>B = 4,<br>C = 6,...... , Z = 52<br>BAT = 4+2+40 = 46<br><br>",
+            "practicelinks": [
+                "http://www.edugoog.com/coding-decoding/question-answer/number-to-letter-coding/1.html",
+                "http://www.mastguru.com/coding-decoding-questions-answers/question/109/2"
+            ]
+        },
+        {
+            "question": "If FRIEND is coded as HUMJTK, how can HANDLE be written in that code?",
+            "options": [
+                "~DEQJQM",
+                "=JDRIRL",
+                "~DCQHQK",
+                "~ESJFME"
+            ],
+            "id": "626",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-26.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>If FRIEND is coded as HUMJTK, how is CANDLE written in that code ?<br><br>Soln:<br>The first, second, third, fourth, fifth and sixth letters of th word are respectively moved two, three, four, five, six and seven steps forward to obtain the corresponding letters of the code.<br><br>So CANDLE will be coded as EDRIRL.<br><br>If in a certain language, MADRAS is coded as NBESBT, how is BOMBAY coded in that code ?<br>Each letter in the word is moved one step forward to obtain the corresponding letter of the code.<br>Answer is  CPNCBZ<br><br>",
+            "practicelinks": [
+                "http://www.edugoog.com/coding-decoding/question-answer/letter-coding/1.html",
+                "http://www.mastguru.com/logical-reasoning-questions-answers/sub-topic/11"
+            ]
+        },
+        {
+            "question": "JE, LH,? , SQ, XW",
+            "options": [
+                "=OL",
+                "~WX",
+                "~VW",
+                "~XW"
+            ],
+            "id": "627",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-27.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>If FRIEND is coded as HUMJTK, how is CANDLE written in that code ?<br><br>Soln:<br>The first, second, third, fourth, fifth and sixth letters of th word are respectively moved two, three, four, five, six and seven steps forward to obtain the corresponding letters of the code.<br><br>So CANDLE will be coded as EDRIRL.<br><br>If in a certain language, MADRAS is coded as NBESBT, how is BOMBAY coded in that code ?<br>Each letter in the word is moved one step forward to obtain the corresponding letter of the code.<br>Answer is  CPNCBZ<br> <br>",
+            "practicelinks": [
+                "http://www.edugoog.com/coding-decoding/question-answer/letter-coding/1.html",
+                "http://www.mastguru.com/logical-reasoning-questions-answers/sub-topic/11"
+            ]
+        },
+        {
+            "question": "CMW, HRB, MWG, RBL, ?, BLV ",
+            "options": [
+                "~MWG",
+                "=WGQ",
+                "~LWG",
+                "~WMX"
+            ],
+            "id": "628",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-28.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>If FRIEND is coded as HUMJTK, how is CANDLE written in that code ?<br><br>Soln:<br>The first, second, third, fourth, fifth and sixth letters of th word are respectively moved two, three, four, five, six and seven steps forward to obtain the corresponding letters of the code.<br><br>So CANDLE will be coded as EDRIRL.<br><br>If in a certain language, MADRAS is coded as NBESBT, how is BOMBAY coded in that code ?<br>Each letter in the word is moved one step forward to obtain the corresponding letter of the code.<br>Answer is  CPNCBZ<br><br>",
+            "practicelinks": [
+                "http://www.edugoog.com/coding-decoding/question-answer/letter-coding/1.html",
+                "http://www.mastguru.com/logical-reasoning-questions-answers/sub-topic/11"
+            ]
+        },
+        {
+            "question": "Read the following information carefully and answer the questions given below it: <br>a. There are five friends <br>b. They are standing in a row facing South. <br>c. Jayant is to the immediate right to Anant. <br>d. Pradeep is between Bhagat and Sapan. <br>e. Sapan is between Jayant and Pradeep. <br>Who is at the extreme left end? ",
+            "options": [
+                "=Anant",
+                "~Bhagat ",
+                "~Sapan ",
+                "~Inadequate Data"
+            ],
+            "id": "629",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-29.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>A, P, R, X, S and Z are sitting in a row. S and Z are in the centre. A and P are at the ends. R is sitting to the left of A. Who is to the right of P ?<br><br>Solution:<br>The seating arrangement is as follows:<br><img src=\"static/Reasoning-fb/images/29.1.jpg\" alt=\"image\"><br>Therefore, right of P is X.<br><b>Example 2:</b><br>A, B, C, D and E are sitting on a bench. A is sitting next to B, C is sitting next to D, D is not sitting with E who is on the left end of the bench. C is on the second position from the right. A is to the right of B and E. A and C are sitting together. In which position A is sitting ?<br><br>Soln:<br><img src=\"static/Reasoning-fb/images/29.2.jpg\" alt=\"image\"><br>Therefore, A is sitting in between B and C.<br><br>",
+            "practicelinks": [
+                "http://www.indiabix.com/verbal-reasoning/seating-arrangement/",
+                "http://www.mastguru.com/seating-arrangement-questions-answers/question/108"
+            ]
+        },
+        {
+            "question": "Six people: C, D, E, F, G and H are standing in a straight line facing north not necessarily in the same order. D is standing second to the right of F.C is standing fourth to the left of H and H is not standing on the extreme end of the line. E is standing second to the right of D. <br>If all the people are asked to stand in an alphabetical order from left to right, position of how many will remain unchanged. ",
+            "options": [
+                "=One ",
+                "~Two ",
+                "~Three ",
+                "~Four "
+            ],
+            "id": "630",
+            "answer": "<iframe width=\"560\" height=\"315\" src=\"static/Reasoning-fb/res-30.mp4\" frameborder=\"0\" allowfullscreen></iframe>",
+            "examples": "<b>Example 1:</b><br>A, P, R, X, S and Z are sitting in a row. S and Z are in the centre. A and P are at the ends. R is sitting to the left of A. Who is to the right of P ?<br><br>Solution:<br>The seating arrangement is as follows:<br><img src=\"static/Reasoning-fb/images/30.1.jpg\" alt=\"image\"><br>Therefore, right of P is X.<br><b>Example 2:</b><br>A, B, C, D and E are sitting on a bench. A is sitting next to B, C is sitting next to D, D is not sitting with E who is on the left end of the bench. C is on the second position from the right. A is to the right of B and E. A and C are sitting together. In which position A is sitting ?<br><br>Soln:<br><img src=\"static/Reasoning-fb/images/30.2.jpg\" alt=\"image\"><br>Therefore, A is sitting in between B and C.<br>",
+            "practicelinks": [
+                "http://www.indiabix.com/verbal-reasoning/seating-arrangement/",
+                "http://www.mastguru.com/seating-arrangement-questions-answers/question/108"
+            ]
+        }
+    ]
+}
