@@ -12,7 +12,7 @@
                 },
                 {
                     "name": "A2-Reading",
-                    "passageArray": [],
+                    "LRArray": [],
                     "types": "passage"
                 },
                 {
@@ -26,12 +26,6 @@
                     "questions": [],
                     "types": "question",
                     "note": ""
-                },
-                {
-                    "name": "A5-Composition",
-                    "questions": [],
-                    "types": "essay",
-                    "note": "Write The Essay Here"
                 }
             ]
         },
@@ -40,26 +34,14 @@
             "subsection": [
                 {
                     "name": "E1-Reading",
-                    "passageArray": [],
+                    "LRArray": [],
                     "types": "passage"
                 },
                 {
                     "name": "E2-Listening",
-                    "videoArray": [],
+                    "LRArray": [],
                     "note": "Listen to the video given and answer the following questions:",
                     "types": "video"
-                },
-                {
-                    "name": "E3-Speaking",
-                    "questions": [],
-                    "types": "record",
-                    "note": ""
-                },
-                {
-                    "name": "E4-Writing",
-                    "questions": [],
-                    "types": "essay",
-                    "note": "Write the essay here"
                 }
             ]
         },
@@ -68,13 +50,13 @@
             "subsection": [
                 {
                     "name": "T1-Reading",
-                    "passageArray": [],
+                    "LRArray": [],
                     "types": "passage"
                     
                 },
                 {
                     "name": "T2-Listening",
-                    "videoArray": [],
+                    "LRArray": [],
                     "note": "Listen to the video given and answer the following questions:",
                     "types": "video"
                 }

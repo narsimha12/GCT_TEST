@@ -135,7 +135,7 @@ var feedbackView={
 			},
 		displayPassage : function(data) {
 			var q = data;
-			var anstext = q.answer;
+			var anstext = q.answer.trim();
 			var psg = q.subsections.passage;
 			var startpos = psg.search(anstext);
 			if(startpos == -1){

@@ -37,21 +37,37 @@ $(function() {
 								$.each(value, function(index, value) {
 									var subsections = value;
 									$.each(subsections, function(key, value) {
+										console.log("type: "+subsections.types);
 										if (key == "questions") {
-											function compare(a,b) {
-												if (a.serialno < b.serialno)
-													return -1;
-												if (a.serialno > b.serialno)
-													return 1;
-												return 0;
-											}
-											value.sort(compare);
 											$.each(value, function(index, value){
 												value.section = sections.name;
 												value.subsections = subsections;
 												value.options = Randomiser.shuffle(value.options);
-
 												questionsArray.push(value);
+											});
+										}
+										else if(key == "LRArray"){
+											var array=value;
+											$.each(array,function(key,value){
+												var pval=value;
+												$.each(value,function(key,value){
+													if(key == "questions"){
+														var qval=value;
+														$.each(qval, function(index, value){
+															value.section = sections.name;
+															value.subsections = subsections;
+															if(subsections.types == "video"){
+																value.link = pval.link;
+															}
+															else{
+																value.passage = pval.passage;
+															}
+															value.options = Randomiser.shuffle(value.options);
+															questionsArray.push(value);
+														});
+													}
+												});
+												
 											});
 										}
 									});
@@ -343,11 +359,12 @@ $(function() {
 		},
 		render : function() {
 			var q = quizModel.question;
+			this.questionNote.html("");
 			this.sectionName.html("<h4>");
 			this.sectionName.append(q.section + "&nbsp; - &nbsp;");
 			this.sectionName.append(q.subsections.name);
 			this.sectionName.append("</h4>");
-			this.questionNote.html('<p class="lead">' + q.subsections.note + '</p>');
+			//this.questionNote.html('<p class="lead">' + q.subsections.note + '</p>');
 			this.questionPane.html('<p class="lead">' + q.question + '</p>');
 
 			if (q.subsections.types == "passage"){
@@ -380,26 +397,10 @@ $(function() {
 			clearInterval(this.myvar);
 		},
 
-		displayQuestion : function(q) {
-			var optionsHTML = '<div>' + q.question + '</div>';
-			for (var i = 0; i < q.options.length; i++) {
-				var optionText = q.options[i].substring(1, q.options[i].length);
-				optionsHTML += '<div class="radio">';
-				optionsHTML += '<label><input type="radio" name="optionsRadios" id="optionsRadios1" value="' + optionText + '"';
-				if(q.status && q.responseAnswer == optionText)
-					optionsHTML += 'checked';
-				optionsHTML += '>' + optionText + '</label>';
-				optionsHTML += '</div>';
-			}
-			optionsHTML += '<div class="radio">';
-			optionsHTML += '<label><input type="radio" name="optionsRadios" id="optionsRadios1" value="skip">Skip Question</label>';
-			optionsHTML += '</div>';
-			return optionsHTML;
-		},
-
 		displayPassage : function() {
+			this.questionNote.html("");
 			var q = quizModel.question;
-			this.questionNote.append('<div>' + q.subsections.passage +'</div>');
+			this.questionNote.append('<div>' + q.passage +'</div>');
 		},
 
 		displayEssay : function() {
@@ -413,8 +414,9 @@ $(function() {
 		},
 
 		displayVideo : function() {
+			this.questionNote.html("");
 			var q = quizModel.question;
-			this.questionNote.append(q.subsections.link);
+			this.questionNote.append(q.link);
 		},
 
 		displayRecording : function() {

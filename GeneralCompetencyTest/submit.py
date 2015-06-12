@@ -343,7 +343,7 @@ class TestDetails(ndb.Model):
     testend= ndb.BooleanProperty(default=False)
     lastPing = ndb.DateTimeProperty(auto_now_add=True)
     score = ndb.IntegerProperty(indexed = True)
-
+    learningcenter = ndb.StringProperty(indexed=True)
 class Response(ndb.Model):
     """Sub model for representing question details"""
     useremailid = ndb.StructuredProperty(User)
@@ -816,10 +816,13 @@ class endtest(webapp2.RequestHandler):
             score = val['finalScore']
             print(testend)
             data1 = TestDetails.query(TestDetails.email == user.email()).get()
+            userdata=userDetails.query(userDetails.email == user.email()).get()
+            learningcenter=userdata.learningcenter
             print(user.email())      
             if data1:
                 data1.testend = testend
                 data1.score = score
+                data1.learningcenter=learningcenter
                 data1.put()
 
 application = webapp2.WSGIApplication([
