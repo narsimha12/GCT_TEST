@@ -373,8 +373,8 @@
             "question": "Bala hopes that Dinesh will win the race.",
             "options": [
                 "=Bala hopes that Dinesh will win the race.",
-                "~Balahope that Dinesh wins the race.",
-                "~Balawill hoping that Dinesh will win the race.",
+                "~Bala hope that Dinesh wins the race.",
+                "~Bala will hoping that Dinesh will win the race.",
                 "~Bala hoped that Dinesh won the race."
             ],
             "id": "124",

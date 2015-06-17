@@ -213,7 +213,7 @@ var octopus = {
 			progressView.timeBox.html("");
 			resultView.init();
 			//console.log("score="+resultView.totalScore);
-			var data = {"testend":true, "finalScore": resultView.finalScore};
+			var data = {"testend":true, "finalScore": resultView.finalScore,"spklink": resultView.spklink};
 
 			data=JSON.stringify({jsonData: data});
 			//console.log("endtest" + data);
@@ -628,6 +628,7 @@ var resultView = {
 			octopus.getResults();
 			this.questionPane.html("");
 			totalScore = 0;
+			spklink ="";
 			count=0;
 			var table = document.createElement("TABLE");
 			this.questionPane.append(table);
@@ -668,6 +669,9 @@ var resultView = {
 				});
 				var t4 = document.createTextNode(section);
 				td4.appendChild(t4);
+				if(section=="E3-Speaking"){
+					spklink=value.submittedans;
+				}
 				var td5 = document.createElement("TD");
 				var t5 = document.createTextNode(value.q_score);
 				td5.appendChild(t5);
@@ -709,6 +713,7 @@ var resultView = {
 			//this.questionPane.hide();
 			this.navBar.hide();
 			this.finalScore = totalScore;
+			this.spklink = spklink;
 			console.log(this.finalScore);
 		},
 	

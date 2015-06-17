@@ -344,6 +344,7 @@ class TestDetails(ndb.Model):
     lastPing = ndb.DateTimeProperty(auto_now_add=True)
     score = ndb.IntegerProperty(indexed = True)
     learningcenter = ndb.StringProperty(indexed=True)
+    useraudiolink =ndb.StringProperty(indexed=True)
 class Response(ndb.Model):
     """Sub model for representing question details"""
     useremailid = ndb.StructuredProperty(User)
@@ -814,6 +815,7 @@ class endtest(webapp2.RequestHandler):
             logging.error("error in finalScore")
             testend = val['testend']
             score = val['finalScore']
+            spklink = val['spklink']
             print(testend)
             data1 = TestDetails.query(TestDetails.email == user.email()).get()
             userdata=userDetails.query(userDetails.email == user.email()).get()
@@ -822,7 +824,8 @@ class endtest(webapp2.RequestHandler):
             if data1:
                 data1.testend = testend
                 data1.score = score
-                data1.learningcenter=learningcenter
+                data1.learningcenter = learningcenter
+                data1.useraudiolink = spklink
                 data1.put()
 
 application = webapp2.WSGIApplication([

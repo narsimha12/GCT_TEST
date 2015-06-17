@@ -98,9 +98,10 @@ class checklogin(webapp2.RequestHandler):
           template= JINJA_ENVIRONMENT.get_template('admin.html')
           self.response.write(template.render())
         else:
-          #Response(useremailid=User(emailid=user.email(),name=user.nickname())).put()
-          template= JINJA_ENVIRONMENT.get_template('admin.html')
-          self.response.write(template.render())
+          users.create_logout_url('/')
+          login_url = users.create_login_url(self.request.path)
+          #self.redirect(login_url)
+          self.response.write("<center><h3><font color='red'>Invalid Admin Credentials</font></h3><h3>Please <a href='%s'>Login</a> Again</h3></center>"% login_url);
 class ViewQB(webapp2.RequestHandler):
   def get(self):
     user = users.get_current_user()
@@ -120,12 +121,15 @@ class Home(webapp2.RequestHandler):
       self.redirect(login_url)
       return
     else:
-      template_values = {'home':True}
-      #template = JINJA_ENVIRONMENT.get_template('admin.html')
-      template = JINJA_ENVIRONMENT.get_template('admin.html')
-      self.response.write(template.render(template_values))
-
-
+      if user.email() in ADMIN_USER_IDS:
+        template_values = {'home':True}
+        template= JINJA_ENVIRONMENT.get_template('admin.html')
+        self.response.write(template.render(template_values))
+      else:
+        users.create_logout_url('/')
+        login_url = users.create_login_url(self.request.path)
+        #self.redirect(login_url)
+        self.response.write("<center><h3><font color='red'>Invalid Admin Credentials</font></h3><h3>Please <a href='%s'>Login</a> Again</h3></center>"% login_url);
 class AdminHome(webapp2.RequestHandler):
   def  get(self):
     user = users.get_current_user()
