@@ -27,6 +27,11 @@
 			document.f1.action="/admin/downloadcsv/"+filename;
 			document.f1.submit();
 		}
+		function getaudio(){
+			var lc=document.getElementById("learningcenter").value
+			document.f1.action="/admin/getaudiolinks/"+lc;
+			document.f1.submit();
+		}
 		</script>
 	</head>
 	<body>
@@ -57,9 +62,62 @@
 						<input type="button" value="Get Report" class="btn btn-primary" onclick="getmail()" />
 					</div>
 				</div>
-				
+				<div class="row"><br></div>
+				<div class="row">
+					<div class="col-md-2">
+						<label for="to">Select Learning Center:</label>
+					</div>
+					<div class="col-md-10">
+						<select id="learningcenter" class="form-control">
+								<option value="Basara">Basara</option>
+								<option value="Nuzvid">Nuzvid</option>
+								<option value="RK Valley">RK Valley</option>
+								<option value="Others">Others</option>
+						</select>
+					</div>
+				</div>
+				<div class="row"><br></div>
+				<div class="row">
+					<div class="col-md-10">
+						<input type="button" value="Get Audio Links" class="btn btn-primary" onclick="getaudio()" />
+					</div>
+				</div>
 			</form>
-			
+			<table class="table table-bordered">
+				<tr>
+					<td align="center"><b>Essay Downloads</b></td>
+					<td align="center"><a href="/admin/getessay/Basara_userids">Basara</a></td>
+					<td align="center"><a href="/admin/getessay/nuz_userids">Nuziveedu</a></td>
+					<td align="center"><a href="/admin/getessay/RKV_userids">RKV</a></td>
+					
+				</tr>
+			</table>
+			<table class="table table-bordered">
+				<tr>
+					<td align="center"><b>Mean and STD Reports </b></td>
+					<td align="center"><a href="/admin/getmeanstd/Basara_userids">Basara</a></td>
+					<td align="center"><a href="/admin/getmeanstd/nuz_userids">Nuziveedu</a></td>
+					<td align="center"><a href="/admin/getmeanstd/RKV_userids">RKV</a></td>
+				</tr>
+				<tr>
+					<td align="center"><b>Mean and STD Apti Reports </b></td>
+					<td align="center"><a href="/admin/getmeanstd_apti/Basara_userids">Basara</a></td>
+					<td align="center"><a href="/admin/getmeanstd_apti/nuz_userids">Nuziveedu</a></td>
+					<td align="center"><a href="/admin/getmeanstd_apti/RKV_userids">RKV</a></td>
+				</tr>
+				<tr>
+					<td align="center"><b>Mean and STD TOEFL Reports </b></td>
+					<td align="center"><a href="/admin/getmeanstd_toefl/Basara_userids">Basara</a></td>
+					<td align="center"><a href="/admin/getmeanstd_toefl/nuz_userids">Nuziveedu</a></td>
+					<td align="center"><a href="/admin/getmeanstd_toefl/RKV_userids">RKV</a></td>
+				</tr>
+				<tr>
+				<td align="center"><b>Mean and STD TELUGU Reports </b></td>
+					<td align="center"><a href="/admin/getMeanStd_telugu/Basara_userids">Basara</a></td>
+					<td align="center"><a href="/admin/getMeanStd_telugu/nuz_userids">Nuziveedu</a></td>
+					<td align="center"><a href="/admin/getMeanStd_telugu/RKV_userids">RKV</a></td>	
+				</tr>
+			</table>
 		{% else %}
 		<table class="table table-bordered">
 			
@@ -76,7 +134,30 @@
 			{% for key,value in tests.items()%}
 			<tr><td align="left"><a href="/admin/quizdetails/{{key}}">{{key}}</a></td><td align="left">{{value}}</td><td align="left">Open</td><td><a href="#">Send Invites</a></td></tr>
 			{%endfor%}
-			
+			{% elif quizdata %}
+			<tr><td align="left"><a href="/admin/"><b>Back</b></a></td><td colspan="4" align="center"><b>Quiz Report</b></td><td><a href="/admin/downloadcsv_user/{{useremailid}}">Download CSV</a></td></tr>
+			<tr><td colspan="6" align="center"><b>Total Score: {{score}}</b></td></tr>
+			<tr><td align="left"><b>Question ID</b></td><td align="left"><b>Question</b></td><td align="left"><b>Score</b></td><td align="left"><b>Submitted Answer</b></td><td align="left"><b>Correct Answer</b></td><td align="left"><b>Response Time</b></td></tr>
+			{% for data in quizdata %}
+				
+				{% if data.q_score == 0 %}
+				<tr class="danger">
+				{% else %}
+				<tr class="success">
+				{% endif %}
+				<td align="left">{{loop.index}}</td><td align="left">{{questionslist[loop.index-1]}}</td><td align="left">{{data.q_score}}</td>
+				{%if loop.index == 28 %}
+				<td align="left"><a href="{{data.submittedans}}" target="_blank">{{data.submittedans}}</a></td>
+				{% else %}
+				<td align="left">{{data.submittedans}}</td>
+				{%endif%}
+				<td align="left">{{correctAnslist[loop.index-1]}}</td><td align="left">{{data.responsetime}}</td></tr>
+			{% endfor %}
+			{% elif audiodata %}
+				<tr><td align="left"><b>UserID</b></td><td align="left"><b>AudioLink</b></td></tr>
+				{% for key,value in audiodata.items()%}
+				<tr><td align="left"><a href="/admin/quizdetails/{{key}}">{{key}}</a></td><td align="left"><a href="{{value}}">{{value}}</a></td></tr>
+				{%endfor%}
 			{% else %}
 			
 			<tr><td colspan="4" align="center"><font color="red">No Data Found!</font></td></tr>

@@ -344,7 +344,7 @@ class TestDetails(ndb.Model):
     lastPing = ndb.DateTimeProperty(auto_now_add=True)
     score = ndb.IntegerProperty(indexed = True)
     learningcenter = ndb.StringProperty(indexed=True)
-    useraudiolink =ndb.StringProperty(indexed=True)
+    #useraudiolink =ndb.StringProperty(indexed=True)
 class Response(ndb.Model):
     """Sub model for representing question details"""
     useremailid = ndb.StructuredProperty(User)
@@ -825,7 +825,7 @@ class endtest(webapp2.RequestHandler):
                 data1.testend = testend
                 data1.score = score
                 data1.learningcenter = learningcenter
-                data1.useraudiolink = spklink
+                #data1.useraudiolink = spklink
                 data1.put()
 
 application = webapp2.WSGIApplication([

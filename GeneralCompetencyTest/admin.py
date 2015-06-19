@@ -70,6 +70,108 @@ def getAllQuestions():
                                 subs["LRArray"]=video_list
     #ss=json.dumps(json_temp)
     return json_temp
+def getQuestionPaper(qid_list):
+    
+    json_temp=json.loads(open('QP_template.json').read())
+    #print qid_list
+    i=0;j=0;k=0;l=0;m=0;n=0;p=0;q=0;r=0;s=0;t=0
+    for qid in qid_list:
+        qid=int(qid)
+        if qid in range(a1_start,a1_end):
+              a1_sentjson=json.loads(open('A1-Sentences.json').read())
+              for key in a1_sentjson["questions"]:
+                    logging.error("questions with sno")
+                    print(key["id"])
+                    if int(key["id"]) == qid:
+                          #print key
+                          json_temp["section"][0]["subsection"][0]["questions"].append(key)
+                          json_temp["section"][0]["subsection"][0]["questions"][i]["serialno"] = qid_list[qid]
+                          i +=1
+        if qid in range(a2_start,a2_end):
+              a2_readjson=json.loads(open('A2-Reading.json').read())
+              for key in a2_readjson["passageArray"]:
+                    pid=key["questions"][0]["id"]
+                    if int(pid) == qid:
+                          json_temp["section"][0]["subsection"][1]["passage"]=key["passage"]
+                          json_temp["section"][0]["subsection"][1]["questions"]=key["questions"]
+                          json_temp["section"][0]["subsection"][1]["questions"][0]["serialno"] = qid_list[qid]
+        if qid in range(a3_start,a3_end):
+              a3_numjson=json.loads(open('A3-Numerical.json').read())
+              for key in a3_numjson["questions"]:
+                    if int(key["id"]) == qid:
+                          json_temp["section"][0]["subsection"][2]["questions"].append(key)
+                          json_temp["section"][0]["subsection"][2]["questions"][j]["serialno"] = qid_list[qid]
+                          j +=1
+        if qid in range(a4_start,a4_end):
+              a4_reasjson=json.loads(open('A4-Reasoning.json').read())
+              for key in a4_reasjson["questions"]:
+                    if int(key["id"]) == qid:
+                          json_temp["section"][0]["subsection"][3]["questions"].append(key)
+                          json_temp["section"][0]["subsection"][3]["questions"][k]["serialno"] = qid_list[qid]
+                          k +=1
+        if qid in range(a5_start,a5_end):
+              a5_essayjson=json.loads(open('A5-Composition.json').read())
+              for key in a5_essayjson["questions"]:
+                    if int(key["id"]) == qid:
+                          json_temp["section"][0]["subsection"][4]["questions"].append(key)
+                          json_temp["section"][0]["subsection"][4]["questions"][l]["serialno"] = qid_list[qid]
+                          l += 1
+        if qid in range(e1_start,e1_end):
+              e1_readjson=json.loads(open('E1-Reading.json').read())
+              for key in e1_readjson["passageArray"]:
+                    for qn in key["questions"]:
+                          pid=qn["id"]
+                          if int(pid) == qid:
+                                json_temp["section"][1]["subsection"][0]["passage"]=key["passage"]
+                                json_temp["section"][1]["subsection"][0]["questions"].append(qn)
+                                json_temp["section"][1]["subsection"][0]["questions"][m]["serialno"] = qid_list[qid]
+                                m +=1
+        if qid in range(e2_start,e2_end):
+              e2_lsnjson=json.loads(open('E2-Listening.json').read())
+              for key in e2_lsnjson["videoArray"]:
+                    for qn in key["questions"]:
+                          pid=qn["id"]
+                          if int(pid) == qid:
+                                json_temp["section"][1]["subsection"][1]["link"]=key["link"]
+                                json_temp["section"][1]["subsection"][1]["questions"].append(qn)
+                                json_temp["section"][1]["subsection"][1]["questions"][n]["serialno"] = qid_list[qid]
+                                n +=1
+        if qid in range(e3_start,e3_end):
+              e3_spkjson=json.loads(open('E3-Speaking.json').read())
+              for key in e3_spkjson["questions"]:
+                    if int(key["id"]) == qid:
+                          json_temp["section"][1]["subsection"][2]["questions"].append(key)
+                          json_temp["section"][1]["subsection"][2]["questions"][p]["serialno"] = qid_list[qid]
+                          p += 1
+        if qid in range(e4_start,e4_end):
+              e4_wrtjson=json.loads(open('E4-Writing.json').read())
+              for key in e4_wrtjson["questions"]:
+                    if int(key["id"]) == qid:
+                          json_temp["section"][1]["subsection"][3]["questions"].append(key)
+                          json_temp["section"][1]["subsection"][3]["questions"][q]["serialno"] = qid_list[qid]
+                          q += 1
+        if qid in range(t1_start,t1_end):
+              t1_readjson=json.loads(open('T1-Reading.json').read())
+              for key in t1_readjson["passageArray"]:
+                    for qn in key["questions"]:
+                          pid=qn["id"]
+                          if int(pid) == qid:
+                                json_temp["section"][2]["subsection"][0]["passage"]=key["passage"]
+                                json_temp["section"][2]["subsection"][0]["questions"].append(qn)
+                                json_temp["section"][2]["subsection"][0]["questions"][r]["serialno"] = qid_list[qid]
+                                r += 1
+        if qid in range(t2_start,t2_end):
+              t2_lsnjson=json.loads(open('T2-Listening.json').read())
+              for key in t2_lsnjson["videoArray"]:
+                    for qn in key["questions"]:
+                          pid=qn["id"]
+                          if int(pid) == qid:
+                                json_temp["section"][2]["subsection"][1]["link"]=key["link"]
+                                json_temp["section"][2]["subsection"][1]["questions"].append(qn)
+                                json_temp["section"][2]["subsection"][1]["questions"][s]["serialno"] = qid_list[qid]
+                                s += 1
+    #ss=json.dumps(json_temp)
+    return json_temp
 class RankEntity(ndb.Model):
   emailid=ndb.StringProperty(indexed=True)
   score=ndb.IntegerProperty(indexed=True)
@@ -222,6 +324,7 @@ class UserQuizReport(webapp2.RequestHandler):
           q1= Response.query(ndb.AND(Response.useremailid.emailid==umailid,Response.serialno!=None)).order(Response.serialno,-Response.time)
           q1.fetch()
           quizdata=[]
+          qid_list={}
           score=0
           for q in q1:
           	if not q.currentQuestion == None:
@@ -231,10 +334,9 @@ class UserQuizReport(webapp2.RequestHandler):
 		            quizdata.append(resp);
 		            if not q.q_score==None:
 		              score += q.q_score;
-          json_data=json.loads(open('quizdata.json').read())
-            #print(json_data )
-            #logging.error("This is an error message that will show in the console")
-            # finding the correct answer and updating the score
+          for respdata in quizdata:
+            qid_list[int(respdata.currentQuestion)] = respdata.serialno
+          json_data=getQuestionPaper(qid_list)
           questionslist=[];
           correctAnslist=[];
           for currentSection in json_data["section"]:
@@ -662,6 +764,27 @@ class get_QB(webapp2.RequestHandler):
     ss=json.dumps(json_data)
     self.response.headers.add_header('content-type', 'application/json', charset='utf-8')
     self.response.write(ss)
+class getAudiolinks(webapp2.RequestHandler):
+  def get(self,learningcenter):
+    userid_list=[]
+    audio_dict={}
+    td = TestDetails.query(TestDetails.learningcenter==learningcenter)
+    td.fetch()
+    for record in td:
+      userid_list.append(record.email);
+    for user in userid_list:
+      q2= Response.query(Response.useremailid.emailid==user).order(Response.serialno,-Response.time)
+      q2.fetch()
+      for resdata in q2:
+        if not resdata.currentQuestion == None:
+          qno=int(resdata.currentQuestion)
+          if qno in range(e3_start,e3_end):
+            audio_dict[user]=resdata.submittedans
+    template_values = {
+                'audiodata': audio_dict,
+                }
+    template = JINJA_ENVIRONMENT.get_template('admin.html')
+    self.response.write(template.render(template_values))
 application = webapp2.WSGIApplication([
     ('/admin/?',Home),
     ('/admin/adminhome',AdminHome),
@@ -675,4 +798,5 @@ application = webapp2.WSGIApplication([
     ('/admin/getmeanstd_toefl/([^/]+)?',getMeanStd_toefl),
     ('/admin/getMeanStd_telugu/([^/]+)?',getMeanStd_telugu),
     ('/admin/get_qb',get_QB),
+    ('/admin/getaudiolinks/([^/]+)?',getAudiolinks),
        ], debug=True)
