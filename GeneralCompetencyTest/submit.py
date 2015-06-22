@@ -579,21 +579,21 @@ class submitAnswer(webapp2.RequestHandler):
                 if submittedans == "skip":
                     validresponse="true"
                     q_status="skip"
-                elif currentQuestion in range(501,601):
+                elif currentQuestion in range(a5_start,a5_end):
                     q_status="submitted"
                     status="success"
                     validresponse="true"
-                elif currentQuestion in range(801,901):
+                elif currentQuestion in range(e3_start,e3_end):
                     r=UserAudio.query(UserAudio.user==user.email()).get()
                     if r :
                         q_status="submitted"
                         status="success"
                         validresponse="true"
                     else :
-                        q_status="unknown"
-                        status="error with record"
-                        validresponse="false"
-                elif currentQuestion in range(901,1001):
+                        q_status="submitted"
+                        status="success"
+                        validresponse="true"
+                elif currentQuestion in range(e4_start,e4_end):
                     q_status="submitted"
                     status="success"
                     validresponse="true"

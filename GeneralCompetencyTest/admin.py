@@ -520,14 +520,14 @@ class getMeanStd(webapp2.RequestHandler):
 				if not record.currentQuestion == None:
 					if not record.currentQuestion in score_dict:
 						score_dict[record.currentQuestion] = (record.q_score,record.responsetime)
-			for key in range(1,19):
+			for key in range(a1_start,a5_end):
 				key = str(key)
 				if key in score_dict:
 					apt_score += score_dict[key][0]
 					apt_rt +=score_dict[key][1]
 					if score_dict[key][0] == 1:
 						apt_correct_rt += score_dict[key][1]
-			for key in range(20,28):
+			for key in range(e1_start,e4_end):
 				key = str(key)
 				if key in score_dict:
 					toefl_score += score_dict[key][0]
@@ -538,7 +538,7 @@ class getMeanStd(webapp2.RequestHandler):
 			users_total_score.append(total_score);
 			if not apt_rt == 0:
 				usercount +=1;
-				row=[user,apt_score,toefl_score,round(apt_rt/10,1),round(toefl_rt/10,1),round(apt_correct_rt/10,1),round(toefl_correct_rt/10,1)];
+				row=[user,apt_score,toefl_score,round(apt_rt,1),round(toefl_rt,1),round(apt_correct_rt,1),round(toefl_correct_rt,1)];
 				writer.writerow(row);
 		final_score=0;
 		for sc in users_total_score:
